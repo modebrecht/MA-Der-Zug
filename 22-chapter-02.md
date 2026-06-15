@@ -1,12 +1,12 @@
 # Chapter 2 — Halt
 
-> **Status:** BEAT PLAN ONLY — awaiting workflow approval / “Go” before prose  
+> **Status:** BEAT PLAN ONLY — control pass complete; awaiting explicit “Go” before prose  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 2  
 > **Working title:** Halt  
 > **Target length:** ca. 3,200–3,700 German words  
 > **POV / tense for later prose:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Do not write Chapter 2 prose before this Beat Plan passes the workflow gates.
+> **Current drafting rule:** Do not write Chapter 2 prose before explicit approval / “Go”.
 
 ---
 
@@ -99,7 +99,7 @@ Use a controlled motif load. Chapter 2 should not spend every scene on every est
 
 ---
 
-## 3. Beat plan v1
+## 3. Beat plan v2
 
 | Beat | Function | Approx. words | Guardrail |
 |---:|---|---:|---|
@@ -108,8 +108,8 @@ Use a controlled motif load. Chapter 2 should not spend every scene on every est
 | 3 | First real halt | 500–650 | The halt must echo the metallic splitting without becoming a crash image. |
 | 4 | Passengers rationalize / react | 600–750 | Realistic annoyance and fatigue; no “ghost train” talk. |
 | 5 | Tobias takes interpretive authority | 500–650 | Plausible self-certainty, not cartoon villainy; no overloading process-language. |
-| 6 | Mancini’s evasive service response | 500–650 | Brief, polite, cold; he withholds. No exposition. |
-| 7 | Levin’s technical knowledge leaks / end display 02:47 | 650–850 | Body reaction to railway vocabulary; end on 02:47, no explanation. |
+| 6 | Mancini’s evasive service response | 500–650 | Official acknowledgement without operational clarity; brief, polite, cold; no exposition. |
+| 7 | Levin’s technical knowledge leaks / end display 02:47 | 650–850 | Trigger comes from missing procedure + one railway word + display wrongness; no explanation. |
 
 Natural target: 7 beats / ca. 3,600–4,600 planned beat-range. Prose target should compress where needed toward ca. 3,200–3,700 words.
 
@@ -198,10 +198,10 @@ Natural target: 7 beats / ca. 3,600–4,600 planned beat-range. Prose target sho
 **POV:** Levin.  
 **Dramatic purpose:** Give the passengers a staff figure who should explain, but refuses to explain enough.  
 **Character want:** Levin wants a real operational answer. Tobias wants confirmation of his authority. Mancini wants to keep order without giving the rule away.  
-**Resistance / cost:** Mancini answers in service language that remains technically plausible but emotionally wrong.  
-**What changes by beat end:** The disruption is officially acknowledged but not clarified. Mancini’s abnormal calm becomes stronger.  
-**Mystery information gained / withheld / distorted:** Gained: there is no immediate onward explanation. Withheld: the true nature of the halt. Distorted: Mancini may use a normal phrase that lands too heavily.  
-**Hidden-truth risk:** High. Mancini must not say the train is going to the past, guilt, 2008 or a moment.  
+**Resistance / cost:** Mancini answers in service language that remains technically plausible but emotionally wrong. He acknowledges that they are stopped, but gives no usable cause, no timeline and no clean next step.  
+**What changes by beat end:** The disruption is officially acknowledged but not clarified. Mancini’s abnormal calm becomes stronger because he behaves as if the lack of explanation is itself part of the service order.  
+**Mystery information gained / withheld / distorted:** Gained: there is no immediate onward explanation. Withheld: the true nature of the halt. Distorted: normal railway politeness sounds like concealment because it refuses operational specifics.  
+**Hidden-truth risk:** High. Mancini must not say the train is going to the past, guilt, 2008 or a moment. He should avoid giving Levin a technical monologue to react to; one ordinary service phrase may land wrong, but the main pressure is withholding.  
 **Motif carried:** ticket / presence logic; service lamp; polite withholding.  
 **Sensory anchor:** keys or ticket punch, dim service lamp, damp wool, his voice not rising despite pressure.  
 **Seam from previous beat:** Tobias’s authority forces the appearance of official authority; Mancini displaces it without satisfying it.  
@@ -213,13 +213,13 @@ Natural target: 7 beats / ca. 3,600–4,600 planned beat-range. Prose target sho
 **POV:** Levin.  
 **Dramatic purpose:** Convert the halt into a personal threat for Levin while preserving hidden-truth protection.  
 **Character want:** Levin wants one exact reason: signal failure, power issue, weather obstruction, maintenance problem.  
-**Resistance / cost:** He catches himself knowing too much about what should happen next: who should call whom, how long an announcement should take, which words staff should or should not use. His body reacts before thought when a term like `Wartung`, `Störung`, `Weiche` or `Sichtprüfung` appears.  
+**Resistance / cost:** The real trigger is the procedural gap Mancini leaves behind. Levin catches himself knowing too much about what should happen next: who should call whom, how long an announcement should take, which words staff should or should not use. His body reacts before thought to one railway term or missing step, not to a full explanation.  
 **What changes by beat end:** The reader sees that Levin’s relation to railway procedure is not casual, but Levin still does not decode it. The chapter ends with an objective time wrongness.  
 **Mystery information gained / withheld / distorted:** Gained: time / display is now wrong in a harder way than Chapter 1. Withheld: why 02:47 matters. Distorted: Levin may still blame malfunction or fatigue, but the explanation is weakening.  
 **Hidden-truth risk:** High. Absolutely no form, signature, 2008, Weichenheizung, `in Ordnung`, or clear memory. His knowledge must be procedural and bodily, not autobiographical.  
 **Motif carried:** 02:47; emergency light; snow/cold; railway vocabulary as body trigger.  
 **Sensory anchor:** failing display glow, dark glass, snow beyond window, dry mouth, finger numbness, carriage silence after a word.  
-**Seam from previous beat:** Mancini’s evasive wording or Tobias’s procedural language triggers Levin’s unplaced knowledge; the display then gives the chapter its impossible punctuation.  
+**Seam from previous beat:** Mancini leaves an official void; Levin’s body fills it with procedure before his mind can justify why. The display then gives the chapter its impossible punctuation.  
 **Target word count:** 650–850.
 
 ---
@@ -255,7 +255,8 @@ No obvious action is artificially withheld if the prose makes the following clea
 - Halt activates passenger reaction.
 - Passenger uncertainty creates space for Tobias’s authority.
 - Tobias / group pressure draws Mancini into the scene.
-- Mancini’s evasive language and the halt’s technical surface trigger Levin’s unplaced procedural knowledge.
+- Mancini officially acknowledges the halt but leaves an operational void.
+- The void, plus one railway word or missing expected step, triggers Levin’s unplaced procedural knowledge.
 - The display at `02:47` turns the disruption from inconvenience into pattern.
 
 ### Hidden-truth protection
@@ -302,6 +303,88 @@ Watch:
 
 ### Gate result
 
-PASS — Beat Plan v1 is structurally coherent and preserves the Ch1→Ch2 seam.
+PASS — Beat Plan v2 is structurally coherent and preserves the Ch1→Ch2 seam.
 
 It can proceed to Chapter 2 prose only after explicit approval / “Go”.
+
+---
+
+## 6. Full beat control pass — Beat Plan v2
+
+### Beat 1 — After-silence from Chapter 1
+
+**Result:** PASS.  
+**Logic:** Directly continues the final Ch1 pressure instead of resetting into a new chapter.  
+**Motivation:** Levin’s refusal to panic is credible because nothing objectively impossible has happened yet.  
+**Watch:** Do not overuse the Chapter 1 window-mirror language. The sensory field should begin shifting from reflection toward pressure, sound and stopped air.
+
+### Beat 2 — The train’s motion becomes questionable
+
+**Result:** PASS.  
+**Logic:** The beat changes state from private fear to measurable bodily uncertainty.  
+**Motivation:** Levin looks for external verification because he distrusts his body.  
+**Watch:** Keep the location deliberately uncertain. Do not name a precise tunnel, station or operational cause unless already canonically safe.
+
+### Beat 3 — First real halt
+
+**Result:** PASS.  
+**Logic:** The questionable motion resolves into a shared, objective event.  
+**Motivation:** Passengers now have a reason to notice and react.  
+**Watch:** The halt must not read like an accident replay. No crash image, no direct brake-memory, no 2008 bleed-through.
+
+### Beat 4 — Passengers rationalize / react
+
+**Result:** PASS.  
+**Logic:** The halt naturally creates social behavior: phones, annoyance, jokes, fatigue, parental management, old calm.  
+**Motivation:** Levin needs other people’s reactions as calibration and does not get the calibration he wants.  
+**Watch:** Keep jokes and annoyance human, not comic relief. The carriage should feel socially real, not like a cast roll-call.
+
+### Beat 5 — Tobias takes interpretive authority
+
+**Result:** PASS WITH WATCH.  
+**Logic:** Passenger uncertainty creates a vacuum; Tobias filling it follows character and theme.  
+**Motivation:** Tobias wants hierarchy and process because they protect him from uncertainty.  
+**Watch:** He is not yet the Chapter 5 disappearance object. Do not overstate `Abnahme`, `Protokoll`, `in Ordnung` or moral cowardice before Chapter 3 gives Platz 47 room.
+
+### Beat 6 — Mancini’s evasive service response
+
+**Result:** FIX APPLIED.  
+**Problem found:** Earlier version risked making Mancini’s wording and Levin’s trigger too tightly linked, which could turn Mancini into a clue-delivery machine.  
+**Fix:** Beat 6 now centers on official acknowledgement without usable operational clarity. Mancini withholds more by omission than by charged vocabulary.  
+**Watch:** One cold service phrase is enough. No lore. No rule explanation. No technical monologue.
+
+### Beat 7 — Levin’s technical knowledge leaks / end display 02:47
+
+**Result:** FIX APPLIED.  
+**Problem found:** Earlier version risked letting Beat 7 merely process Mancini’s lines.  
+**Fix:** Beat 7 now has its own engine: Levin reacts to the procedural gap after Mancini, to one railway word or missing expected step, and then to the display wrongness.  
+**Watch:** Keep the knowledge physical and procedural. No autobiographical memory, no form, no signature, no `in Ordnung`, no Weichenheizung.
+
+### Overall control result
+
+**PASS.**  
+The seven-beat sequence now has clean escalation:
+
+```text
+Ch1 sound residue
+→ private after-silence
+→ movement uncertainty
+→ objective halt
+→ social reaction
+→ Tobias fills the vacuum
+→ Mancini creates official non-clarity
+→ Levin’s own procedural knowledge leaks
+→ 02:47 turns inconvenience into pattern
+```
+
+The plan preserves:
+
+- the Ch1→Ch2 seam;
+- Albula specificity without early 2008 reveal;
+- Mancini withholding;
+- Marlene as observer, not romance function;
+- Tobias as socially plausible, not yet villain-symbol;
+- no Tilgung before its planned structural moment;
+- no discarded Transit / all-dead drift.
+
+**Next clean step:** Wait for explicit “Go”, then draft **Beat 1 only** under the prose protocol.
