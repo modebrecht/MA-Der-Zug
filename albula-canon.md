@@ -1,8 +1,9 @@
 # DER ZUG — Albula Canon
 
-> **Status:** CANON LOCK v1  
+> **Status:** CANON LOCK v1.1  
 > **Entscheid:** Das Albula-Konzept ist die verbindliche Hauptfassung.  
-> **Stand:** 15. Juni 2026
+> **Stand:** 15. Juni 2026  
+> **Timeline-Fix:** Gegenwart der Haupthandlung ca. Winter 2025/2026. Das Unglück von 2008 liegt rund 17–18 Jahre zurück.
 
 ---
 
@@ -53,7 +54,8 @@ Der Roman verkauft sich über fünf klare Sogpunkte:
 
 ### Zeit der Haupthandlung
 
-- Februarnacht
+- Februarnacht, ca. Winter **2025/2026**
+- Das Ursprungsunglück von 2008 liegt rund **17–18 Jahre** zurück.
 - Schneesturm
 - Kälte
 - zwischen Mitternacht und Morgendämmerung
@@ -91,9 +93,26 @@ Ein Schneesturm belastete die Strecke seit Stunden. Eine Weichenheizung war seit
 
 ### Levins Anteil
 
-Levin Brand war damals 19 Jahre alt und Praktikant bei der RhB-Streckenwartung. Er unterschrieb die Sichtprüfung der Weichenheizung mit „in Ordnung“, obwohl er übermüdet war und die Prüfung nicht sauber erfolgte.
+Levin Brand war damals **19 Jahre alt** und Praktikant / Lehrling bei der RhB-Streckenwartung. Er unterschrieb die Sichtprüfung der Weichenheizung mit „in Ordnung“, obwohl er übermüdet war und die Prüfung nicht sauber erfolgte.
 
 Juristisch wurde er nicht verurteilt, weil organisatorische Mängel schwerer wogen. Innerlich hat er die Erinnerung verdrängt.
+
+---
+
+## 5a. Timeline-Lock
+
+Diese Timeline ist verbindlich, damit Alter, Schuld und Erinnerungszeitraum sauber bleiben:
+
+| Zeitpunkt | Jahr / Alter | Canon-Funktion |
+|---|---:|---|
+| Ursprungsunglück | 14. Februar 2008 | Landwasserviadukt, 02:47 Uhr |
+| Levin beim Unglück | 19 | RhB-Praktikant / Lehrling, unterschreibt Wartungsformular |
+| Marlene beim Unglück | 26 | Lokführerin des Unglückszuges |
+| Gegenwart der Haupthandlung | Winter 2025/2026 | rund 17–18 Jahre später |
+| Levin in der Gegenwart | 36/37 | Historiker / wissenschaftlicher Mitarbeiter in Zürich, Vergangenheit als Beruf und Verdrängungsform |
+| Marlene in der Gegenwart | 43/44 | Fotografin, ehemalige Lokführerin, Leben auf neuer Identität aufgebaut |
+
+**Verworfen:** Levin 24 in der Gegenwart und Marlene 26 in der Gegenwart. Diese Altersangaben waren Überbleibsel früherer Fassungen und widersprechen dem 2008-Canon.
 
 ---
 
@@ -137,12 +156,12 @@ Levin kann das Unglück nicht ungeschehen machen. Der Akt des Bremsens ist kein 
 
 ### Levin Brand
 
-- 24 Jahre alt
-- Geschichtsstudent in Zürich
+- 36/37 Jahre alt in der Gegenwart
+- Historiker / wissenschaftlicher Mitarbeiter in Zürich
 - still, beobachtend, kontrolliert
 - reist nach Chur zu seiner Schwester Sarah
 - hat Albträume von einem metallischen Splittern
-- glaubt, sein RhB-Sommerjob sei nebensächlich gewesen
+- glaubt, sein RhB-Praktikum von 2008 sei eine weit entfernte, nebensächliche Episode gewesen
 - hat seine Unterschrift und ihre Folgen verdrängt
 
 **Kernwunde:** Er hat überlebt, weil er seine Schuld aus seiner Lebensgeschichte herausgeschnitten hat.
@@ -153,8 +172,10 @@ Levin kann das Unglück nicht ungeschehen machen. Der Akt des Bremsens ist kein 
 
 ### Marlene Aregger
 
+- 43/44 Jahre alt in der Gegenwart
 - Fotografin
 - ehemalige Lokführerin des Unglückszugs
+- war beim Unglück 26 Jahre alt
 - wirkt offen, aber distanziert
 - trägt eine alte mechanische Kamera
 - emotionale Achse zu Levin
@@ -267,6 +288,7 @@ Diese Punkte dürfen beim Schreiben nicht zurückdriften:
 - keine echte Zeitreise-Reparatur des Unglücks
 - kein Finale, in dem Levin die Vergangenheit löscht oder alle rettet
 - keine Schuld als platte Bestrafungsmoral
+- keine Rückkehr zu Levin 24 / Marlene 26 in der Gegenwart
 
 ---
 
