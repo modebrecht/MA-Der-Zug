@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–4 drafted  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–5 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–4 are drafted. Next step: Beat 5 draft.
+> **Current drafting rule:** Beat-by-beat. Beats 1–5 are drafted. Next step: Beat 6 draft.
 
 ---
 
@@ -645,3 +645,205 @@ Strong. Mancini has been glimpsed once at the transition door, so Beat 5 can bri
 ### Watch
 
 Reck’s process-language is strong. In Beat 5, avoid another long managerial line. Let Mancini’s quiet presence contrast with Reck rather than compete with him.
+
+---
+
+## 14. Draft — Beat 5
+
+Der Mann in der dunklen Uniform kam nicht sofort.
+
+Das machte es normaler, als wenn er direkt nach Levins Blick an der Glastür erschienen wäre. Erst schwankte der Wagen leicht in einer Kurve. Erst legte die Frau neben Eliah ihre Handtasche unter den Sitz. Erst sagte Reck in sein Headset: „Ich rufe zurück“, und sagte es in einem Ton, der nicht um Erlaubnis bat. Dann schloss er das Gespräch, obwohl es vermutlich längst keines mehr gewesen war.
+
+Erst danach ging die Tür am Wagenende auf.
+
+Der Schaffner trat ein, als müsse er den Wagen nicht betreten, sondern nur fortsetzen. Schwarzblauer Stoff, dunkle Krawatte, ein Namensschild, das im Licht kurz spiegelte, ohne lesbar zu werden. Sein Haar war glatt zurückgenommen. Nicht alt, nicht jung. Ein Gesicht, das man sofort wiedererkannte und trotzdem schwer hätte beschreiben können.
+
+„Guten Abend“, sagte er.
+
+Einige hoben die Köpfe, andere nur die Augen. Der Satz war so gewöhnlich, dass niemand darauf hätte achten müssen. Levin tat es trotzdem.
+
+Der Schaffner begann vorn.
+
+Bei Reck dauerte es am kürzesten. Ein Telefon, ein Display, eine knappe Bewegung mit dem Scanner. Reck hielt das Gerät hin, ohne den Blick ganz von seiner Aktentasche zu nehmen. Der Schaffner sagte: „Danke, Herr Reck.“
+
+Reck sah auf. „Steht da der Name?“
+
+„Auf dem Billett“, sagte der Schaffner.
+
+„Natürlich.“ Reck lächelte nicht. „Ich frage nur.“
+
+„Das tun Sie.“
+
+Mehr sagte der Schaffner nicht. Er ging weiter.
+
+Die alte Frau hatte ihr Billett bereits zwischen zwei Fingern bereit. Kein Suchen, kein Wischen, kein Verlegenheitsgriff in die Manteltasche. Papier, sorgfältig gefaltet, die Kante genau. Der Schaffner nahm es nicht sofort. Er sah zuerst sie an.
+
+„Frau Hediger.“
+
+„Ja.“
+
+„Wieder dieselbe Strecke?“
+
+Einen Augenblick lang schien der Wagen leiser zu werden. Oder Levin hörte nur genauer hin.
+
+„Noch ist es die Strecke“, sagte Frau Hediger.
+
+Der Schaffner neigte den Kopf, als sei das eine ausreichende Antwort, und entwertete das Billett mit einer kleinen, sauberen Bewegung. Kein Loch, kein sichtbarer Abdruck. Nur ein kaum hörbares Klicken.
+
+Bei dem Paar dauerte es länger. Der Mann suchte in seiner Jacke, dann im Rucksack, dann auf dem Telefon. Die Frau sagte nichts. Sie sah aus dem Fenster, obwohl draußen nichts zu sehen war außer dem eigenen Spiegelbild.
+
+„Zwei zusammen?“, fragte der Schaffner.
+
+„Ja“, sagte der Mann.
+
+Gleichzeitig sagte die Frau: „Getrennt.“
+
+Der Schaffner sah zwischen ihnen hin und her. Nicht überrascht. Nur feststellend.
+
+„Dann nacheinander.“
+
+Der Mann lachte einmal kurz, zu leise für ein Lachen. „Das passt.“
+
+Die Frau hielt ihm ihr Telefon hin, bevor er noch etwas hinzufügen konnte.
+
+Bei Eliah und der Frau neben ihm wurde der Schaffner langsamer. Nicht merklich für alle, aber Levin sah es, weil er inzwischen nichts anderes tat, als zu sehen. Eliah hielt sein Billett selbst hin. Seine Hand war ruhig. Die der Frau nicht.
+
+„Ist Ihnen kalt?“, fragte der Schaffner.
+
+Eliah schüttelte den Kopf.
+
+„Nein“, sagte die Frau sofort. „Also, ihm wird schnell kalt, aber es geht.“
+
+„Ich habe ihn gefragt“, sagte der Schaffner.
+
+Die Worte waren nicht unfreundlich. Genau das machte sie schärfer. Die Frau nahm die Hand von Eliahs Ärmel. Eliah sah zum ersten Mal richtig auf.
+
+„Es ist nicht die Kälte“, sagte er.
+
+Der Schaffner wartete.
+
+Eliah sagte nichts mehr.
+
+„Dann ist gut“, sagte der Schaffner, als hätte auch Schweigen eine gültige Kategorie.
+
+Als er zu der Frau mit der Kamera kam, musste sie den Apparat erst vom Schoß nehmen. Der Gurt hatte sich um ihr Handgelenk gelegt. Sie löste ihn langsam, ohne Hast.
+
+„Marlene Aregger“, sagte der Schaffner, bevor sie ihm das Billett zeigte.
+
+Sie hielt einen Moment inne.
+
+„Sie lesen schnell.“
+
+„Nicht alles.“
+
+Sie sah ihn an, und zum ersten Mal seit Levin sie bemerkt hatte, wirkte ihr Gesicht nicht distanziert, sondern geschlossen. Dann reichte sie ihm das Billett. Das Gerät in seiner Hand gab keinen Ton von sich. Trotzdem nickte er.
+
+„Danke.“
+
+Er kam zu Levin zuletzt.
+
+Das stimmte nicht ganz. Im hinteren Abschnitt schlief noch der Mann mit dem Notizbuch, und vielleicht gab es hinter der nächsten Tür weitere Passagiere. Aber in diesem Wagen kam er zu Levin zuletzt, und Levin merkte, dass ihn das ärgerte. Als hätte er in einer Ordnung gestanden, der er nicht zugestimmt hatte.
+
+Er holte das Billett auf dem Telefon hervor. Der Bildschirm war zu hell. Für einen Moment spiegelte er sich darin: Stirn, Augen, der dunkle Rand des Fensters hinter ihm.
+
+Der Schaffner beugte sich nicht vor. Er wartete, bis Levin ihm das Telefon freiwillig entgegenhielt.
+
+Der Scanner glitt über den Code.
+
+Nichts passierte.
+
+„Einen Moment“, sagte Levin.
+
+„Ja.“
+
+Er wischte den Bildschirm heller, obwohl er schon hell genug war. Der Code lud neu. Diesmal klickte das Gerät.
+
+Der Schaffner sah auf das Display. Dann auf Levin.
+
+„Herr Brand.“
+
+Es war keine Frage.
+
+„Ja.“
+
+Der Schaffner hielt den Blick einen Herzschlag zu lange. Nicht unangenehm. Nicht prüfend. Eher so, als lege er den Namen an die richtige Stelle und kontrolliere, ob er dort blieb.
+
+„Bis Chur“, sagte er.
+
+„So steht es da.“
+
+„Ja“, sagte der Schaffner. „So steht es da.“
+
+Levin zog das Telefon zurück.
+
+Er hätte fast gefragt, ob es ein Problem gebe. Aber der Satz hätte nach Nervosität geklungen, und dafür gab es keinen Grund. Der Mann hatte nur sein Billett kontrolliert. Weiter nichts.
+
+Der Schaffner trat einen Schritt zurück und ließ den Blick noch einmal durch den Wagen gehen. Nicht über die Gepäckablagen, nicht über die Fenster, nicht über die Sitznummern. Über die Menschen. Reck mit geschlossener Aktentasche. Frau Hediger mit der gefalteten Zeitung. Das Paar, das nicht mehr stritt. Eliah, der die Hände unter die Oberschenkel geschoben hatte. Marlene, deren Finger wieder am Kameragurt lagen. Levin.
+
+Dann sagte er: „Wenn Sie etwas brauchen, ich bin im Zug.“
+
+Niemand antwortete.
+
+Es war ein normaler Satz. In einem normalen Zug hätte Levin ihn sofort vergessen.
+
+Der Schaffner ging weiter zum Wagenende. Kurz bevor sich die Glastür hinter ihm schloss, sah er in den dunkleren Abschnitt dahinter, dorthin, wo der schlafende Mann saß. Seine Hand lag schon auf der Türstange, aber er wartete einen Moment, als zähle er etwas nach, das sich nicht zählen ließ.
+
+Dann verschwand er.
+
+Der Wagen atmete weiter.
+
+---
+
+## 15. Beat-local correction pass — Beat 5
+
+### Logic
+
+Pass. Mancini’s first full pass follows naturally from the prior threshold glimpse and works as a normal ticket-control scene on the surface.
+
+### Motivation
+
+Pass. Mancini has plausible conductor cover. Levin notices the oddities because Beat 4 established him as unwillingly observant and already sensitive to the carriage’s social field.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No Mancini lore.
+- No “you are expected” line.
+- No Marlene driver reveal.
+
+### Motif / figure control
+
+Pass.
+
+Used:
+
+- tickets / names / presence-checking,
+- Mancini’s too-precise knowledge,
+- Hediger’s “same route” hint without explanation,
+- Marlene name-recognition and guarded reaction,
+- Levin’s name held a beat too long,
+- Robert still only as rear sleeping presence.
+
+Held back:
+
+- 02:47 for Beat 6.
+- explicit old railway past for Beat 7.
+- metallic splitting for Beat 8.
+- Platz 47 / cold coffee for later chapters.
+
+### Beat-distinctness
+
+Pass. Beat 5 contrasts with Beat 4: less social noise, more formal inspection. Mancini’s calm creates unease through precision rather than exposition.
+
+### Seam into Beat 6
+
+Strong. Beat 5 ends after ticket validation and name/presence attention. Beat 6 can now use Levin’s phone/display/ticket afterglow for the single deniable 02:47 irritation.
+
+### Watch
+
+Mancini’s knowledge is close to supernatural but still deniable through ticket data. Keep Beat 6 focused on 02:47 only; do not stack another Mancini oddity immediately.
