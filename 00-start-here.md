@@ -107,6 +107,8 @@ If an internal document reference still points to an old filename, map it throug
 The following files were removed from the active root and documented in `99-archive-manifest.md`:
 
 - `bero-akt2-foundation.md`
+- `bero-callback-ledger.md`
+- `bero-workflow.md`
 - `concept2.md`
 - `concept3.md`
 
@@ -364,23 +366,28 @@ Applied:
 - The workflow now points back to the start guide for routing.
 - The workflow keeps all method rules but stops pretending to be a file map.
 
-### 6.10 Final pre-Chapter-1 readiness audit
+### 6.10 Final pre-Chapter-1 readiness audit — corrected
 
 Question checked:
 
 > Are we now ready for the Chapter 1 beat plan, and are all Bero / inactive concept leftovers removed from the active path?
 
-Checks performed:
+Initial result:
 
-- Searched for active Bero residues using terms such as `bero`, `Bero`, `Brummsi`, `Kara` and `Silas`.
-- Searched for rejected concept leftovers using terms such as `concept2`, `concept3` and `Transit`.
-- Checked the active reading order in this file.
-- Confirmed that drafting starts with beat planning, not prose.
-- Confirmed that `99-archive-manifest.md` is not a drafting source.
+- Earlier search checks did not surface all remaining Bero files.
+- User screenshot revealed two additional active root files:
+  - `bero-callback-ledger.md`
+  - `bero-workflow.md`
 
-Result:
+Correction applied:
 
-- No active Bero project files remain in the working path.
+- `bero-callback-ledger.md` was removed from the active root.
+- `bero-workflow.md` was removed from the active root.
+- `99-archive-manifest.md` was updated to document these two additional removals.
+
+Final result:
+
+- No Bero project files belong in the active drafting path.
 - No active `concept2.md` / `concept3.md` files remain in the working path.
 - `99-archive-manifest.md` remains only as inactive recovery documentation and must not be read for drafting.
 - The active foundation chain is complete for starting Chapter 1.
