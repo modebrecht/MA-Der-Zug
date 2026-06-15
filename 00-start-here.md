@@ -20,6 +20,7 @@ The project is split because each document answers a different kind of question:
 | Act foundations | What must this act achieve before chapter prose starts? | Prevents act-level holes. |
 | Chapter files | The actual manuscript prose. | Keeps draft text separate from planning. |
 | Archive manifest | What was removed from the active path? | Preserves recovery info without polluting canon. |
+| Next-chat prompt | Where should a new assistant continue? | Prevents context loss when moving to a new chat. |
 
 The split is not bureaucracy. It protects the novel from mixing different thinking layers.
 
@@ -29,18 +30,19 @@ The split is not bureaucracy. It protects the novel from mixing different thinki
 
 Read / update files in this order:
 
-1. `01-canon.md`
-2. `02-characters.md`
-3. `03-chapter-plan.md`
-4. `04-accident-2008.md`
-5. `05-workflow.md`
-6. `06-callback-ledger.md`
-7. `11-act1-foundation.md`
-8. `12-act2-foundation.md`
-9. `13-act3-foundation.md`
-10. `14-act4-foundation.md`
-11. `21-chapter-01.md` once drafting begins
-12. `22-chapter-02.md`, etc.
+1. `00-next-chat-start.md` — only when opening a new chat / handoff.
+2. `01-canon.md`
+3. `02-characters.md`
+4. `03-chapter-plan.md`
+5. `04-accident-2008.md`
+6. `05-workflow.md`
+7. `06-callback-ledger.md`
+8. `11-act1-foundation.md`
+9. `12-act2-foundation.md`
+10. `13-act3-foundation.md`
+11. `14-act4-foundation.md`
+12. `21-chapter-01.md` once drafting begins
+13. `22-chapter-02.md`, etc.
 
 Do **not** read `99-archive-manifest.md` for drafting. It exists only to document removed files.
 
@@ -51,6 +53,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 ### 00 — Navigation
 
 - `00-start-here.md` — this file.
+- `00-next-chat-start.md` — English handoff prompt for continuing the project in a new chat.
 
 ### 01–09 — Global foundations
 
@@ -137,278 +140,25 @@ After every completed chapter, update `06-callback-ledger.md` before starting th
 
 ---
 
-## 6. Project audit log — 2026-06-15
+## 6. Current handoff state — 2026-06-15
 
-This section records what has already been checked and why. It exists so later work does not repeat old uncertainty or accidentally undo decisions.
+`00-next-chat-start.md` contains the English prompt for starting a new chat.
 
-### 6.1 Concept decision
-
-Checked the available concept variants against hook strength, specificity, internal logic and long-form potential.
-
-Decision:
-
-- The **Albula concept** is current canon.
-- Older Transit / Flood / generic afterlife variants are inactive.
-- The project spine is: **one train, one accident, one guilt-chain, one repressed moment.**
-
-Resulting active foundation files:
-
-- `01-canon.md`
-- `02-characters.md`
-- `03-chapter-plan.md`
-- `04-accident-2008.md`
-
-### 6.2 File structure / naming audit
-
-Question checked:
-
-> Is the separation of files useful, or should everything be consolidated?
-
-Decision:
-
-- Separation is useful because each document answers a different question.
-- Filenames were changed to numbered English names so the reading order is obvious in GitHub / VS Code.
-- `00-start-here.md` became the navigation and audit file.
-
-Naming pattern:
-
-- `00` = navigation / meta
-- `01–09` = global foundations
-- `11–19` = act foundations
-- `21+` = manuscript chapters
-- `99` = archive / inactive material
-
-### 6.3 Archive cleanup
-
-Question checked:
-
-> Do Bero files, `concept2.md` and `concept3.md` still belong in the active path?
-
-Decision:
-
-- No. They are not current canon.
-- They were removed from the active root and documented in `99-archive-manifest.md`.
-- They should not be read for drafting unless explicitly recovered from Git history.
-
-Important note:
-
-- A real binary `.zip` could not be produced through the GitHub connector, so the practical solution was: remove from active root + document recovery info in an archive manifest.
-
-### 6.4 Scope / page-count audit
-
-Question checked:
-
-> Is the target page count defined, and what size fits this project?
-
-Decision:
-
-- Target remains: **70,000–80,000 words**.
-- Recommended ideal: **ca. 75,000 words / ca. 300 pages / 20 chapters**.
-- This fits the psychological Mystery-Thriller scope without letting the closed train setting sprawl.
-
-Practical implication:
-
-- Average chapter length target: roughly **3,500–4,000 words**, with shorter pressure chapters and longer reveal chapters as needed.
-
-### 6.5 Foundation creation sequence
-
-The project foundations were created in this order:
-
-1. `11-act1-foundation.md`
-   - establishes route logic, train map, ensemble introduction, first Tilgung and Akt-I end image.
-2. `12-act2-foundation.md`
-   - establishes relational Tilgung, historical traces and the Midpoint into Albula 2008.
-3. `13-act3-foundation.md`
-   - establishes individual guilt mirrors and protects Levin’s signature reveal until Akt IV.
-4. `14-act4-foundation.md`
-   - establishes final object, final choice and Sarah aftermath.
-
-Reason for this order:
-
-- The act foundations were built after the global canon / chapter plan so each act could answer a precise structural task instead of becoming a loose idea document.
-
-### 6.6 Foundation vs. chapter-structure audit
-
-Question checked:
-
-> Do all act foundations still match `03-chapter-plan.md`?
-
-Result:
-
-- Yes, the main structure is coherent.
-- Akt I = Ch1–6.
-- Akt II = Ch7–11.
-- Midpoint = Ch11.
-- Akt III = Ch12–17.
-- Akt IV = Ch18–20.
-
-Detected stale / cleanup points:
-
-1. `11-act1-foundation.md` still had old proposal language and references to creating the chapter plan.
-2. Tobias was still described as a candidate for first disappearance, although the plan now fixes him as first hard Tilgung.
-3. `03-chapter-plan.md` still had the Chapter 20 location partly open between Chur and Zürich.
-4. Some older internal file references still used German filenames.
-
-Consolidation response:
-
-- Akt I was marked as current foundation, not proposal.
-- Tobias is fixed as first hard Tilgung.
-- Chapter 20 final location is **Café in Zürich**.
-- Old file references should be mapped through this file if not yet updated internally.
-
-### 6.7 Transition audit — red thread across acts
-
-Question checked:
-
-> Do the act transitions feel seamless, or does the story become episodic?
-
-Overall result:
-
-The red thread is strong:
+Last completed step:
 
 ```text
-Akt I  → Is Levin wrong, or is the world wrong?
-Akt II → What connects these people?
-Akt III → What did each person do / avoid / fail to say?
-Akt IV → What does Levin do when the truth names him?
+06-callback-ledger.md was updated with the Chapter 1 harvest.
 ```
 
-Core escalation:
+Next clean step:
 
 ```text
-impossible train
-→ damaged traces
-→ Albula 2008
-→ individual guilt-chains
-→ Levin's form
-→ braking
-→ Sarah
+Create 22-chapter-02.md as a Beat Plan only.
+Do not write Chapter 2 prose before the Beat Plan passes the workflow gates.
 ```
 
-Three seam risks were identified:
+Important Ch1 → Ch2 carry-over:
 
-#### Seam risk 1 — Akt I → Akt II
-
-Risk:
-
-- Chapter 7 could feel like a reset if it jumps straight from Tobias to Jan.
-
-Handling:
-
-- Chapter 7 must begin from the residue of Tobias / Platz 47.
-- Working seam: first a man is erased from a seat; then a man is erased from a life.
-
-#### Seam risk 2 — Akt II → Akt III
-
-Risk:
-
-- Anika’s Chapter 12 payoff could feel late if she disappears from the text after Jan is erased in Chapter 7.
-
-Handling:
-
-- Anika must remain a damaged presence in Chapters 8–11.
-- Mini-echoes: accidental `wir` → `ich`, wrong photo framing, reaction to Filisur / smoke / platform, grief without object.
-
-#### Seam risk 3 — Akt III → Akt IV
-
-Risk:
-
-- Chapter 18 could feel mechanical if it jumps immediately from Marlene’s disappearance to the form reveal.
-
-Handling:
-
-- Chapter 18 must start with Marlene-aftershock / Levin’s isolation.
-- The form emerges from that absence, not from plot machinery.
-
-### 6.8 Mini consolidation applied after transition audit
-
-The transition audit led to a small consolidation pass, not a rewrite.
-
-Applied / to be preserved in drafting:
-
-1. **Anika continuity rule**
-   - After Jan’s Tilgung, Anika must continue as a visible damaged presence until Chapter 12.
-
-2. **Selma / Eliah / Linn pre-echo rule**
-   - Before Chapter 14, Selma and Eliah must receive at least two quiet echoes so their chapter does not feel isolated.
-
-3. **Marlene-aftershock rule**
-   - Chapter 18 must not start with the form as a cold plot object. It begins with Levin alone after Marlene, then moves into the document reveal.
-
-4. **Tobias fixed as first hard Tilgung**
-   - No longer merely a candidate.
-
-5. **Chapter 20 final location locked**
-   - Schlussort: **Café in Zürich**.
-
-### 6.9 Workflow ownership cleanup
-
-Question checked:
-
-> Should `05-workflow.md` still list current canon filenames, or should file routing be controlled elsewhere?
-
-Decision:
-
-- `05-workflow.md` should **not** duplicate filename lists anymore.
-- File order, filenames, old-to-new mapping and audit history are controlled here in `00-start-here.md`.
-- `05-workflow.md` controls only the writing method: beat plan, gates, seam discipline, correction passes, chapter harvest and act audit.
-
-Why:
-
-- Duplicate filename lists create drift.
-- If a filename changes, only this start guide should change.
-- The workflow should remain stable even if project files are renamed or reorganized.
-
-Applied:
-
-- `05-workflow.md` was updated to `CANON WORKFLOW v2`.
-- Old German file references and optional file-list language were removed.
-- The workflow now points back to the start guide for routing.
-- The workflow keeps all method rules but stops pretending to be a file map.
-
-### 6.10 Final pre-Chapter-1 readiness audit — corrected
-
-Question checked:
-
-> Are we now ready for the Chapter 1 beat plan, and are all Bero / inactive concept leftovers removed from the active path?
-
-Initial result:
-
-- Earlier search checks did not surface all remaining Bero files.
-- User screenshot revealed two additional active root files:
-  - `bero-callback-ledger.md`
-  - `bero-workflow.md`
-
-Correction applied:
-
-- `bero-callback-ledger.md` was removed from the active root.
-- `bero-workflow.md` was removed from the active root.
-- `99-archive-manifest.md` was updated to document these two additional removals.
-
-Final result:
-
-- No Bero project files belong in the active drafting path.
-- No active `concept2.md` / `concept3.md` files remain in the working path.
-- `99-archive-manifest.md` remains only as inactive recovery documentation and must not be read for drafting.
-- The active foundation chain is complete for starting Chapter 1.
-
-Decision:
-
-- The project is ready for `21-chapter-01.md`.
-- The next output should be a **Chapter 1 beat plan**, not full prose.
-
-### 6.11 Current readiness state
-
-The project is structurally ready for drafting.
-
-Checked and cleaned:
-
-1. `11-act1-foundation.md` no longer carries stale proposal / next-step logic.
-2. `03-chapter-plan.md` reflects the Zürich ending and transition echo rules.
-3. `05-workflow.md` is now method-only and no longer duplicates filename routing.
-4. `06-callback-ledger.md` is ready to receive Ch1 harvest after drafting.
-5. Bero / rejected-concept leftovers are outside the active drafting path.
-
-Next creative step:
-
-> `21-chapter-01.md` — Chapter 1 beat plan, not prose yet.
+```text
+The tunnel / metallic splitting sound from Chapter 1 must echo into the first halt / interruption of Chapter 2.
+```
