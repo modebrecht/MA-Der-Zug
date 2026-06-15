@@ -1,7 +1,8 @@
 # Figuren-Dossier — Der Zug / Albula
 
 > **Status:** Canon-Arbeitsdokument  
-> **Projektentscheidung:** Das Albula-Konzept ist verbindlich. Dieses Dossier folgt dem Canon aus `albula-canon.md` und schützt gegen Rückdrift in die älteren Transit-/GPT-Versionen.
+> **Projektentscheidung:** Das Albula-Konzept ist verbindlich. Dieses Dossier folgt dem Canon aus `albula-canon.md` und schützt gegen Rückdrift in die älteren Transit-/GPT-Versionen.  
+> **Timeline-Fix:** Gegenwart ca. Winter 2025/2026. Das Unglück von 2008 liegt rund 17–18 Jahre zurück.
 
 ---
 
@@ -11,7 +12,7 @@ Alle zentralen Figuren im Zug sind nicht zufällig anwesend.
 
 Sie sind durch dasselbe Ursprungsunglück verbunden:
 
-**14. Februar 2008, 02:47 Uhr — Albulalinie / Landwasserviadukt.**
+**14. Februar 2008, 02:47 Uhr — Albulinie / Landwasserviadukt.**
 
 Der Zug sammelt keine beliebigen Schuldigen. Er sammelt Menschen, deren Leben um dieses eine Ereignis herum eine Lücke, eine Lüge oder eine Verdrängung gebildet hat.
 
@@ -23,42 +24,75 @@ Jede Figur braucht deshalb drei Ebenen:
 
 ---
 
+## 0a. Timeline-Lock der Figuren
+
+Die alte Fassung enthielt eine Alterskollision: Levin konnte nicht 24 sein, wenn er 2008 mit 19 das Formular unterschrieb. Marlene konnte nicht 26 in der Gegenwart sein, wenn sie 2008 bereits Lokführerin des Unglückszuges war.
+
+**Verbindliche Lösung:**
+
+| Figur | Alter 2008 | Alter Gegenwart 2025/26 | Konsequenz |
+|---|---:|---:|---|
+| Levin Brand | 19 | 36/37 | Kein junger Student mehr; Historiker / wissenschaftlicher Mitarbeiter in Zürich |
+| Marlene Aregger | 26 | 43/44 | Ehemalige Lokführerin, inzwischen Fotografin |
+| Anika | ca. 16/17 | 34/35 | Damals jugendliche Augenzeugin |
+| Jan | ca. 17/18 | 35/36 | Damals jugendlicher Augenzeuge |
+| Eliah | 10 Wochen | 17/18 | Kein Kind mehr; Jugendlicher mit unmöglichen Säuglings-Erinnerungsfragmenten |
+| Selma Vogt | ca. 35/36 | 53/54 | Mutter mit langjähriger Überlebensschuld |
+| Frau Hediger | ca. 61 | 78/79 | Gedächtnisfigur, nicht bloß ältere Expositionsfigur |
+| Tobias Reck | ca. 44/45 | 62/63 | Systemschuld mit langer Karriere danach |
+| Robert Marek | ca. 35 | 52/53 | Journalist, der seine große Geschichte nie schrieb |
+
+**No-Go:** Keine Rückkehr zu Levin 24 / Marlene 26 / Eliah 6 in der Gegenwart. Diese Zahlen gehören zur verworfenen Frühfassung.
+
+---
+
 # 1. Levin Brand
 
 ## Rolle
+
 Protagonist. Einziger, der sich an die Verschwundenen erinnert.
 
 ## Alter
-24
+
+36/37 in der Gegenwart. 19 beim Unglück 2008.
 
 ## Oberfläche
-Geschichtsstudent in Zürich. Still, beobachtend, höflich, innerlich distanziert. Kein klassischer Held, sondern ein junger Mann, der eher registriert als handelt.
+
+Historiker / wissenschaftlicher Mitarbeiter in Zürich. Still, beobachtend, höflich, innerlich distanziert. Kein klassischer Held, sondern ein Mann, der eher registriert als handelt.
+
+Er arbeitet beruflich mit Vergangenheit, Archiven, Lücken, Akten und Deutung. Das ist kein Zufall: Seine eigene Vergangenheit enthält die zentrale Lücke.
 
 Er reist nach Chur, um seine Schwester Sarah zu besuchen, die an Multipler Sklerose im Frühstadium leidet. Sarah ist seine emotionale Verankerung in der Gegenwart.
 
 ## Verbindung zum Unglück
+
 Levin war 2008 als 19-jähriger Praktikant / Lehrling bei der RhB-Streckenwartung tätig. Er unterschrieb die Sichtprüfung einer defekten Weichenheizung als „in Ordnung“.
 
 Die juristische Verantwortung lag nicht allein bei ihm, aber seine Unterschrift ist der konkrete Punkt, an dem die Katastrophe körperlich und moralisch an ihm hängt.
 
 ## Verdrängte Wahrheit
+
 Er hat nicht einfach vergessen. Er hat aktiv verdrängt.
 
-Sein Leben danach wurde um diese Lücke herum gebaut. Dass er Geschichte studiert, ist kein Zufall: Er versucht, Vergangenheit zu ordnen, weil seine eigene Vergangenheit ungeordnet und umgeschrieben ist.
+Sein Leben danach wurde um diese Lücke herum gebaut. Dass er Historiker wurde, ist kein Zufall: Er versucht, Vergangenheit zu ordnen, weil seine eigene Vergangenheit ungeordnet und umgeschrieben ist.
 
 ## Äußeres Verhalten im Zug
+
 - beobachtet Details, die andere übersehen
 - reagiert körperlich auf Wörter wie Schnee, Schiene, Februar, Weiche, Formular
 - versucht rational zu bleiben
 - wird zunehmend zum unbequemen Erinnernden
 - wird von anderen misstrauisch betrachtet, weil nur er Lücken bemerkt
+- besitzt unpassende Detailkenntnis über Bahnabläufe, ohne sofort zu wissen, woher sie kommt
 
 ## Innerer Konflikt
+
 Levin will wissen, was geschieht, aber nicht, warum es mit ihm zu tun hat.
 
 Sein eigentlicher Widerstand ist nicht Angst vor dem Zug, sondern Angst vor der eigenen Rolle.
 
 ## Arc
+
 1. **Beobachter:** Er registriert das erste Verschwinden.
 2. **Zweifelnder:** Er glaubt, vielleicht selbst verrückt zu werden.
 3. **Ermittler:** Er sammelt Beweise gegen die Realität der anderen.
@@ -67,9 +101,11 @@ Sein eigentlicher Widerstand ist nicht Angst vor dem Zug, sondern Angst vor der 
 6. **Handelnder:** Er bremst, obwohl es die Vergangenheit nicht ungeschehen macht.
 
 ## Plot-Funktion
+
 Levin ist der letzte Passagier, weil er die größte verdrängte Verantwortung trägt. Er verschwindet nicht früh, weil der Zug ihn zur vollständigen Erinnerung treiben muss.
 
 ## Gefahr beim Schreiben
+
 Levin darf nicht zu früh aktiv-schuldig wirken. Der Leser soll seine Schuld rückblickend als vorbereitet, aber nicht platt angekündigt empfinden.
 
 Nicht: „Ich habe etwas Schlimmes getan.“  
@@ -80,37 +116,46 @@ Sondern: körperliche Reaktionen, Lücken, Ausweichbewegungen, unpassende Fachke
 # 2. Marlene Aregger
 
 ## Rolle
+
 Counterpart / emotionale Achse / Spiegel der professionellen Schuld.
 
 ## Alter
-26 zur Zeit des Unglücks; in der Gegenwart entsprechend älter oder durch die Zuglogik bewusst altersambivalent zu prüfen.
 
-> **Noch zu klären:** Ob Marlene in der Gegenwart realistisch 43 ist oder ob das Konzept sie bewusst jünger führt. Die Albula-Fassung nennt sie als Fotografin und frühere Lokführerin; diese Alterslogik muss vor Kapitel 1 sauber fixiert werden.
+43/44 in der Gegenwart. 26 beim Unglück 2008.
 
 ## Oberfläche
+
 Fotografin. Offen, aufmerksam, aber nie ganz verfügbar. Trägt eine alte mechanische Kamera. Sie wirkt wie jemand, der gelernt hat, Abstand durch Beobachtung herzustellen.
 
+Sie ist nicht mehr jung-naiv, sondern eine Frau, die seit fast zwei Jahrzehnten ein zweites Leben führt.
+
 ## Verbindung zum Unglück
+
 Sie war die Lokführerin des Unglückszuges. Sie bremste 26 Sekunden zu spät.
 
 Juristisch wurde sie freigesprochen. Innerlich nicht.
 
 ## Verdrängte Wahrheit
+
 Sie hat sich nach dem Unglück eine neue Identität aufgebaut. Neuer Beruf, neues Selbstbild, neue Sprache für ihr Leben.
 
 Sie weiß, dass ihr etwas fehlt, aber nicht was.
 
 ## Äußeres Verhalten im Zug
+
 - widerspricht Levin nicht sofort
 - nimmt Lücken ernster als andere
 - ihre Kamera wird zum Erinnerungsinstrument
 - wirkt kontrolliert, solange es um andere geht
 - bricht, sobald sie sich selbst als Lokführerin erkennt
+- reagiert körperlich auf Führerstand, Bremsgeräusche, Streckenansagen, Tunnel
 
 ## Innerer Konflikt
+
 Sie will glauben, dass sie überlebt hat, weil sie unschuldig war. Der Zug zwingt sie zur bittereren Wahrheit: Freispruch ist nicht dasselbe wie Frieden.
 
 ## Arc
+
 1. **Verbündete:** Sie glaubt Levin eher als andere.
 2. **Zeugin:** Ihre Kamera hält Unmögliches fest oder scheitert daran.
 3. **Gegenbild:** Sie zeigt Levin, dass auch juristisch entlastete Menschen Schuld tragen können.
@@ -118,9 +163,13 @@ Sie will glauben, dass sie überlebt hat, weil sie unschuldig war. Der Zug zwing
 5. **Verschwindende:** Ihr Verschwinden trifft Levin emotional, nicht nur strukturell.
 
 ## Plot-Funktion
+
 Marlene macht Levins Schuld menschlich. Ohne sie wäre das Finale nur ein Formular-Twist. Mit ihr wird es Beziehung, Verlust und verpasste Zukunft.
 
+Sie ist keine Love-Interest-Pflichtfigur. Gerade wegen des Alters und der geteilten Lebenslast funktioniert sie stärker als erwachsene Gegenfigur: zwei Menschen, die verschieden alt waren, aber vom selben Moment aus ihrem Leben geschoben wurden.
+
 ## Gefahr beim Schreiben
+
 Keine romantische Standardachse erzwingen. Nähe ja, Sentimentalität nein. Die Verbindung ist stärker, wenn sie aus gemeinsamem Erinnern entsteht, nicht aus Thriller-Romanze.
 
 ---
@@ -128,41 +177,51 @@ Keine romantische Standardachse erzwingen. Nähe ja, Sentimentalität nein. Die 
 # 3. Frau Lotte Hediger
 
 ## Rolle
+
 Die Wissende / moralisches Gegengewicht / Gedächtnisfigur.
 
 ## Alter
-71
+
+78/79 in der Gegenwart. Ca. 61 beim Unglück.
 
 ## Oberfläche
+
 Ehemalige Lehrerin. Ruhig, höflich, altmodisch präzise. Fährt angeblich jährlich nach Pontresina, „um die Berge zu sehen“.
 
 ## Verbindung zum Unglück
+
 Sie verlor ihren Mann beim Albula-Unglück.
 
 ## Verdrängte Wahrheit
+
 Im Gegensatz zu vielen anderen verdrängt sie nicht vollständig. Ihre Schuld liegt eher darin, dass sie ihr Leben an das Erinnern gebunden hat, aber vielleicht nie wirklich weitergelebt hat.
 
 Sie weiß mehr als alle anderen, spricht aber selten.
 
 ## Äußeres Verhalten im Zug
+
 - beobachtet Levin früh
 - reagiert nicht panisch auf Unmögliches
 - trägt ein altes Polizeifoto / einen Zeitungsausschnitt / einen Gegenstand ihres Mannes
 - gibt Informationen sparsam, fast widerwillig
 
 ## Innerer Konflikt
+
 Sie hat Erinnerung bewahrt, aber Erinnerung ist bei ihr auch Gefängnis geworden.
 
 ## Arc
+
 1. **Rätsel:** Sie wirkt, als erkenne sie Muster.
 2. **Schlüssel:** Sie liefert Levin erste konkrete Verbindung zum Unglück.
 3. **Warnung:** Sie zeigt, dass Wissen allein nicht erlöst.
 4. **Abschluss:** Ihr Verschwinden oder Verlassen des Zuges sollte leise sein, nicht spektakulär.
 
 ## Plot-Funktion
+
 Frau Hediger verhindert, dass der Leser zu lange im reinen „Was ist hier los?“-Modus bleibt. Sie bringt historische Schwere und Trauer ins Buch.
 
 ## Gefahr beim Schreiben
+
 Sie darf nicht zur Expositionsmaschine werden. Sie weiß mehr, aber nicht alles. Ihre Informationen müssen an Schmerz gebunden bleiben.
 
 ---
@@ -170,21 +229,27 @@ Sie darf nicht zur Expositionsmaschine werden. Sie weiß mehr, aber nicht alles.
 # 4. Tobias Reck
 
 ## Rolle
+
 Der Selbstbewusste / Systemschuld / erster starker Kandidat fürs Verschwinden.
 
 ## Alter
-49
+
+62/63 in der Gegenwart. Mitte 40 beim Unglück.
 
 ## Oberfläche
-Wirtschaftsanwalt oder Manager-Typ. Kontrolliert, arrogant, routiniert. Telefoniert auch ohne Netz, weil Gewohnheit stärker ist als Realität.
+
+Wirtschaftsanwalt, Berater oder ehemaliger Manager-Typ. Kontrolliert, arrogant, routiniert. Telefoniert auch ohne Netz, weil Gewohnheit stärker ist als Realität.
 
 ## Verbindung zum Unglück
+
 War damals stellvertretender Betriebsleiter oder Teil der RhB-Entscheidungsebene. Der Sparkurs und die Personalausdünnung, die zur Überlastung führten, hängen an ihm.
 
 ## Verdrängte Wahrheit
+
 Er sieht sich als jemand, der nur Zahlen, Abläufe und Sachzwänge verwaltete. Seine Schuld ist systemisch, aber nicht abstrakt: Seine Entscheidungen hatten Körper, Tote, Schnee, Metall.
 
 ## Äußeres Verhalten im Zug
+
 - übernimmt früh Deutungshoheit
 - erklärt Dinge weg
 - redet von Zuständigkeiten, Abläufen, Haftung
@@ -192,15 +257,19 @@ Er sieht sich als jemand, der nur Zahlen, Abläufe und Sachzwänge verwaltete. S
 - verschwindet früh, weil seine Schuld auf dem Papier leicht zu löschen ist
 
 ## Innerer Konflikt
+
 Er hat sein Gewissen in Sprache ausgelagert: Risiko, Effizienz, Prozess, Bericht.
 
 ## Arc
+
 Kurz und hart. Er muss nicht lange bleiben. Sein Verschwinden etabliert die Regel: Nicht nur Täter im engen Sinn sind betroffen, sondern auch Menschen, die Verantwortung in Systeme versteckt haben.
 
 ## Plot-Funktion
+
 Tobias zeigt dem Leser früh: Das Buch urteilt nicht simpel über „gute“ und „böse“ Menschen. Schuld kann bürokratisch aussehen.
 
 ## Gefahr beim Schreiben
+
 Nicht als Karikatur schreiben. Er darf unangenehm sein, aber nicht platt böse. Seine Selbstrechtfertigung muss nachvollziehbar klingen.
 
 ---
@@ -208,44 +277,55 @@ Nicht als Karikatur schreiben. Er darf unangenehm sein, aber nicht platt böse. 
 # 5. Anika und Jan
 
 ## Rolle
+
 Das Paar / Augenzeugenschuld / private Scham wird öffentliche Katastrophe.
 
 ## Alter
-Anika 28, Jan 29
+
+Anika 34/35, Jan 35/36 in der Gegenwart. Beide waren 2008 Jugendliche.
 
 ## Oberfläche
+
 Sie wirken wie ein Paar auf einer Wochenendreise. Nähe, kleine Spannungen, Insider-Sprache.
 
 ## Wahrheit der Gegenwart
+
 Sie sind seit Jahren getrennt oder emotional längst auseinander. Die Reise ist keine romantische Fahrt, sondern ein Versuch, etwas Unausgesprochenes zu berühren.
 
 ## Verbindung zum Unglück
+
 Sie waren 2008 als Jugendliche am Bahnhof Filisur und sahen Rauch / Qualm / ein auffälliges Zeichen an der Weichenheizung. Sie sagten nichts.
 
 Grund: Sie wollten nicht gesehen werden. Jan wollte nicht mit Anika erwischt werden, weil ihre Beziehung damals heimlich oder moralisch heikel war.
 
 ## Verdrängte Wahrheit
+
 Sie hätten vielleicht nicht sicher verhindern können, was geschah — aber sie hätten etwas sagen können. Ihr Schweigen war klein, privat, peinlich. Die Folgen waren groß.
 
 ## Äußeres Verhalten im Zug
+
 - einer erinnert mehr als der andere
 - wenn Jan verschwindet, erinnert sich Anika nicht mehr an ihn
 - Fotos verändern sich: Paarbild wird Einzelbild
 - Levin erkennt an ihnen erstmals, dass Verschwinden auch Beziehungen rückwirkend zerstört
 
 ## Innerer Konflikt
+
 Sie wollten damals nur ihre private Geschichte schützen. Der Zug zeigt: Manchmal ist private Feigheit nicht privat.
 
 ## Arc
+
 1. **Paaroberfläche:** Sie wirken wie normales Beziehungsdrama.
 2. **Riss:** Details stimmen nicht.
 3. **Tilgung:** Jan verschwindet; Anika erinnert sich nicht.
 4. **Beweis:** Foto / Nachricht / Sitzplatz zeigt Levin, dass Realität aktiv umschreibt.
 
 ## Plot-Funktion
+
 Anika und Jan geben dem zentralen Verschwinden emotionale Schärfe: Nicht nur Menschen gehen verloren, sondern ganze gemeinsame Vergangenheiten.
 
 ## Gefahr beim Schreiben
+
 Nicht zu soapig. Ihr Beziehungsdrama muss direkt mit dem Unglück verbunden bleiben.
 
 ---
@@ -253,41 +333,55 @@ Nicht zu soapig. Ihr Beziehungsdrama muss direkt mit dem Unglück verbunden blei
 # 6. Selma Vogt und Eliah
 
 ## Rolle
+
 Überlebensschuld / Mutter-Kind-Trauma / emotionaler Tiefpunkt.
 
 ## Alter
-Selma 38, Eliah 6
+
+Selma 53/54, Eliah 17/18 in der Gegenwart. Eliah war beim Unglück zehn Wochen alt.
 
 ## Oberfläche
-Mutter und Sohn. Selma wirkt erschöpft, überwachsam, vielleicht leicht sonderbar. Eliah ist ruhig, zu aufmerksam für sein Alter.
+
+Mutter und fast erwachsener Sohn. Selma wirkt erschöpft, überwachsam, vielleicht leicht sonderbar. Eliah ist ruhig, zurückgenommen und viel zu aufmerksam für sein Alter.
 
 ## Verbindung zum Unglück
+
 Selma überlebte den Unfall mit dem zehn Wochen alten Eliah. Ihre dreijährige Tochter Linn starb.
 
 Eliah war ein Säugling, erinnert sich aber im Zug an Dinge, die er nicht bewusst erlebt haben kann: eine kleine Hand, ein Lied, eine Stimme.
 
 ## Verdrängte Wahrheit
+
 Selma spricht von Linn, als sei sie noch da, oder vermeidet den Namen komplett — Entscheidung offen. Wichtig ist: Linn ist der emotionale Hohlraum dieser Figur.
 
+Eliah trägt keine Schuld im klassischen Sinn. Er ist eher ein Erinnerungsmedium: ein Mensch, dessen Körper etwas bewahrt hat, das sein Bewusstsein nie hätte speichern können.
+
 ## Äußeres Verhalten im Zug
+
 - Selma reagiert stark auf Kinderstimmen / Schlaflieder / kalte Fensterscheiben
-- Eliah sieht oder hört Dinge früher als Erwachsene
+- Eliah hört oder erkennt Dinge früher als Erwachsene
 - sein Lied kann ein Leitmotiv sein
 - Levin wird durch Eliah gezwungen, Schuld nicht nur abstrakt zu sehen
 
 ## Innerer Konflikt
+
 Selma überlebte als Mutter mit einem Kind und verlor ein anderes. Jede Version dieser Tatsache ist unerträglich.
 
+Eliah hat sein Leben lang mit einem Verlust gelebt, der vor seiner Sprache begann.
+
 ## Arc
+
 1. **Irritation:** Eliah weiß zu viel.
 2. **Enthüllung:** Linn wird als fehlendes Kind sichtbar.
 3. **Zusammenbruch:** Selma muss anerkennen, wen sie verloren hat.
 4. **Leise Erlösung oder tragischer Abgang:** Muss besonders sorgfältig entschieden werden.
 
 ## Plot-Funktion
+
 Selma und Eliah sind das emotionale Gewicht des Unglücks. Sie verhindern, dass der Plot zu sehr Rätselmechanik bleibt.
 
 ## Gefahr beim Schreiben
+
 Sehr hohes Kitschrisiko. Kindstod und traumatisierte Mutter dürfen nicht als billiger Tränendrücker benutzt werden. Weniger erklären, mehr konkrete Details.
 
 ---
@@ -295,41 +389,51 @@ Sehr hohes Kitschrisiko. Kindstod und traumatisierte Mutter dürfen nicht als bi
 # 7. Robert Marek
 
 ## Rolle
+
 Der Schlafende / unterlassene Wahrheit / journalistische Schuld.
 
 ## Alter
-52
+
+52/53 in der Gegenwart. Mitte 30 beim Unglück.
 
 ## Oberfläche
+
 Liegt im hintersten Abteil und wacht nicht auf. Andere halten ihn für krank, betrunken oder erschöpft.
 
 ## Verbindung zum Unglück
+
 War Journalist. Hatte Hinweise oder eine Insider-Story über Mängel bei der RhB. Veröffentlichte sie nicht, weil er unter Druck gesetzt wurde oder später eine bequemere Position annahm.
 
 ## Verdrängte Wahrheit
+
 Er hätte die Geschichte schreiben können. Er tat es nicht.
 
 Sein Schlaf ist keine Ruhe, sondern die ehrlichste Form seiner Flucht.
 
 ## Äußeres Verhalten im Zug
+
 - zunächst fast Objekt statt Figur
 - sein Abteil wird mit der Zeit wichtiger
 - Dokumente, Notizen, Diktiergerät oder alte Recherchemappe können bei ihm gefunden werden
 - vielleicht wacht er erst spät kurz auf
 
 ## Innerer Konflikt
+
 Er hat die Wahrheit gesehen und sich entschieden, sie nicht öffentlich zu machen.
 
 ## Arc
+
 1. **Schlafender Körper:** Er ist da, aber nicht verfügbar.
 2. **Spurenträger:** Seine Sachen liefern Hinweise.
 3. **Kurzes Erwachen:** Er sagt wenig, aber etwas Entscheidendes.
 4. **Verschwinden:** Seine Tilgung zeigt, dass Schweigen eine aktive Tat sein kann.
 
 ## Plot-Funktion
-Robert verbindet persönliche Schuld mit öffentlicher Wahrheit. Er ist ein Spiegel für Levins Geschichtsstudium: Wer Geschichte kennt und sie nicht ausspricht, macht sich schuldig.
+
+Robert verbindet persönliche Schuld mit öffentlicher Wahrheit. Er ist ein Spiegel für Levins Geschichtsarbeit: Wer Geschichte kennt und sie nicht ausspricht, macht sich schuldig.
 
 ## Gefahr beim Schreiben
+
 Nicht zu bequem als Informationslieferant verwenden. Sein Schlaf muss Bedeutung haben, nicht nur Verzögerung.
 
 ---
@@ -337,21 +441,27 @@ Nicht zu bequem als Informationslieferant verwenden. Sein Schlaf muss Bedeutung 
 # 8. Herr Vincenzo Mancini
 
 ## Rolle
+
 Der Schaffner / Wächter / Beobachter ohne Erlösung.
 
 ## Alter
+
 Äußerlich schwer bestimmbar. Er wirkt seit Jahren gleich.
 
 ## Oberfläche
+
 Schwarze Uniform, ruhig, langsam, akzentfrei oder nur minimal gefärbt. Kontrolliert keine Tickets im normalen Sinn. Er kontrolliert Anwesenheit, Lücken, Bereitschaft.
 
 ## Verbindung zum Unglück
+
 War damals als Schaffner auf einem anderen Zug oder in unmittelbarer Nähe. Hat das Unglück gesehen, ohne direkt verantwortlich zu sein.
 
 ## Verdrängte Wahrheit
+
 Er hat keine klare Tat-Schuld, aber auch keine reine Schuldlosigkeit. Seine Strafe ist Zeugenschaft ohne Ausstieg.
 
 ## Äußeres Verhalten im Zug
+
 - beantwortet Fragen indirekt
 - taucht auf, wenn Regeln sichtbar werden
 - korrigiert Levin selten, aber präzise
@@ -359,15 +469,19 @@ Er hat keine klare Tat-Schuld, aber auch keine reine Schuldlosigkeit. Seine Stra
 - seine Sätze sind kurz, höflich, schwer
 
 ## Innerer Konflikt
+
 Er ist der Mann, der alles gesehen hat und nichts mehr ändern kann.
 
 ## Arc
+
 Mancini verändert sich weniger als andere. Seine Funktion ist, dass Levin sich verändert, bis er Mancinis Rolle nicht mehr als Rätsel, sondern als Warnung versteht.
 
 ## Plot-Funktion
+
 Er hält das Mysterium zusammen, ohne es zu erklären. Er ist nicht der Bösewicht. Er ist auch nicht der Mentor. Er ist das Dienstpersonal der Schuld.
 
 ## Gefahr beim Schreiben
+
 Kein allwissender Orakel-Schaffner. Er darf nicht alles erklären. Je weniger er sagt, desto stärker ist er.
 
 ---
@@ -375,24 +489,31 @@ Kein allwissender Orakel-Schaffner. Er darf nicht alles erklären. Je weniger er
 # 9. Sarah Brand
 
 ## Rolle
+
 Gegenwartsanker / Mensch außerhalb des Zuges / Grund, warum Levin zurück ins Leben will.
 
 ## Alter
-Noch zu fixieren.
+
+Ca. 32–34 in der Gegenwart. Jünger als Levin.
 
 ## Oberfläche
+
 Levins Schwester. Lebt in Chur oder wird dort behandelt. Multiple Sklerose im Frühstadium.
 
 ## Verbindung zum Unglück
+
 Keine direkte Schuldverbindung. Sarah ist wichtig, weil sie nicht Teil des Zug-Systems ist. Sie repräsentiert die Welt danach.
 
 ## Funktion
+
 Sie verhindert, dass Levins Finale rein metaphysisch wird. Wenn er am Ende mit ihr spricht, wird Schuld nicht nur angenommen, sondern ausgesprochen.
 
 ## Schlussbild
-Café in Zürich. Levin erzählt ihr vom Sommerjob bei der RhB. Sie nimmt seine Hand. Schnee fällt diesmal nach unten.
+
+Café in Zürich. Levin erzählt ihr vom Praktikum bei der RhB. Sie nimmt seine Hand. Schnee fällt diesmal nach unten.
 
 ## Gefahr beim Schreiben
+
 Sarah darf nicht nur Krankheit als Motivation sein. Sie braucht eigene Kontur, auch wenn sie wenig Seitenzeit hat.
 
 ---
@@ -423,6 +544,7 @@ Diese Reihenfolge muss noch mit Kapitelstruktur und Spannungsbogen abgeglichen w
 - Keine Figur darf nur Twist-Lieferant sein.
 - Jede Figur muss Levin spiegeln.
 - Jede Schuld muss konkret, körperlich und szenisch werden.
+- Keine Rückkehr zu den verworfenen Altersangaben: Levin 24, Marlene 26, Eliah 6 in der Gegenwart.
 
 ---
 
