@@ -1,444 +1,448 @@
-# Akt I — Foundation Document
+# Act I — Foundation Document
 
-> **Status:** PROPOSAL — vor `kapitelplan.md` / Ch1-Beat-Plan prüfen und dann als Canon bestätigen.  
-> **Basis:** Übernommen ist die Arbeitsweise aus `bero-akt2-foundation.md`: erst die akt-blockierenden Fragen klären, dann Kapitel planen.  
-> **Projekt:** *Der Zug / Albula* — psychologischer Mystery-Thriller.
-
----
-
-## 0. Warum dieses Dokument existiert
-
-Akt I darf nicht einfach „Zug bleibt stehen + jemand verschwindet“ sein. Er muss vier Dinge gleichzeitig leisten:
-
-1. den Leser in ein konkretes, glaubwürdiges Albula-Setting ziehen,
-2. Levin als ruhigen, kontrollierten Mann etablieren, dessen Wahrnehmung später gegen die Welt steht,
-3. die Regeln des Verschwindens erstmals zeigen, ohne sie zu erklären,
-4. die verdrängte Levin-Schuld körperlich pflanzen, ohne den Final-Twist zu verraten.
-
-Akt I ist also kein Prolog und keine Exposition. Akt I ist der **Beweisapparat**: Der Leser soll am Ende glauben, dass mit diesem Zug etwas objektiv nicht stimmt — und gleichzeitig spüren, dass es besonders mit Levin nicht stimmt.
+> **Status:** CANON-FOUNDATION v1  
+> **Project:** *Der Zug / Albula*  
+> **Scope:** Kapitel 1–6 — from normal train to objective world-break.  
+> **Basis:** `01-canon.md`, `02-characters.md`, `03-chapter-plan.md`, `04-accident-2008.md`, `05-workflow.md`, `06-callback-ledger.md`.
 
 ---
 
-## 1. Akt-I-Aufgabe
+## 0. Why this document exists
 
-### Dramatische Hauptfrage
+Act I must not be merely: *train stops + someone disappears*.
 
-> Was passiert, wenn ein Mensch verschwindet — aber nur Levin sich daran erinnert, dass er je da war?
+It must do four things at once:
 
-### Emotionale Hauptfrage
+1. pull the reader into a concrete, plausible Albula train setting,
+2. establish Levin as a controlled adult whose perception later stands against everyone else,
+3. show the first rule of disappearance without explaining it,
+4. plant Levin's repressed guilt physically without revealing the final twist.
 
-> Warum reagiert Levin auf bestimmte Bahn-, Schnee- und Zeitdetails stärker, als seine Biografie erklären kann?
+Act I is not a prologue. Act I is the proof apparatus.
 
-### Akt-I-Endzustand
-
-Am Ende von Akt I gilt:
-
-- Der Zug steht nicht einfach wegen eines Schneesturms.
-- Die Außenwelt verhält sich falsch.
-- Mindestens eine zentrale Person wurde aus Erinnerung und Spuren getilgt.
-- Levin ist der einzige, der die Lücke behält.
-- Marlene ist als mögliche Verbündete etabliert.
-- Frau Hediger ist als Gedächtnisfigur angedeutet.
-- Mancini ist als ruhige, nicht normale Schaffnerfigur gesetzt.
-- Der Leser weiß noch NICHT, dass Levin 2008 der RhB-Praktikant war.
-- Der Leser soll aber auf Re-Read merken: Es war von Anfang an vorbereitet.
+By the end, the reader should believe that something is objectively wrong with the train — and also feel that Levin himself is wrong in a more private way.
 
 ---
 
-## 2. Route / Geografie — Akt-I-Logik-Fix
+## 1. Act-I job
 
-### Problem der früheren Fassung
+### Dramatic main question
 
-Die ursprüngliche Formulierung „Levin reist von Zürich nach Chur“ kollidiert mit dem Albula-Setting. Eine direkte Zürich–Chur-Reise führt nicht über Filisur, Bergün, Landwasserviadukt oder Albulatunnel.
+> What happens when a person disappears, but only Levin remembers that he ever existed?
 
-### Foundation-Entscheid
+### Emotional main question
 
-Levin reist **nach Chur zu Sarah**, aber er kommt **nicht direkt aus Zürich**.
+> Why does Levin react to certain railway, snow and time details more strongly than his biography seems to justify?
 
-Er war zuvor im Engadin / Raum St. Moritz / Samedan / Pontresina für einen beruflichen Termin:
+### Act-I end state
 
-- Archivbesuch,
-- Vortrag,
-- Quellenbesichtigung,
-- universitäres Kolloquium,
-- oder Recherche zu alpiner Infrastrukturgeschichte.
+At the end of Act I:
 
-Danach nimmt er am Abend / in der Nacht den Zug Richtung Chur, um Sarah am nächsten Morgen zu sehen.
-
-### Warum das funktioniert
-
-- Levin bleibt Historiker / wissenschaftlicher Mitarbeiter in Zürich.
-- Sarah bleibt Gegenwartsanker in Chur.
-- Die Albula-Strecke liegt logisch auf seiner Route.
-- Seine berufliche Nähe zu Archiv, Akten und Vergangenheit spiegelt seine private Verdrängung.
-- Der Reisegrund wirkt erwachsen und glaubwürdig für Levin 36/37.
-
-### Akt-I-Streckenraum
-
-Akt I spielt auf der Strecke:
-
-- Engadin / St. Moritz / Samedan / Pontresina als Abfahrts-Vorgeschichte,
-- Albulatunnel / Preda / Bergün als Gebirgsraum,
-- Filisur / Landwasserraum als unheimlicher Ziel-Sog,
-- Chur als versprochene Normalwelt, die nie erreicht wird.
-
-Der Zug darf in Akt I nicht touristisch beschrieben werden. Albula soll nicht wie ein Prospekt wirken, sondern wie ein realer, kalter, enger Ort aus Metall, Fels, Schnee, Tunnel und Glas.
-
-### Was geografisch NICHT passiert in Akt I
-
-- Kein direkter Zürich–Chur-Fehler mehr.
-- Keine vage „irgendwo im Gebirge“-Kulisse ohne Bahnlogik.
-- Kein sofortiges Erklären der Strecke.
-- Kein Reiseführer-Ton.
-- Kein großes Herumlaufen im Gebirge. Die Außenwelt bleibt hinter Glas.
+- The train is not merely stopped because of snow.
+- The outside world behaves incorrectly.
+- Tobias Reck has been established as real and then erased from memory and traces.
+- Levin is the only one who keeps the gap.
+- Marlene is established as a possible perceptual counterpart, not a romantic solution.
+- Frau Hediger is established as a memory-bearing figure.
+- Mancini is established as too calm and not normal, but not as an explainer.
+- The reader still does **not** know that Levin was the 19-year-old RhB trainee in 2008.
+- The reader should be able to reread the act and see that the truth was prepared from the beginning.
 
 ---
 
-## 3. Zug-Karte — Akt-I-Anker
+## 2. Route / geography lock
 
-Der Zug braucht für den Leser eine einfache innere Karte. Nicht jedes Detail muss sofort erklärt werden, aber der Autor muss wissen, wo was liegt.
+### Problem fixed
 
-| Bereich | Was | Funktion in Akt I |
+The earlier idea “Levin travels from Zürich to Chur” does not fit the Albula route. A direct Zürich–Chur trip does not go through Filisur, Bergün, the Landwasser area or the Albula line.
+
+### Current route
+
+Levin is going **to Chur** to see Sarah, but he is **not coming directly from Zürich**.
+
+Before boarding, he was in the Engadin / St. Moritz / Samedan / Pontresina area for a professional reason:
+
+- archive visit,
+- lecture,
+- source inspection,
+- university colloquium,
+- or research on alpine infrastructure history.
+
+After that, he takes the evening / night train toward Chur.
+
+### Why this works
+
+- Levin can still live and work in Zürich.
+- Sarah remains the Chur-facing present anchor.
+- The Albula route is geographically plausible.
+- Levin's professional life with archives, documents and the past mirrors his private repression.
+- The setup fits Levin's current age: 36/37.
+
+### Act-I route texture
+
+Use the Albula area as a cold, physical, railway space:
+
+- Engadin / St. Moritz / Samedan / Pontresina as departure background,
+- Albulatunnel / Preda / Bergün as mountain pressure,
+- Filisur / Landwasser as uncanny destination-pull,
+- Chur as the promised normal world that is not reached.
+
+No tourist brochure tone.
+
+---
+
+## 3. Train map — Act-I anchors
+
+The reader needs a simple train map. Do not explain every detail, but keep the internal logic stable.
+
+| Area | What | Act-I function |
 |---|---|---|
-| **Wagen 1 / vorderer Bereich** | Nähe Führerstand, für Passagiere zunächst nicht zugänglich | Verbotener Raum; nicht zu früh betreten |
-| **Wagen 2 / Levins Wagen** | Sitzplätze, Platz 47, kalte Fenster, gedämpftes Licht | Hauptort des ersten Verschwindens |
-| **Wagen 3 / Speisewagen** | kalter Kaffee, kleine Tische, Notlicht, Gespräche | soziales Druckzentrum; erste Gruppenbildung |
-| **Wagen 4 / Familien- und Ruhebereich** | Selma/Eliah, andere Reisende, leisere Atmosphäre | emotionaler Gegenpol zum Speisewagen |
-| **Wagen 5 / Gepäck- oder Servicewagen** | Koffer, Türen, dunklere Zonen | erste räumliche Unruhe; noch nicht voll erkunden |
-| **Wagen 6 / hinterer Bereich** | Robert schläft, Abteile, eventuell Schaffnernähe | spätere Bedeutung; in Akt I nur andeuten |
-| **Schaffnerabteil** | Vorhang, Dienstlampe, Unterlagen, Mancini | Regel-Ort; nicht plündern, nicht erklären |
+| Wagen 1 / front area | near driver / service boundary | forbidden space; do not enter too early |
+| Wagen 2 / Levin's carriage | seats, cold windows, Platz 47 | main place for first disappearance |
+| Wagen 3 / Speisewagen | cold coffee, small tables, Notlicht | social pressure center |
+| Wagen 4 / family and quiet area | Selma / Eliah | emotional undertow |
+| Wagen 5 / baggage or service area | luggage, darker zones | later spatial unease; only hint in Act I |
+| Wagen 6 / rear area | Robert asleep, compartments | later importance; only seed in Act I |
+| Schaffnerabteil | service lamp, papers, Mancini | rule-space; do not explain or plunder early |
 
 ### Platz 47
 
-Platz 47 ist der erste harte Marker. Der Leser muss sich diesen Platz merken, ohne dass er als „Symbol“ erklärt wird.
+Platz 47 is the first hard marker.
 
-Mögliche Funktion:
+Tobias Reck is fixed as the first hard Tilgung and is connected to this seat.
 
-- Tobias Reck sitzt dort oder wird mit diesem Platz verbunden.
-- Levin beobachtet ihn dort vor dem Verschwinden.
-- Nach der Tilgung behaupten andere: Der Platz war immer leer / anders belegt / nicht reserviert.
-- Materielle Spuren passen sich an: Ticket, Gepäck, Foto, Sitzplan.
-- Levin behält eine nicht passende Erinnerung oder einen körperlichen Rest: Stimme, Geruch, Satz, Handbewegung.
+Before he disappears, the manuscript must make him real through:
+
+- voice,
+- seat position,
+- coffee ring,
+- ticket or reservation,
+- bag / folder / phone habit,
+- a sentence about liability, responsibility or process,
+- social pressure against Levin.
+
+After the Tilgung, the world claims he was never there.
 
 ---
 
-## 4. Figuren-Einführung in Akt I
+## 4. Character introductions in Act I
 
-Akt I darf das Ensemble nicht als Liste vorstellen. Jede Figur muss durch Verhalten am Zug sichtbar werden.
+Act I must not introduce the ensemble as a list. Each person must become visible through behaviour inside the train.
 
 ### Levin Brand
 
-**Einführung:** kontrolliert, höflich, müde, beobachtend. Kein junger Suchender, sondern ein erwachsener Mann, der zu viel in Akten und zu wenig in sich selbst lebt.
+Controlled, polite, tired, observant. He is not a young seeker, but an adult man who lives too much in records and too little in himself.
 
-**Akt-I-Funktion:** Er registriert Details, die andere übersehen, und beginnt an seiner Wahrnehmung zu zweifeln.
+Act-I function:
 
-**Verdrängungs-Planting:**
+- notices details others miss,
+- begins to doubt his own perception,
+- reacts physically to words before he understands them.
 
-- körperliche Reaktion auf Wörter wie Weiche, Formular, Wartung, Februar, 02:47,
-- unpassende Detailkenntnis über Bahnabläufe,
-- Vermeidung des Jahres 2008,
-- innere Lücke, wenn die RhB-Vergangenheit gestreift wird,
-- metallisches Splittern als Geräusch ohne Ursprung.
+Planting:
 
-Levin darf nicht denken: „Ich war schuld.“  
-Er darf nur merken, dass sein Körper etwas weiß, was sein Denken nicht wissen will.
+- body reaction to `Weiche`, `Formular`, `Wartung`, `Februar`, `02:47`,
+- unplaced knowledge of railway procedure,
+- avoidance of 2008 / RhB / old summer-job material,
+- metallic splitting sound without source.
+
+He must not think: *I was guilty.*
+
+He may only feel that his body knows something his mind refuses.
 
 ### Marlene Aregger
 
-**Einführung:** Fotografin, 43/44, ruhig, aufmerksam, mit mechanischer Kamera. Sie sieht Menschen, indem sie Abstand hält.
+Photographer, 43/44, old mechanical camera, calm, attentive, never fully available.
 
-**Akt-I-Funktion:** Sie wird nicht sofort Verbündete, aber sie widerspricht Levin weniger hart als die anderen. Sie nimmt die Lücke ernst, weil sie selbst eine Lücke in sich trägt.
+Act-I function:
 
-**Planting:**
+- does not immediately believe Levin, but does not dismiss him as quickly as others,
+- becomes a perception-counterpart,
+- remains a person with her own sealed center.
 
-- Kamera reagiert seltsam: Bild fehlt, Negativ leer, Person unscharf, Zeitstempel falsch,
-- körperliche Reaktion auf Bremsgeräusch / Tunnel / Führerstandsnähe,
-- sie benutzt präzise Bahn-Wörter, ohne sofort zu erklären, warum.
+Planting:
 
-**No-Go:** Keine junge Love-Interest-Energie. Nähe entsteht aus gemeinsamer Wahrnehmung, nicht aus Thriller-Romanze.
+- image missing / negative blank / blurred absence / false timestamp,
+- body reaction to brake sound / tunnel / driver-area proximity,
+- precise railway words used without explanation.
+
+No young love-interest energy.
 
 ### Tobias Reck
 
-**Einführung:** selbstsicher, formal, kontrollierend. Er erklärt das Unmögliche weg, bevor es überhaupt benannt ist.
+Self-assured, formal, controlling.
 
-**Akt-I-Funktion:** Er ist die soziale Gegenkraft zu Levin. Er rationalisiert, delegitimiert, spricht in Zuständigkeiten und Haftungslogik.
+Act-I function:
 
-**Verschwinden:** Tobias ist der stärkste Kandidat für das erste zentrale Verschwinden am Ende von Akt I, weil seine Schuld papiernah, systemisch und „löschbar“ ist. Sein Wegfall etabliert die Regel, ohne sofort das ganze Ensemble zu zerstören.
+- social antagonist to Levin,
+- rationalizes the impossible before it is named,
+- speaks in liability, process, responsibility, efficiency.
 
-**No-Go:** Nicht platt böse schreiben. Er darf unangenehm sein, aber seine Sprache muss glaubwürdig klingen.
+Tilgung:
+
+- Tobias is the first hard disappearance.
+- His loss establishes that memory and material traces can be rewritten.
+- He must not be written as cartoon evil. His self-justifying language must sound believable.
 
 ### Frau Lotte Hediger
 
-**Einführung:** leise, alt, präzise. Sie beobachtet mehr, als sie sagt.
+Quiet, elderly, precise.
 
-**Akt-I-Funktion:** Sie trägt Gewicht, ohne Exposition abzuladen. Sie kann auf 02:47, Filisur, Februar oder Schnee reagieren, aber nicht erklären.
+Act-I function:
 
-**Mögliche erste Saat:** Sie korrigiert scheinbar beiläufig einen Ortsnamen oder eine Zeitangabe. Levin merkt: Sie weiß etwas über die Strecke.
+- carries weight without exposition,
+- reacts to route / time / snow more knowingly than others,
+- gives the reader a sense that memory has a human cost.
 
-**No-Go:** Keine „alte Frau erklärt alles“-Funktion.
+She must not become the old woman who explains everything.
 
-### Anika und Jan
+### Anika and Jan
 
-**Einführung:** wirken wie ein Paar mit alter Spannung. Nicht zu viel Drama, aber ein sichtbarer Riss.
+They seem like a couple with an old tension.
 
-**Akt-I-Funktion:** Noch kein großer Payoff. Sie zeigen: Beziehungen im Zug sind nicht stabiler als Erinnerungen.
+Act-I function:
 
-**Planting:** Foto auf dem Handy, kleine Uneinigkeit über eine frühere Reise, Vermeidung von Filisur / Bahnhof / Rauch.
+- visible enough that their later relational Tilgung has a base,
+- not yet a major payoff.
 
-### Selma Vogt und Eliah
+Planting:
 
-**Einführung:** Selma 53/54, Eliah 17/18. Kein Kind mehr. Er ist still, zu genau, reagiert auf Dinge, die er als Säugling nicht bewusst erlebt haben dürfte.
+- phone photo,
+- small disagreement about an earlier journey,
+- avoidance around Filisur / platform / smoke / being seen.
 
-**Akt-I-Funktion:** Emotionaler Unterstrom. Eliah kann ein Geräusch, ein Lied oder eine Handbewegung kennen, die er unmöglich kennen sollte.
+### Selma Vogt and Eliah
 
-**No-Go:** Kein Gruselkind-Klischee. Eliah ist kein Orakel, sondern ein Jugendlicher mit Körpererinnerungen.
+Selma 53/54, Eliah 17/18. He is not a child.
+
+Act-I function:
+
+- emotional undertow,
+- quiet disturbance,
+- early body-memory seed.
+
+Planting:
+
+- Eliah reacts to a sound or rhythm he should not know,
+- Selma overreacts to cold glass / a song / counting seats,
+- no horror-child cliché.
 
 ### Robert Marek
 
-**Einführung:** schläft / ist nicht verfügbar / liegt im hinteren Bereich.
+Sleeping / unavailable in the rear area.
 
-**Akt-I-Funktion:** Präsenz ohne Zugriff. Der Leser soll ihn bemerken, aber nicht verstehen.
+Act-I function:
 
-**Planting:** Tasche, Notizbuch, Diktiergerät, Presseausweis oder alter Umschlag möglich — aber in Akt I noch nicht auswerten.
+- presence without access,
+- seed for later record / journalist material.
 
-### Herr Vincenzo Mancini
+Possible seed:
 
-**Einführung:** zuerst fast normaler Schaffner. Dann zu ruhig.
+- bag,
+- notebook,
+- recorder,
+- press card,
+- envelope.
 
-**Akt-I-Funktion:** Er markiert, dass die Regeln des Zuges älter sind als die Panik der Passagiere.
+Do not evaluate his material in Act I.
 
-**Register:** höflich, knapp, indirekt. Keine langen Erklärungen.
+### Vincenzo Mancini
 
-**No-Go:** Kein allwissender Erklärmeister. Kein Dämon. Kein „Willkommen im Zug der Schuld“-Satz.
+At first almost a normal conductor. Then too calm.
 
----
+Act-I function:
 
-## 5. Erste Tilgung — Mechanik für Akt I
+- marks that the train has rules older than the passengers' panic,
+- checks presence more than tickets,
+- says little.
 
-### Was gezeigt werden muss
-
-Das erste Verschwinden muss die Weltregel erfahrbar machen:
-
-1. Eine Person war sichtbar da.
-2. Levin hatte Kontakt / Beobachtung / Erinnerung.
-3. Die Person fehlt.
-4. Andere erinnern sich nicht.
-5. Materielle Spuren haben sich angepasst.
-6. Mindestens ein Rest widersetzt sich der Tilgung — aber nur für Levin oder nur in beschädigter Form.
-
-### Was NICHT erklärt werden darf
-
-- warum Tobias / die Person verschwindet,
-- welche Reihenfolge die Schuld bestimmt,
-- dass alle mit 2008 verbunden sind,
-- dass Levin Hauptverantwortung trägt,
-- was Mancini genau ist,
-- wohin der Zug fährt.
-
-### Warum Levin erinnert
-
-In Akt I wird das nicht erklärt. Aber die Mechanik muss mit dem Canon kompatibel sein:
-
-Levin erinnert sich, weil seine eigene verdrängte Wahrheit bereits zu reißen beginnt. Er ist nicht „besonders“. Er ist beschädigt an genau der Stelle, an der der Zug arbeitet.
-
-### Der Rest nach der Tilgung
-
-Ein guter Akt-I-Rest wäre klein, konkret und störend:
-
-- ein Kaffeering auf dem Tisch, wo angeblich niemand saß,
-- Levins Notiz mit einem Namen, den niemand kennt,
-- eine Foto-Lücke auf Marlenes Negativ,
-- ein Sitzplatz, der laut Plan nicht existieren sollte,
-- ein Satz, den Levin noch im Ohr hat,
-- eine Uhrzeit auf einem digitalen Display: 02:47.
-
-Der Rest darf nicht beweisen, was der Zug ist. Er darf nur beweisen, dass Levins Wahrnehmung nicht einfach krank ist.
+No god, no demon, no “welcome to the guilt train” sentence.
 
 ---
 
-## 6. Hidden-Truth-Planting — Levin
+## 5. First Tilgung — Act-I mechanics
 
-Die große Gefahr: Levins Final-Twist darf nicht aus dem Nichts kommen, aber er darf auch nicht vorweggenommen werden.
+The first disappearance must show the world-rule by experience, not explanation:
 
-### Reader-side Seeds
+1. Tobias was visibly there.
+2. Levin had contact / observation / memory.
+3. Tobias is gone.
+4. Others do not remember him.
+5. Material traces have adapted.
+6. At least one small residue resists deletion, but only in damaged form.
 
-| Seed | Akt-I-Form | Darf Levin es verstehen? |
+Possible residue:
+
+- coffee ring where no one sat,
+- Levin's note with an impossible name,
+- photo gap / negative damage,
+- seat-plan contradiction,
+- sentence fragment in Levin's ear,
+- 02:47 on a display.
+
+Do not explain:
+
+- why Tobias disappears,
+- that he is connected to system guilt,
+- that all passengers connect to 2008,
+- why Levin remembers,
+- what Mancini is,
+- where the train is going.
+
+Canon-compatible hidden reason:
+
+> Levin remembers because his own repressed truth is already cracking. He is not special. He is damaged at the exact point where the train works.
+
+---
+
+## 6. Hidden-truth planting — Levin
+
+The final twist must feel prepared but not leaked.
+
+| Seed | Act-I form | May Levin understand it? |
 |---|---|---|
-| **02:47** | Uhrzeit, Display, Durchsagebruch, Blick auf Uhr | Nein. Nur Unruhe. |
-| **Metallisches Splittern** | Traum, Bremsgeräusch, Glas-/Schienenklang | Nein. Nur körperlicher Reflex. |
-| **Weiche / Wartung / Formular** | beiläufige Wörter, die ihn aus dem Takt bringen | Nein. Keine Erinnerung. |
-| **RhB-Vergangenheit** | „Sommerjob“, „Praktikum“, abgebrochene Selbstauskunft | Nur als entwertete Nebensache. |
-| **Übermüdung** | Schlaflosigkeit, Kopfschmerz, Schicht-/Zeit-Thema | Nein. Nur Echo. |
-| **Akten / Geschichte** | Beruflicher Umgang mit Vergangenheit | Ja, aber nicht als Schuldspiegel. |
-| **Sarah** | Grund, warum er nach Chur muss | Ja. Gegenwartsbindung. |
+| 02:47 | clock / display / broken announcement | no |
+| metallic splitting | dream / brake / glass / rail sound | no |
+| switch / maintenance / form | words that hit his body | no |
+| RhB past | summer job / practical work as dismissed aside | only as harmless biographical scrap |
+| exhaustion | sleeplessness / time pressure / headache | no |
+| archives / history | profession near records and the past | yes, but not as guilt mirror yet |
+| Sarah | reason to reach Chur | yes |
 
-### Schreibregel
+Writing rule:
 
-Nicht erklären:
-
-> Levin hatte damals etwas verdrängt.
-
-Sondern zeigen:
-
-> Ein Wort fällt. Sein Körper reagiert zu schnell. Sein Denken kommt zu spät.
+> A word falls. His body reacts too quickly. His thinking arrives too late.
 
 ---
 
-## 7. Informationsverteilung Akt I
+## 7. Information distribution in Act I
 
-### Was der Leser am Ende von Akt I wissen darf
+### Reader may know by Act-I end
 
-- Der Zug steht nicht normal.
-- Eine Person kann aus Erinnerung und Spuren verschwinden.
-- Levin erinnert sich als Einziger.
-- Marlene ist möglicherweise ebenfalls empfindlich für Lücken.
-- Mancini weiß mehr, als er sagt.
-- Frau Hediger kennt die Strecke / Vergangenheit besser, als sie zugibt.
-- 02:47 ist wichtig, aber noch nicht warum.
+- The train is not stopped normally.
+- A person can disappear from memory and traces.
+- Levin alone remembers.
+- Marlene may be sensitive to gaps.
+- Mancini knows more than he says.
+- Hediger knows the route / past better than she admits.
+- 02:47 matters, but not why.
 
-### Was der Leser am Ende von Akt I NICHT wissen darf
+### Reader must not know by Act-I end
 
-- Das Unglück von 2008 in voller Form.
-- Dass alle zentralen Passagiere mit diesem Unglück verbunden sind.
-- Dass Levin das Wartungsformular unterschrieben hat.
-- Dass Marlene die Lokführerin war.
-- Dass Tobias' Schuld systemisch am Sparkurs hing.
-- Die genaue Reihenfolge der Schuld.
-- Ob der Zug metaphysisch, psychologisch oder real ist.
+- the full 2008 accident,
+- that all central passengers are tied to it,
+- that Levin signed the inspection form,
+- that Marlene was the locomotive driver,
+- Tobias's full system guilt,
+- the exact guilt order,
+- the train's full rule-system.
 
-### Was Levin am Ende von Akt I glaubt
+### Levin's Act-I hypothesis range
 
-Levin glaubt nicht an eine Schuldprüfung. Er glaubt an eine der folgenden Zwischenhypothesen:
+Levin may suspect:
 
-- kollektive Verwirrung,
-- technischer Ausfall plus Panik,
-- Erinnerungstäuschung,
-- Manipulation durch eine Person im Zug,
-- beginnende eigene psychische Krise,
-- oder eine noch nicht benennbare Störung der Realität.
+- panic,
+- manipulation,
+- technical malfunction,
+- group confusion,
+- memory error,
+- his own mental instability,
+- or a reality disturbance without the right language.
 
-Er darf noch nicht die richtige Sprache für den Zug haben.
+He must not formulate the correct theory.
 
 ---
 
-## 8. Kapitel-Funktion — vorläufiger Akt-I-Bogen
+## 8. Chapter route — Act I
 
-Dies ist noch kein vollständiger `kapitelplan.md`, aber eine Foundation für die spätere Struktur.
+| Chapter | Function | Must do |
+|---:|---|---|
+| Ch1 — Der letzte Zug | route, Sarah, ensemble, first sensory seeds | put reader in train/body; seed 02:47 and splitting |
+| Ch2 — Halt | train stops, power/network disruption | establish external pressure without explaining mystery |
+| Ch3 — Platz 47 | Tobias as concrete person | make Tobias real before deletion |
+| Ch4 — Marlenes Kamera | first perception-counterpart | plant camera as damaged memory instrument |
+| Ch5 — Der leere Platz | first hard Tilgung | Tobias gone; others do not remember; traces rewritten |
+| Ch6 — Schnee, der nicht fällt | Act-I turn | objective world-break; Levin accepts it is not only his head |
 
-| Kapitel | Arbeitsfunktion | Muss leisten |
+### Act-I final image
+
+Best ending is an image, not an explanation:
+
+- the train stands,
+- snow moves as if the train were still travelling,
+- a clock shows / returns to 02:47,
+- Levin sees something in the window that does not belong to the present.
+
+Act-I exit question:
+
+> If the train is not moving, why is the world outside moving anyway?
+
+---
+
+## 9. Transition seam into Act II
+
+Chapter 7 must not reset after the first disappearance.
+
+It must begin from the residue of Tobias / Platz 47.
+
+Working seam:
+
+> First the train erased a man from a seat. Then it erases a man from a life.
+
+Practical requirement for Chapter 7:
+
+- keep Tobias residue present at the start,
+- let Levin still be socially unstable because of Ch5/Ch6,
+- then shift to Jan/Anika as a new Tilgung layer: relationship, not record.
+
+---
+
+## 10. Act-I motifs
+
+| Motif | First function | Later payoff |
 |---|---|---|
-| **Ch1 — Einstieg / letzter Zug** | Levin, Route, Sarah, Ensemble, Albula-Kälte | Leser in Zug und Körper bringen; erste 02:47-/Splitter-Saat |
-| **Ch2 — Stillstand** | Zug hält / Strom-Netz-Störung / Schnee | äußere Bedrohung glaubwürdig etablieren, noch ohne Mystery-Erklärung |
-| **Ch3 — Platz 47** | Tobias / Platz / soziale Reibung | erste klare Erinnerungsspur an Person setzen, bevor sie verschwindet |
-| **Ch4 — Marlene / Kamera** | erste Verbündetenachse | Kamera als Erinnerungsinstrument pflanzen; Marlene nicht zu schnell öffnen |
-| **Ch5 — Der leere Platz** | erste Tilgung | Person fehlt; andere erinnern sich nicht; Spuren angepasst |
-| **Ch6 — Schnee, der nicht fällt** | Akt-I-Turn | Außenwelt kippt sichtbar; Levin akzeptiert: nicht nur sein Kopf ist falsch |
-
-### Akt-I-Schlussbild
-
-Der beste Akt-I-Schluss ist kein Erklärsatz, sondern ein Bild:
-
-- Der Zug steht.
-- Vor dem Fenster bewegt sich Schnee, als führe der Zug weiter.
-- Eine Uhr zeigt 02:47 oder springt darauf zurück.
-- Levin sieht in der Scheibe nicht nur sein Spiegelbild, sondern für einen Moment etwas, das nicht in die Gegenwart gehört.
-
-Der Leser soll weiterblättern wegen der Frage:
-
-> Wenn der Zug nicht fährt — warum bewegt sich die Welt draußen trotzdem?
+| 02:47 | wrong time / display | accident moment |
+| snow in wrong direction | outside world wrong | train moves through memory / moment |
+| cold coffee | Speisewagen anchor | material residue / everyday object made uncanny |
+| metallic splitting | Levin body-memory | switch / derailment sound |
+| Platz 47 | first Tilgung | rule of erased existence |
+| Marlene's camera | damaged memory | Marlene truth / disappearance |
+| window as mirror | self-observation / wrong outside | identity break / Führerstand / finale |
+| Sarah's message | present anchor | final conversation |
+| Mancini's punch / tickets | service gesture | presence check, not normal ticketing |
+| tunnel / viaduct | Albula body | approach to 2008 moment |
 
 ---
 
-## 9. Motive — Akt-I-Pflanzung
+## 11. Act-I no-gos
 
-| Motiv | Erste Funktion | Späterer Payoff |
-|---|---|---|
-| **02:47** | unpassende Uhrzeit / Displayfehler | Moment des Unglücks |
-| **Schnee in falscher Richtung** | Außenwelt stimmt nicht | Zug fährt durch Erinnerung, nicht Raum |
-| **Kalter Kaffee** | Speisewagen-Anker | wiederkehrender Realitätsmarker |
-| **Metallisches Splittern** | Levins Körpererinnerung | Weichen-/Entgleisungsgeräusch 2008 |
-| **Platz 47** | erste Tilgung konkretisieren | Regel der gelöschten Existenz |
-| **Marlene Kamera** | beschädigte Erinnerung sichtbar machen | Marlenes eigene Wahrheit / Verschwindensszene |
-| **Fenster als Spiegel** | Selbstbeobachtung / falsche Außenwelt | Identitätsbruch, Führerstand, Finale |
-| **Sarahs Nachricht** | Gegenwartsanker | Schlussgespräch / Schuld aussprechen |
-| **Mancinis Zange / Fahrkarten** | Dienstgeste ohne normale Funktion | Kontrolle von Anwesenheit, nicht Tickets |
-| **Tunnel / Viadukt** | Albula-Körper | Annäherung an 2008-Moment |
-
----
-
-## 10. Spannungsmechanik Akt I
-
-Akt I soll nicht durch Action tragen, sondern durch Verengung.
-
-### Eskalationsstufen
-
-1. **Unruhe:** Wetter, Verspätung, Müdigkeit, schlechte Verbindung.
-2. **Störung:** Zug bleibt stehen, Licht / Netz / Ansagen verhalten sich falsch.
-3. **Sozialer Druck:** Passagiere erklären, streiten, rationalisieren.
-4. **Wahrnehmungsbruch:** Levin erinnert etwas, das andere bestreiten.
-5. **Materieller Bruch:** Foto / Ticket / Gepäck / Sitzplan verändert sich.
-6. **Weltbruch:** Schnee und Außenwelt widersprechen dem Stillstand.
-
-### Nicht zu früh einsetzen
-
-- keine körperliche Gewalt als Hauptmotor,
-- keine Speisewagen-Diktatur,
-- kein großer Fluchtversuch in Akt I,
-- keine vollständige Zug-Erkundung,
-- kein Führerstand,
-- keine vollständige Offenlegung des Unglücks.
+- No direct Zürich–Chur over Albula error.
+- No return to Levin 24 / Marlene 26.
+- No all-dead dominant framing.
+- No conductor explanation.
+- No Marlene love-interest coding.
+- No horror-child Eliah.
+- No random passengers without Albula function.
+- No words like Schuldzug / Jenseits / Prüfung / Strafe as explanatory frame.
+- No full 2008 explanation before the midpoint.
+- No form / uniform / Levin signature in Act I.
+- No time-travel repair mechanics.
+- No scene where Levin states the correct theory too early.
 
 ---
 
-## 11. Was Akt I NICHT ist
+## 12. Next step after this foundation
 
-Akt I ist NICHT:
+Before drafting Chapter 1:
 
-- ein Katastrophenfilm,
-- ein Survival-Plot mit Rationen und Deckenkrieg,
-- ein Fegefeuer-Rätsel,
-- eine Geisterzug-Erklärung,
-- ein Romanbeginn über junge Erwachsene,
-- ein Liebesplot,
-- ein Schweizer Tourismusprospekt,
-- ein technischer Bahnbericht,
-- ein Prolog zum „eigentlichen“ Buch.
-
-Akt I ist das Buch. Es muss bereits dieselbe Qualität, denselben Ton und dieselbe moralische Kälte tragen wie das Finale.
+1. Read `03-chapter-plan.md` Chapter 1 entry.
+2. Check `06-callback-ledger.md` for Ch1 seeds: 02:47, metallic splitting, Sarah, route, first ensemble visibility.
+3. Build a Chapter 1 beat plan using `05-workflow.md`.
+4. Confirm the logic gate: route, character motivation and hidden-truth protection must all pass.
+5. Only then draft `21-chapter-01.md` beat by beat.
 
 ---
 
-## 12. Akt-I-No-Gos
+## 13. Short prompt memory
 
-- Keine Rückkehr zu Levin 24 / Marlene 26.
-- Keine direkte Zürich–Chur-Route über Albula.
-- Keine „alle sind tot“-Andeutung als dominante Lesart.
-- Kein Schaffner, der die Weltregeln erklärt.
-- Kein Marlene-Love-Interest-Code.
-- Kein Gruselkind-Eliah.
-- Keine beliebigen Passagiere ohne Albula-Bezug.
-- Kein frühes Nennen von „Schuldzug“, „Jenseits“, „Prüfung“, „Strafe“.
-- Kein vollständiges Aussprechen von 2008 vor dem Midpoint.
-- Kein Formular / keine Uniform / keine Levin-Unterschrift in Akt I.
-- Keine echte Zeitreise-Mechanik.
-- Keine Szene, in der Levin die richtige Theorie zu früh formuliert.
-
----
-
-## 13. Was als nächstes ansteht
-
-Nach Approval dieses Dokuments:
-
-1. `kapitelplan.md` mit 20-Kapitel-Struktur erstellen.
-2. Akt-I-Kapitel 1–6 aus dieser Foundation ableiten.
-3. Informationsverteilung pro Kapitel markieren:
-   - Was erfährt Levin?
-   - Was erfährt der Leser?
-   - Was bleibt Autorwissen?
-4. Danach erst Ch1-Beat-Plan nach `workflow.md`.
-
----
-
-## 14. Kurzform für spätere Prompts
-
-> Akt I etabliert den Nachtzug auf der Albula-Strecke, Levin als einzigen Erinnernden, Marlene als Wahrnehmungsverbündete, Mancini als nicht erklärenden Wächter und die erste Tilgung über Platz 47. Der Akt endet nicht mit einer Erklärung, sondern mit einem objektiven Weltbruch: Der Zug steht, aber Schnee und Zeit verhalten sich, als bewege er sich auf 02:47 zu.
+> Act I establishes the Albula night train, Levin as the only person who remembers the erased Tobias, Marlene as perception-counterpart, Mancini as non-explaining threshold figure and the first Tilgung through Platz 47. The act ends not with an explanation but with an objective world-break: the train stands still, while snow and time behave as if it were moving toward 02:47.
