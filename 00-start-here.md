@@ -36,7 +36,7 @@ Read / update files in this order:
 5. `05-workflow.md`
 6. `06-callback-ledger.md`
 7. `11-act1-foundation.md`
-8. `12-act2-foundation.md` once created
+8. `12-act2-foundation.md`
 9. `21-chapter-01.md` once drafting begins
 10. `22-chapter-02.md`, etc.
 
@@ -62,7 +62,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 ### 11–19 — Act foundations
 
 - `11-act1-foundation.md` — Akt I foundation.
-- `12-act2-foundation.md` — Akt II foundation, not created yet.
+- `12-act2-foundation.md` — Akt II foundation.
 - `13-act3-foundation.md` — Akt III foundation, future.
 - `14-act4-foundation.md` — Akt IV foundation, future.
 
@@ -92,6 +92,7 @@ This keeps planning files and manuscript files visually separated.
 | `workflow.md` | `05-workflow.md` |
 | `motiv-ledger.md` / callback tracker | `06-callback-ledger.md` |
 | `akt1-foundation.md` | `11-act1-foundation.md` |
+| `akt2-foundation.md` | `12-act2-foundation.md` |
 
 If an internal document reference still points to an old filename, map it through this table.
 
@@ -119,8 +120,9 @@ Before starting chapter prose:
 4. Check `04-accident-2008.md` for hidden truth / 2008 information boundaries.
 5. Follow `05-workflow.md`.
 6. Check `06-callback-ledger.md` for active seeds, motifs, hidden truths and pending payoffs.
-7. For chapter 1–6, also read `11-act1-foundation.md`.
+7. For chapters 1–6, also read `11-act1-foundation.md`.
+8. For chapters 7–11, also read `12-act2-foundation.md`.
 
-Then create `21-chapter-01.md` with the chapter beat plan first. Do not write full prose before the beat plan passes the workflow gates.
+Then create the relevant manuscript file, beginning with the chapter beat plan. Do not write full prose before the beat plan passes the workflow gates.
 
 After every completed chapter, update `06-callback-ledger.md` before starting the next chapter.
