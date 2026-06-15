@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v4 consolidated; Beats 1–7 drafted  
+> **Status:** DRAFT COMPLETE — Beat Plan v4 consolidated; Beats 1–8 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–7 are drafted. Next step: Beat 8 draft.
+> **Current drafting rule:** Beat-by-beat draft complete. Next step: full chapter correction pass / chapter harvest.
 
 ---
 
@@ -1078,3 +1078,148 @@ Strong. Beat 7 ends with first tunnel / ear pressure. Beat 8 can now use darknes
 ### Watch
 
 The word “Sommer” is now planted. Do not clarify it in Chapter 1. Let it remain a harmless-looking biographical shard until later chapters can attach it to Levin’s avoided railway past.
+
+---
+
+## 20. Draft — Beat 8
+
+Der Tunnel nahm den Wagen ohne Übergang.
+
+Eben hatte es hinter dem Fenster noch Schwärze gegeben, in der manchmal ein Baum stand, ein Mast, ein Rest von Schnee am Rand der Strecke. Dann war dort nur noch Wand. Schwarz, nah, glatt vorüberziehend. Das Glas zeigte jetzt nichts mehr von draußen und alles von innen: die blassen Gesichter, die Lampen, die Hände auf Taschen, Zeitungen, Kameragurten, Telefonen.
+
+Der Zug klang anders im Tunnel.
+
+Levin wusste das. Jeder wusste das. Geräusche wurden enger, kamen zurück, lagen nicht mehr nur unter den Füßen, sondern auch in der Brust. Das war keine Warnung. Es war Akustik. Stein, Luftdruck, Geschwindigkeit. Er hätte sich an diese Wörter halten können, wenn sein Körper sie angenommen hätte.
+
+Tat er nicht.
+
+Eliah hob beide Schultern. Seine Mutter sagte seinen Namen nicht, aber ihr Mund formte ihn. Reck sah wieder auf sein Telefon, als könne Empfang eine Form von Autorität sein. Frau Hediger legte die Hand flach auf die gefaltete Zeitung. Marlene hatte die Kamera nicht gehoben. Sie sah in die Scheibe, nicht hinaus, weil es kein Hinaus mehr gab.
+
+Dann kam das Geräusch.
+
+Es war nicht laut.
+
+Gerade das machte es falsch.
+
+Ein helles, kurzes Teilen im Metall, als würde irgendwo tief unter dem Lauf des Zuges etwas nachgeben und sich zugleich dagegen wehren. Kein Kreischen. Kein Schlag. Eher ein Riss, der nur einen Augenblick lang Ton wurde. Danach war wieder alles da: Räder, Tunnel, Heizung, Atem, das leise Arbeiten der Wagenverbindung.
+
+Levin griff nach der Kante seines Sitzes.
+
+Nicht erschrocken, sagte er sich. Nur wegen der Kurve. Nur wegen des Drucks in den Ohren. Nur weil der Tunnel Geräusche veränderte und Müdigkeit sie vergrößerte. Er spürte den Stoff unter den Fingern, die Naht, einen Krümel oder ein Sandkorn, etwas Kleines, Wirkliches. Er zählte es, ohne zu zählen.
+
+Eins.
+
+Das Geräusch war weg.
+
+Zwei.
+
+Sein Körper tat so, als sei es noch da.
+
+Drei.
+
+Er kannte es.
+
+Der Gedanke kam nicht als Satz. Er stand plötzlich fertig in ihm, so einfach und unanständig wie eine Hand auf einer verschlossenen Tür. Levin zog die Finger vom Sitz, weil er merkte, wie fest er gedrückt hatte. In den Kuppen blieb ein taubes Pochen zurück.
+
+Nein, dachte er.
+
+Nicht jetzt.
+
+Nicht hier.
+
+Aber der Tunnel ließ keinen Ort übrig, an den man den Gedanken hätte stellen können. Die Fenster waren Spiegel. Die Gesichter im Wagen lagen übereinander, als säßen alle zu nah aneinander und zugleich an verschiedenen Enden eines langen, dunklen Raums. Marlenes Blick traf seinen im Glas. Nicht direkt. Spiegelverkehrt. Sie bewegte sich nicht.
+
+Der Zug hielt die Geschwindigkeit. Oder verlor sie. Levin konnte es nicht sicher sagen. Das Geräusch der Räder wurde voller, dann tiefer, dann wieder gleichmäßig. Vielleicht war alles normal. Vielleicht war Normalität nur das, was lange genug wiederholt wurde.
+
+Er sah auf seine Hände.
+
+Sie lagen offen auf seinen Knien. Fremd hell im Zuglicht. Ruhig genug, wenn niemand genau hinsah.
+
+Aus dem Lautsprecher kam ein Knacken.
+
+Kein Wort folgte.
+
+Nur dieses kurze elektrische Öffnen, als wolle jemand sprechen und entscheide sich im letzten Moment dagegen. Ein paar Menschen hoben die Köpfe. Reck zuerst. Dann Anika. Dann die alte Frau. Eliah hatte die Augen geschlossen.
+
+Levin wartete.
+
+Auf eine Durchsage. Auf eine Erklärung. Auf den nächsten Halt. Auf irgendetwas, das das Geräusch in die Welt zurückholte, in der Dinge Ursachen hatten und danach wieder kleiner wurden.
+
+Nichts kam.
+
+Der Tunnel dauerte weiter.
+
+Und unter dem Laufen des Zuges, so leise, dass er nicht wusste, ob er es hörte oder nur erwartete, blieb die Stelle offen, an der das Metall sich geteilt hatte.
+
+Levin wusste, ohne zu wissen woher: Er hatte dieses Geräusch schon einmal gehört.
+
+---
+
+## 21. Beat-local correction pass — Beat 8
+
+### Logic
+
+Pass. Beat 8 follows directly from the tunnel entry and uses normal tunnel acoustics as plausible cover for the first explicit metallic-splitting body-memory shard.
+
+### Motivation
+
+Pass. Levin does not investigate, explain or confess. He tries to rationalize the sound and hold onto ordinary causes because nothing objectively impossible has happened yet.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident image.
+- No form / signature.
+- No Weichenheizung.
+- No clear flashback.
+- No confession.
+- No Marlene driver reveal.
+- No Mancini explanation.
+
+### Motif control
+
+Pass.
+
+Used:
+
+- tunnel darkness / window as mirror.
+- metallic splitting sound as first body-memory shard.
+- Marlene as reflected witness, not explainer.
+- Eliah’s sound sensitivity as confirmation pressure.
+- failed announcement as chapter-end pressure.
+
+Held back:
+
+- snow-in-wrong-direction.
+- halt / full breakdown.
+- Tobias disappearance.
+- Albula 2008.
+- technical fault vocabulary.
+
+### Beat-distinctness
+
+Pass. Beat 8 is not another social-introduction beat, another time glitch or a railway-vocabulary beat. It pays the sound seed physically and ends the chapter on recognition without knowledge.
+
+### Seam into Chapter 2
+
+Strong. Chapter 2 can begin with the train still moving for a moment or with the first halt, but it should carry over:
+
+- tunnel residue,
+- failed announcement,
+- Levin’s private recognition of the sound,
+- Eliah/Marlene as possible pressure witnesses.
+
+### Chapter 1 end-state
+
+Chapter 1 now ends with the exact intended state:
+
+- the route and train feel real,
+- Sarah is planted as present-world anchor,
+- the ensemble is visible without cast-listing,
+- Mancini is subtly wrong but not explanatory,
+- 02:47 is planted once,
+- Levin’s hidden railway past is only bodily seeded,
+- the metallic splitting sound has appeared,
+- no accident or guilt has been revealed.
