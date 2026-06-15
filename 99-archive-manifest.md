@@ -13,6 +13,14 @@
   - Reason: belongs to the separate Bero YA bear project, not to `Der Zug / Albula`.
   - Status: removed from active root.
 
+- `bero-callback-ledger.md`
+  - Reason: belongs to the separate Bero / Resonanz workflow and duplicates the active Albula `06-callback-ledger.md` role.
+  - Status: removed from active root after screenshot check revealed it was still present.
+
+- `bero-workflow.md`
+  - Reason: belongs to the separate Bero / Resonanz workflow and could conflict with active Albula `05-workflow.md`.
+  - Status: removed from active root after screenshot check revealed it was still present.
+
 ### Rejected Zug concept drafts
 
 - `concept2.md`
@@ -39,5 +47,6 @@ For drafting, read only:
 4. `03-chapter-plan.md`
 5. `04-accident-2008.md`
 6. `05-workflow.md`
-7. relevant act foundation, starting with `11-act1-foundation.md`
-8. current chapter file
+7. `06-callback-ledger.md`
+8. relevant act foundation, starting with `11-act1-foundation.md`
+9. current chapter file
