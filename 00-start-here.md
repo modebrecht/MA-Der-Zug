@@ -18,6 +18,7 @@ The project is split because each document answers a different kind of question:
 | Workflow | How do we write without collapsing into summary? | Prevents pacing and prose drift. |
 | Act foundations | What must this act achieve before chapter prose starts? | Prevents act-level holes. |
 | Chapter files | The actual manuscript prose. | Keeps draft text separate from planning. |
+| Archive manifest | What was removed from the active path? | Preserves recovery info without polluting canon. |
 
 The split is not bureaucracy. It protects the novel from mixing different thinking layers.
 
@@ -36,6 +37,8 @@ Read / update files in this order:
 7. `12-act2-foundation.md` once created
 8. `21-chapter-01.md` once drafting begins
 9. `22-chapter-02.md`, etc.
+
+Do **not** read `99-archive-manifest.md` for drafting. It exists only to document removed files.
 
 ---
 
@@ -69,6 +72,10 @@ Read / update files in this order:
 
 This keeps planning files and manuscript files visually separated.
 
+### 99 — Archive / inactive material
+
+- `99-archive-manifest.md` — documents removed files. Not part of drafting context.
+
 ---
 
 ## 3. Old-to-new filename map
@@ -86,7 +93,19 @@ If an internal document reference still points to an old filename, map it throug
 
 ---
 
-## 4. Start rule for writing
+## 4. Removed inactive files
+
+The following files were removed from the active root and documented in `99-archive-manifest.md`:
+
+- `bero-akt2-foundation.md`
+- `concept2.md`
+- `concept3.md`
+
+They are not current canon. Recover only from Git history if explicitly needed.
+
+---
+
+## 5. Start rule for writing
 
 Before starting chapter prose:
 
