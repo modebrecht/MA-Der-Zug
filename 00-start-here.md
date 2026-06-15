@@ -364,7 +364,33 @@ Applied:
 - The workflow now points back to the start guide for routing.
 - The workflow keeps all method rules but stops pretending to be a file map.
 
-### 6.10 Current readiness state
+### 6.10 Final pre-Chapter-1 readiness audit
+
+Question checked:
+
+> Are we now ready for the Chapter 1 beat plan, and are all Bero / inactive concept leftovers removed from the active path?
+
+Checks performed:
+
+- Searched for active Bero residues using terms such as `bero`, `Bero`, `Brummsi`, `Kara` and `Silas`.
+- Searched for rejected concept leftovers using terms such as `concept2`, `concept3` and `Transit`.
+- Checked the active reading order in this file.
+- Confirmed that drafting starts with beat planning, not prose.
+- Confirmed that `99-archive-manifest.md` is not a drafting source.
+
+Result:
+
+- No active Bero project files remain in the working path.
+- No active `concept2.md` / `concept3.md` files remain in the working path.
+- `99-archive-manifest.md` remains only as inactive recovery documentation and must not be read for drafting.
+- The active foundation chain is complete for starting Chapter 1.
+
+Decision:
+
+- The project is ready for `21-chapter-01.md`.
+- The next output should be a **Chapter 1 beat plan**, not full prose.
+
+### 6.11 Current readiness state
 
 The project is structurally ready for drafting.
 
@@ -374,6 +400,7 @@ Checked and cleaned:
 2. `03-chapter-plan.md` reflects the Zürich ending and transition echo rules.
 3. `05-workflow.md` is now method-only and no longer duplicates filename routing.
 4. `06-callback-ledger.md` is ready to receive Ch1 harvest after drafting.
+5. Bero / rejected-concept leftovers are outside the active drafting path.
 
 Next creative step:
 
