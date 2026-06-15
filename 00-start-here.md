@@ -38,8 +38,9 @@ Read / update files in this order:
 7. `11-act1-foundation.md`
 8. `12-act2-foundation.md`
 9. `13-act3-foundation.md`
-10. `21-chapter-01.md` once drafting begins
-11. `22-chapter-02.md`, etc.
+10. `14-act4-foundation.md`
+11. `21-chapter-01.md` once drafting begins
+12. `22-chapter-02.md`, etc.
 
 Do **not** read `99-archive-manifest.md` for drafting. It exists only to document removed files.
 
@@ -65,7 +66,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 - `11-act1-foundation.md` — Akt I foundation.
 - `12-act2-foundation.md` — Akt II foundation.
 - `13-act3-foundation.md` — Akt III foundation.
-- `14-act4-foundation.md` — Akt IV foundation, future.
+- `14-act4-foundation.md` — Akt IV foundation.
 
 ### 21+ — Manuscript chapters
 
@@ -95,6 +96,7 @@ This keeps planning files and manuscript files visually separated.
 | `akt1-foundation.md` | `11-act1-foundation.md` |
 | `akt2-foundation.md` | `12-act2-foundation.md` |
 | `akt3-foundation.md` | `13-act3-foundation.md` |
+| `akt4-foundation.md` | `14-act4-foundation.md` |
 
 If an internal document reference still points to an old filename, map it through this table.
 
@@ -125,6 +127,7 @@ Before starting chapter prose:
 7. For chapters 1–6, also read `11-act1-foundation.md`.
 8. For chapters 7–11, also read `12-act2-foundation.md`.
 9. For chapters 12–17, also read `13-act3-foundation.md`.
+10. For chapters 18–20, also read `14-act4-foundation.md`.
 
 Then create the relevant manuscript file, beginning with the chapter beat plan. Do not write full prose before the beat plan passes the workflow gates.
 
