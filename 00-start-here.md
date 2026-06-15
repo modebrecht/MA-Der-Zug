@@ -17,32 +17,33 @@ The project is split because each document answers a different kind of question:
 | Accident file | What really happened in 2008? | Prevents vague mystery logic. |
 | Workflow | How do we write without collapsing into summary? | Prevents pacing and prose drift. |
 | Callback ledger | Which seeds, motifs, clues and payoffs are active? | Prevents dropped setups, repeated motifs and unfair reveals. |
+| Handoff prompt | Where should a new assistant continue? | Prevents context loss when moving to a new chat, but is not part of the drafting read path. |
 | Act foundations | What must this act achieve before chapter prose starts? | Prevents act-level holes. |
 | Chapter files | The actual manuscript prose. | Keeps draft text separate from planning. |
 | Archive manifest | What was removed from the active path? | Preserves recovery info without polluting canon. |
-| Next-chat prompt | Where should a new assistant continue? | Prevents context loss when moving to a new chat. |
 
 The split is not bureaucracy. It protects the novel from mixing different thinking layers.
 
 ---
 
-## 1. Current file order
+## 1. Current active reading order
 
-Read / update files in this order:
+Read / update files in this order for normal drafting work:
 
-1. `00-next-chat-start.md` — only when opening a new chat / handoff.
-2. `01-canon.md`
-3. `02-characters.md`
-4. `03-chapter-plan.md`
-5. `04-accident-2008.md`
-6. `05-workflow.md`
-7. `06-callback-ledger.md`
-8. `11-act1-foundation.md`
-9. `12-act2-foundation.md`
-10. `13-act3-foundation.md`
-11. `14-act4-foundation.md`
-12. `21-chapter-01.md` once drafting begins
-13. `22-chapter-02.md`, etc.
+1. `01-canon.md`
+2. `02-characters.md`
+3. `03-chapter-plan.md`
+4. `04-accident-2008.md`
+5. `05-workflow.md`
+6. `06-callback-ledger.md`
+7. `11-act1-foundation.md`
+8. `12-act2-foundation.md`
+9. `13-act3-foundation.md`
+10. `14-act4-foundation.md`
+11. `21-chapter-01.md` once drafting begins
+12. `22-chapter-02.md`, etc.
+
+Do **not** read `07-next-chat-start.md` during normal drafting. It exists only as a copy-paste handoff prompt for a new chat.
 
 Do **not** read `99-archive-manifest.md` for drafting. It exists only to document removed files.
 
@@ -52,10 +53,9 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 
 ### 00 — Navigation
 
-- `00-start-here.md` — this file.
-- `00-next-chat-start.md` — English handoff prompt for continuing the project in a new chat.
+- `00-start-here.md` — this file. Active navigation, reading order and audit log.
 
-### 01–09 — Global foundations
+### 01–09 — Global foundations and helper files
 
 - `01-canon.md` — global canon lock.
 - `02-characters.md` — character dossier.
@@ -63,6 +63,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 - `04-accident-2008.md` — reconstruction of the fictional Albula accident.
 - `05-workflow.md` — writing workflow and quality gates. It does **not** control file routing.
 - `06-callback-ledger.md` — master tracker for seeds, motifs, clues, hidden truths, disappearances and payoffs.
+- `07-next-chat-start.md` — English copy-paste handoff prompt for a new chat. Not part of the normal active reading path.
 
 ### 11–19 — Act foundations
 
@@ -100,6 +101,7 @@ This keeps planning files and manuscript files visually separated.
 | `akt2-foundation.md` | `12-act2-foundation.md` |
 | `akt3-foundation.md` | `13-act3-foundation.md` |
 | `akt4-foundation.md` | `14-act4-foundation.md` |
+| `00-next-chat-start.md` | `07-next-chat-start.md` |
 
 If an internal document reference still points to an old filename, map it through this table.
 
@@ -142,7 +144,7 @@ After every completed chapter, update `06-callback-ledger.md` before starting th
 
 ## 6. Current handoff state — 2026-06-15
 
-`00-next-chat-start.md` contains the English prompt for starting a new chat.
+`07-next-chat-start.md` contains the English prompt for starting a new chat. It is a copy-paste handoff helper only, not part of the normal drafting read path.
 
 Last completed step:
 
