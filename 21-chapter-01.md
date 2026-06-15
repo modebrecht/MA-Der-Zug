@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–6 drafted  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v4 consolidated; Beats 1–7 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–6 are drafted. Next step: Beat 7 draft.
+> **Current drafting rule:** Beat-by-beat. Beats 1–7 are drafted. Next step: Beat 8 draft.
 
 ---
 
@@ -74,7 +74,7 @@ Use only a controlled motif load.
 
 ---
 
-## 3. Beat plan v3 — corrected and consolidated
+## 3. Beat plan v4 — corrected and consolidated
 
 | Beat | Function | Approx. words | Guardrail |
 |---:|---|---:|---|
@@ -200,7 +200,7 @@ Chapter 1 exits with the sound / tunnel / private body reaction. Chapter 2 can p
 
 ### Result
 
-Beat Plan v3 passes:
+Beat Plan v4 passes:
 
 - Logic & Motivation Gate.
 - Obvious-action Test.
@@ -951,3 +951,130 @@ Strong. Levin’s attempt to rationalize the display creates the right opening f
 ### Watch
 
 The number has now been planted. Do not repeat 02:47 again in Chapter 1. Let Beat 7 move into body / avoidance, and Beat 8 into sound.
+
+---
+
+## 18. Draft — Beat 7
+
+Um sich zu beruhigen, begann Levin die Geräusche zu sortieren.
+
+Das war eine alte Gewohnheit. Keine besondere, sagte er sich. Jeder Mensch tat das, wenn er nachts in einem Zug saß und die Gedanken zu viel Raum bekamen. Man zerlegte die Dinge in ihre Bestandteile. Rad auf Schiene. Luft in der Lüftung. Gepäck, das in der Ablage bei jeder Kurve um einen Millimeter arbeitete. Zeitungspapier. Stoff. Atem. Ein fernes Klacken aus der Verbindung zwischen zwei Wagen.
+
+Nichts davon bedeutete etwas.
+
+Trotzdem wusste sein Körper schneller als sein Kopf, welche Geräusche von außen kamen und welche aus dem Zug selbst. Das war kein Wissen, auf das er stolz war. Es war nur da, wie manche Telefonnummern aus der Kindheit, die man nicht mehr brauchte und trotzdem nie ganz verlor.
+
+Strecke, dachte er.
+
+Das Wort stand plötzlich in ihm, ohne Satz. Nicht die Strecke nach Chur, nicht die Linie auf dem Plan im Einstiegsbereich. Nur: Strecke. Ein Dienstwort. Ein Wort aus Jacken mit reflektierenden Streifen, aus kalten Morgen, aus jemandes Stimme, die sagte, man solle nicht so lange fragen, wenn es nur um eine Kontrolle gehe.
+
+Levin drehte den Kopf zum Fenster.
+
+Draußen lag nichts als Nacht. Manchmal löste sich ein Baum aus dem Schwarz und fiel sofort wieder hinein. Die Scheibe zeigte sein Gesicht darübergelegt, und hinter seinem Gesicht den Wagen: Frau Hediger, die Seite um Seite faltete; Reck, der nicht mehr telefonierte, aber so saß, als könne jederzeit jemand eine Entscheidung von ihm verlangen; Marlene, die nun doch ein Bild machte. Das leise Klicken ihrer Kamera ging fast im Laufgeräusch unter.
+
+Kontrolle.
+
+Auch dieses Wort kam zu schnell.
+
+Levin presste den Daumen gegen den Rand seines Sitzes, dort, wo der Stoff in eine Kunststoffkante überging. Er spürte den Druck bis in den Nagel. Das half. Ein Gegenstand, eine Grenze, etwas, das jetzt war und nicht damals.
+
+Damals.
+
+Nein.
+
+Er zog den Gedanken zurück, bevor er eine Form bekam. Nicht weil er wusste, wovor er ihn zurückzog. Gerade das machte es unangenehm. Es gab Erinnerungen, die nicht als Bilder kamen, sondern als Abneigung gegen die Stelle, an der ein Bild hätte beginnen können.
+
+Sarah hatte einmal gesagt, sein Gedächtnis sei kein Archiv, sondern ein Büro, in dem ständig jemand die unangenehmen Akten auf den falschen Stapel lege. Er hatte gelacht, weil es stimmte und weil es einfacher war, über Akten zu lachen als über Angst.
+
+Der Zug fuhr durch eine Kurve. Das Licht im Wagen neigte sich kaum merklich. Im Gang griff Jan — der Mann vom Paar — nach der Kante des Tischchens, obwohl es nicht nötig war. Anika sah es und sah wieder weg. Eliah hob den Kopf, als hätte er auf genau diese kleine Veränderung gewartet.
+
+„Jetzt“, sagte er leise.
+
+Seine Mutter — Levin nahm an, dass sie seine Mutter war — legte die Hand nicht mehr auf seinen Ärmel. Sie hielt sie knapp darüber, als habe sie aus Mancinis Korrektur gelernt, aber nicht aus der Angst darunter.
+
+„Was jetzt?“
+
+Eliah schüttelte den Kopf.
+
+Levin hörte wieder hin. Nicht aus Neugier. Aus Reflex.
+
+Der Ton hatte sich nicht verändert. Oder doch: Unter dem gleichmäßigen Lauf lag etwas Helleres, ein feiner Zug im Metall, so kurz, dass er ihn fast nicht bemerkt hätte. Kein Kreischen. Kein Bremsen. Nur eine Spannung, die sich irgendwo aufbaute und sofort wieder in das normale Geräusch zurückfiel.
+
+Sommer, dachte Levin plötzlich.
+
+Das war schlimmer als Strecke und Kontrolle, weil Sommer ein harmloses Wort war. Es roch nach heißem Asphalt, nach gelbem Gras an Böschungen, nach verschwitztem Stoff unter einer Warnweste. Nach einer Zeit, in der er jünger gewesen war und müder, als ein junger Mensch hätte sein dürfen. Nach dem Stolz, gebraucht zu werden, und nach der Erleichterung, wenn jemand anderes sagte, was als Nächstes zu tun war.
+
+Er schloss die Augen.
+
+Nur für einen Moment. Nur lange genug, um das Wort wieder loszuwerden.
+
+Als er sie öffnete, sah Marlene ihn an.
+
+Nicht besorgt. Nicht fragend. Eher so, als hätte sie ein Foto gesehen, das noch nicht entwickelt war. Ihre Kamera lag wieder in ihrem Schoß. Der Gurt hing über ihrem Handgelenk wie eine schwarze Linie.
+
+Levin wollte wegsehen, tat es aber zu spät.
+
+Sie sagte nichts. Das war schlimmer als eine Frage.
+
+Der Zug wurde langsamer. Nicht stark. Nur ein kaum spürbares Nachlassen, das sich zuerst im Körper zeigte und erst danach im Geräusch. Ein paar Köpfe hoben sich. Reck sah auf die Anzeige, als könne er dort eine Zuständigkeit finden. Frau Hediger faltete ihre Zeitung endgültig zusammen.
+
+Vor den Fenstern wurde die Nacht dichter.
+
+Levin spürte Druck in den Ohren.
+
+Dann kam der erste Tunnel.
+
+---
+
+## 19. Beat-local correction pass — Beat 7
+
+### Logic
+
+Pass. Beat 7 grows out of Levin’s rationalization from Beat 6. He tries to make the train ordinary by sorting its sounds, which plausibly opens an old bodily association.
+
+### Motivation
+
+Pass. Levin is not investigating. He is self-soothing through categorization and fails because sound, railway vocabulary and body memory begin to cross-contaminate.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No explicit RhB clue-board.
+- No conscious memory.
+- No confession.
+
+### Motif control
+
+Pass.
+
+Used:
+
+- railway-adjacent words as aborted fragments: Strecke, Kontrolle, damals, Sommer.
+- body memory without visual flashback.
+- Marlene as possible perceptual mirror.
+- Eliah’s sound sensitivity as pre-echo.
+- tunnel pressure as transition into Beat 8.
+
+Held back:
+
+- metallic splitting as full chapter-end image.
+- any accident image.
+- any precise date.
+- any form / signature / technical fault.
+
+### Beat-distinctness
+
+Pass. Beat 7 is not another time glitch and not another social ensemble scene. It internalizes the unease through Levin’s body and aborted vocabulary.
+
+### Seam into Beat 8
+
+Strong. Beat 7 ends with first tunnel / ear pressure. Beat 8 can now use darkness and sound to pay the chapter’s first metallic-splitting body-memory shard without turning it into a flashback.
+
+### Watch
+
+The word “Sommer” is now planted. Do not clarify it in Chapter 1. Let it remain a harmless-looking biographical shard until later chapters can attach it to Levin’s avoided railway past.
