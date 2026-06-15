@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–2 drafted  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–3 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–2 are drafted. Next step: Beat 3 draft.
+> **Current drafting rule:** Beat-by-beat. Beats 1–3 are drafted. Next step: Beat 4 draft.
 
 ---
 
@@ -408,3 +408,89 @@ Strong. Beat 2 ends with the train entering. Beat 3 can begin with boarding and 
 ### Watch
 
 Sarah’s condition is present but deliberately unnamed. Continue this restraint. Do not turn her into a symbolic illness figure or a pressure-button for Levin’s guilt.
+
+---
+
+## 10. Draft — Beat 3
+
+Der Zug hielt nicht mit einem Ruck, sondern mit dieser schweizerischen Genauigkeit, die Levin sonst beruhigte: ein langsames Nachlassen, ein letztes Schleifen, dann standen die Türen genau dort, wo die wenigen Wartenden sich bereits gesammelt hatten. Für einen Moment spiegelte sich das Perron in den dunklen Fenstern, als hätte der Zug den Bahnhof nur geborgt.
+
+Ein gelber Streifen Licht fiel auf den Schnee am Gleisrand. Die Türen gaben einen Ton von sich, hell und kurz, und öffneten sich mit einem Atemzug warmer Luft. Nicht wirklich warm. Nur wärmer als draußen. Es roch nach nasser Wolle, Metall, altem Staub in Heizkörpern und nach dem dünnen Reinigungsmittel, das in Zügen immer so tat, als könne es die Geschichten der vorigen Reisenden entfernen.
+
+Levin ließ die anderen zuerst einsteigen. Nicht aus Höflichkeit, jedenfalls nicht nur. Er brauchte den kleinen Abstand. Den Moment, in dem er noch draußen stand und der Zug innen war, eine Möglichkeit unter mehreren. Sobald er die Stufe nahm, würde aus der Möglichkeit ein Raum werden, und aus dem Raum eine Richtung.
+
+Hinter ihm räusperte sich jemand. Levin trat ein.
+
+Der Boden gab unter seinen Schuhen kaum nach. Auf der Metallkante der Einstiegstreppe war Schnee zu grauem Wasser geworden. Er hob die Mappe höher, damit sie nicht gegen die Tür schlug, und blieb einen Augenblick im schmalen Vorraum stehen. Links und rechts zogen sich die Wagenenden auseinander: Glas, Dichtungsgummi, ein Abfalleimer mit einem verbogenen Rand, ein Plan der Strecke, den er nicht las. Der Zug war heller, als er von außen gewirkt hatte. Zu hell vielleicht für diese Stunde, aber nicht unfreundlich. Ein Licht, das alles sichtbar machte und nichts erklärte.
+
+Er ging in den Wagen hinein.
+
+Die Sitze waren mit einem dunklen Stoff bezogen, der an einigen Stellen blank geworden war. Über den Gepäckablagen zitterten die Schatten der Jacken. Ein Fenster war halb beschlagen; jemand hatte mit dem Finger einen Strich hineingezogen und ihn dann nicht zu Ende geführt. Im Gang roch es nach feuchten Schuhen, kaltem Parfüm und dem Papier einer Zeitung, die jemand zu oft gefaltet hatte.
+
+Levin suchte nicht sofort seinen Platz. Er hätte es tun können. Der Wagen war nicht voll. Aber er blieb langsam, als gäbe es für dieses Zögern einen praktischen Grund: Tasche zurechtrücken, Handschuhe ausziehen, Blick auf die Sitznummern, Mantel nicht an anderen Schultern streifen lassen. In Wahrheit wollte er nur nicht als Erster sitzen. Wer saß, gehörte schon dazu.
+
+Draußen schloss sich die Nacht wieder um die Fenster. Das Perron lag nun auf der anderen Seite des Glases, flacher und ferner, obwohl Levin kaum fünf Schritte vom Einstieg entfernt war. Er sah die Anzeige noch einmal durch zwei Scheiben hindurch. **Chur** stand dort immer noch, aber der Zug hatte das Wort bereits in sich aufgenommen.
+
+Er fand einen Platz am Fenster, nicht zu weit vorn, nicht zu weit hinten. Eine Entscheidung, die sich neutral anfühlte und gerade deshalb zu ihm passte. Die Aktentasche stellte er auf den Sitz neben sich, bis jemand Anspruch darauf erheben würde. Den Mantel ließ er an. Die Heizung arbeitete, aber die Kälte hing noch in den Polstern, in den Schrauben der Fensterrahmen, in der schmalen Lücke zwischen Glas und Gummi.
+
+Als er sich setzte, berührte sein Knie kurz die Wand unter dem Fenster. Das Material war eiskalt.
+
+Er zog die Hand zurück, obwohl er gar nicht die Hand daran gehabt hatte.
+
+Draußen hob jemand auf dem Perron den Arm. Kein Winken, nur eine Bewegung, vielleicht zu einem anderen Reisenden, vielleicht zu niemandem. Dann schlossen die Türen. Der Ton kam wieder, kurz, sauber, endgültig.
+
+Der Zug war innen leiser, sobald er geschlossen war.
+
+Nicht still. Nur vollständig.
+
+---
+
+## 11. Beat-local correction pass — Beat 3
+
+### Logic
+
+Pass. Beat 3 follows directly from the train arriving and moves Levin plausibly from platform into the carriage.
+
+### Motivation
+
+Pass. Levin delays boarding / sitting because he wants control and distance, not because he suspects anything supernatural.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No explicit railway past.
+- No Mancini rule-seed yet.
+
+### Motif control
+
+Pass.
+
+Used:
+
+- closed train world,
+- cold glass / window boundary,
+- paper / residue texture very lightly,
+- Chur as absorbed destination,
+- inside/outside threshold.
+
+Held back:
+
+- 02:47,
+- metallic splitting,
+- Marlene camera detail beyond earlier faint plant,
+- Tobias / Platz 47,
+- Mancini,
+- snow-in-wrong-direction.
+
+### Seam into Beat 4
+
+Strong. Beat 3 ends with the train now closed and complete as a world. Beat 4 can introduce the ensemble through interruptions around Levin as he tries to settle.
+
+### Watch
+
+The phrase “vollständig” is useful as a closed-setting note, but should not yet feel metaphysical. Beat 4 should restore ordinary passenger behavior quickly before subtle wrongness returns.
