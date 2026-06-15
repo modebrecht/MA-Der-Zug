@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** BEAT PLAN v1 — no prose yet  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v2 corrected; Beat 1 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
-> **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum when drafting begins.  
-> **Stop rule:** This file is the beat plan only. Do not write prose until explicit `Go`.
+> **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
+> **Current drafting rule:** Beat-by-beat. Beat 1 is drafted. Next step is Beat 1 correction pass or Beat 2 draft.
 
 ---
 
@@ -74,17 +74,13 @@ Use only a controlled motif load.
 
 ---
 
-## 3. Beat plan
+## 3. Beat plan v2
 
 ## Beat 1 — After the appointment, before the train
 
 ### Location & time
 
-Engadin station area, evening / night; likely Samedan or St. Moritz/Pontresina context. Cold platform, timetable light, last passengers thinning out.
-
-### POV
-
-Levin.
+Engadin station area, evening / night; Samedan as current working station. Cold platform, timetable light, last passengers thinning out.
 
 ### Dramatic purpose
 
@@ -92,9 +88,13 @@ Establish route logic and Levin’s outer normality: he is not travelling Züric
 
 ### Character want / resistance / cost
 
-- **Want:** reach Chur, answer Sarah without sounding worried, get through the night quietly.
+- **Want:** reach Chur, avoid worrying Sarah, get through the night quietly.
 - **Resistance:** fatigue, cold, professional residue, unwillingness to think about why railway spaces unsettle him.
-- **Cost:** first small crack in control; his body reacts before any plot event occurs.
+- **Cost:** first small crack in control; his body registers the station / night / cold before any plot event occurs.
+
+### Correction-pass sharpening
+
+Beat 1 must not already become the Sarah scene. It should end with Sarah entering through the phone, so Beat 2 has a natural handoff.
 
 ### What changes by beat end
 
@@ -103,26 +103,18 @@ Levin moves from professional public self to private transit self. The reader un
 ### Mystery information gained / withheld / distorted
 
 - **Gained:** route and destination.
-- **Withheld:** why train / RhB context hits him personally.
-- **Distorted:** Levin treats any discomfort as ordinary exhaustion.
+- **Withheld:** why train / railway context hits him personally.
+- **Distorted:** Levin treats discomfort as ordinary exhaustion.
 
 ### Hidden-truth risk
 
 Do not mention accident, 2008, form, signature, Weichenheizung, guilt.
 
-Allowed: a brief aborted thought about an old railway summer / practical job that he dismisses before it forms.
+Allowed only as atmosphere: a sense that stations feel too familiar, without naming the old railway job.
 
 ### Motif carried
 
-Sarah message; cold glass / platform light; route names.
-
-### Sensory anchor
-
-Cold air on teeth / fingers; platform announcement eaten by wind; blue-white display light.
-
-### Seam from previous beat
-
-Opening beat. No carry-over.
+Cold platform / glass / route names; Sarah only as end-of-beat phone lead-in.
 
 ### Target word count
 
@@ -135,10 +127,6 @@ Opening beat. No carry-over.
 ### Location & time
 
 Still platform / just before boarding; phone in Levin’s hand.
-
-### POV
-
-Levin.
 
 ### Dramatic purpose
 
@@ -168,14 +156,6 @@ Avoid making Sarah a device for confession. She is an anchor, not a plot lever.
 
 Sarah message / hand payoff seed.
 
-### Sensory anchor
-
-Thumb hovering over screen; glove off in cold; phone warmth fading quickly.
-
-### Seam from previous beat
-
-Beat 1 gives the outer route; Beat 2 gives the inner reason for the route.
-
 ### Target word count
 
 350–450 words.
@@ -187,10 +167,6 @@ Beat 1 gives the outer route; Beat 2 gives the inner reason for the route.
 ### Location & time
 
 Train entrance and Wagen 2 / Levin’s carriage. Train still normal.
-
-### POV
-
-Levin.
 
 ### Dramatic purpose
 
@@ -220,14 +196,6 @@ No supernatural atmosphere too early. The train must still be credible.
 
 Cold glass; window boundary; route texture.
 
-### Sensory anchor
-
-Wet wool, old heating, metal step, rubber floor, window cold through sleeve.
-
-### Seam from previous beat
-
-Phone / Sarah moves into pocket; external duty gives way to enclosed train space.
-
 ### Target word count
 
 400–500 words.
@@ -240,23 +208,13 @@ Phone / Sarah moves into pocket; external duty gives way to enclosed train space
 
 Wagen 2 / view toward Speisewagen and corridor as passengers settle.
 
-### POV
-
-Levin.
-
 ### Dramatic purpose
 
 Introduce core figures through small actions. No cast-list exposition.
 
-### Character want / resistance / cost
+### Correction-pass sharpening
 
-- **Want:** remain unnoticed.
-- **Resistance:** other passengers intrude through behavior and sound.
-- **Cost:** each person leaves a small image in Levin’s attention.
-
-### What changes by beat end
-
-The ensemble is seeded as living people in the same space.
+Beat 4 is the highest list-risk. The prose must not pause to introduce everyone evenly. Levin should notice a chain of interruptions while trying to settle. Some figures can be only half-seen.
 
 ### Required figure seeds
 
@@ -282,14 +240,6 @@ Do not over-mark any character as “important.” They must feel incidental but
 
 Presence check; camera; first Platz 47 glimpse; Selma/Eliah pre-echo.
 
-### Sensory anchor
-
-Ticket paper / scanner sound; camera leather; jacket rustle; quiet cough; wheels under floor.
-
-### Seam from previous beat
-
-Beat 3 builds the carriage; Beat 4 fills it with pressure.
-
 ### Target word count
 
 650–800 words.
@@ -301,10 +251,6 @@ Beat 3 builds the carriage; Beat 4 fills it with pressure.
 ### Location & time
 
 Aisle near Levin’s seat.
-
-### POV
-
-Levin.
 
 ### Dramatic purpose
 
@@ -336,14 +282,6 @@ Good mode: a small delay over Levin’s name or ticket; a glance at an empty / f
 
 Ticket / presence; destination ambiguity faintly.
 
-### Sensory anchor
-
-Ticket punch / scanner click; black sleeve; breath in aisle; old paper smell.
-
-### Seam from previous beat
-
-Beat 4 shows passengers; Beat 5 shows the person who appears to count them.
-
 ### Target word count
 
 350–500 words.
@@ -356,13 +294,13 @@ Beat 4 shows passengers; Beat 5 shows the person who appears to count them.
 
 Levin’s seat after departure; train moving normally through dark alpine route.
 
-### POV
-
-Levin.
-
 ### Dramatic purpose
 
 Plant 02:47 as an irritation, not a clue solved by the reader or Levin.
+
+### Correction-pass sharpening
+
+One appearance only. It should be deniable: a reflected display, a screen lag, a timetable flicker, or a phone time Levin thinks he misread.
 
 ### Character want / resistance / cost
 
@@ -374,12 +312,6 @@ Plant 02:47 as an irritation, not a clue solved by the reader or Levin.
 
 The first clear wrongness enters, but it remains deniable.
 
-### Mystery information gained / withheld / distorted
-
-- **Gained:** 02:47 appears.
-- **Withheld:** accident time.
-- **Distorted:** Levin blames screen lag, fatigue, tunnel / signal issue, old display.
-
 ### Hidden-truth risk
 
 Do not repeat 02:47 too heavily. One quick wrong moment is enough.
@@ -388,33 +320,25 @@ Do not repeat 02:47 too heavily. One quick wrong moment is enough.
 
 02:47; phone / display; cold glass reflection.
 
-### Sensory anchor
-
-Display flicker reflected in glass; vibration under seat; dry eyes; tiny delay between seeing and understanding.
-
-### Seam from previous beat
-
-Mancini’s presence made the train feel watched; now the train’s objects begin to feel misaligned.
-
 ### Target word count
 
 350–450 words.
 
 ---
 
-## Beat 7 — RhB / old railway thought aborts
+## Beat 7 — Old railway thought aborts
 
 ### Location & time
 
 Train in motion, approaching tunnel / darker stretch.
 
-### POV
-
-Levin.
-
 ### Dramatic purpose
 
-Plant Levin’s hidden past through avoidance. His mind almost touches an old railway memory, then slides away.
+Plant Levin’s hidden past through avoidance. His mind almost touches an old railway association, then slides away.
+
+### Correction-pass sharpening
+
+Do **not** overuse the explicit RhB label here. The old connection should feel like a harmless life-fragment, not a clue-board arrow. No `Sommerjob bei der RhB` as a complete sentence yet if the prose can avoid it.
 
 ### Character want / resistance / cost
 
@@ -428,27 +352,19 @@ Reader sees that Levin’s unease is not only present stress. Something older is
 
 ### Mystery information gained / withheld / distorted
 
-- **Gained:** Levin has some harmless-seeming old connection to railway work / RhB / summer or practical work.
+- **Gained:** Levin has some harmless-seeming old connection to railway work / route spaces.
 - **Withheld:** 2008, inspection, signature, accident.
-- **Distorted:** Levin treats it as an irrelevant biographical scrap.
+- **Distorted:** Levin treats it as irrelevant fatigue.
 
 ### Hidden-truth risk
 
-Do not write a clear memory. No `Unterschrift`, no `Formular`, no `Weichenheizung`, no direct 2008.
+No `Unterschrift`, no `Formular`, no `Weichenheizung`, no direct 2008.
 
 Allowed: a word like `Dienst`, `Kontrolle`, `Strecke`, `Sommer`, `damals` that fails to become a sentence.
 
 ### Motif carried
 
-RhB / old railway work; body reaction; cold metal.
-
-### Sensory anchor
-
-Metal rail rhythm; pressure in sternum; stale heating; paper edge under fingers.
-
-### Seam from previous beat
-
-02:47 unsettled him visually; now the train unsettles him physically.
+Old railway association; body reaction; cold metal.
 
 ### Target word count
 
@@ -461,10 +377,6 @@ Metal rail rhythm; pressure in sternum; stale heating; paper edge under fingers.
 ### Location & time
 
 Train enters tunnel or deep dark stretch after departure. Interior reflections replace outside view.
-
-### POV
-
-Levin.
 
 ### Dramatic purpose
 
@@ -480,39 +392,21 @@ End the chapter with image and sound, not explanation. Plant metallic splitting 
 
 The train leaves ordinary night and enters a darker pressure. Levin feels the first unmistakable private wrongness.
 
-### Mystery information gained / withheld / distorted
-
-- **Gained:** metallic splitting sound matters to Levin.
-- **Withheld:** switch / derailment / accident origin.
-- **Distorted:** could be tunnel noise, braking, rail stress, fatigue.
-
 ### Hidden-truth risk
 
 Do not describe an accident flashback. No broken bodies, no viaduct, no child, no form.
 
 Only sound + body + refusal.
 
-### Motif carried
-
-Metallic splitting; window mirror; darkness / tunnel.
-
-### Sensory anchor
-
-Tunnel pressure in ears; reflected face in glass; metal-on-metal split; breath briefly stuck.
-
-### Seam from previous beat
-
-Old railway thought almost formed; the sound cuts it off and becomes the stronger memory-channel.
-
-### Target word count
-
-450–600 words.
-
 ### Chapter end image
 
 The train enters darkness / a tunnel. Levin hears a metallic split inside the ordinary train sound and has the unmistakable feeling that he has heard it before.
 
 No explanation.
+
+### Target word count
+
+450–600 words.
 
 ---
 
@@ -526,7 +420,7 @@ No explanation.
 | 4 | Ensemble through behavior | 650–800 |
 | 5 | Mancini first pass | 350–500 |
 | 6 | 02:47 irritation | 350–450 |
-| 7 | RhB old thought aborts | 450–600 |
+| 7 | Old railway thought aborts | 450–600 |
 | 8 | Tunnel / metallic splitting end | 450–600 |
 | **Total target** |  | **3,450–4,450 planned ceiling; compress to ~3,500 if needed** |
 
@@ -556,7 +450,7 @@ No obvious action is being withheld.
 ### Beat causality
 
 - Route pressure leads to boarding.
-- Sarah message gives emotional reason for destination.
+- Sarah lead-in gives emotional reason for destination.
 - Boarding creates closed setting.
 - Closed setting allows ensemble visibility.
 - Ensemble allows Mancini’s presence-check to feel subtly off.
@@ -605,15 +499,112 @@ Chapter 1 exits with the sound / tunnel / private body reaction. Chapter 2 can p
 
 ---
 
-## 6. Drafting instruction after approval
+## 6. Correction pass over all beats
 
-When the user says `Go`, draft **Beat 1 only** in German prose:
+| Beat | Check result | Correction applied |
+|---:|---|---|
+| 1 | Strong opening logic, but Sarah risked appearing too early as full scene. | Beat 1 now ends with Sarah phone lead-in; Beat 2 owns the actual message. |
+| 2 | Clean emotional anchor. | Keep Sarah practical and human; no illness melodrama, no confession setup. |
+| 3 | Strong closed-setting entry. | Keep train credible and physical; no supernatural tint yet. |
+| 4 | Highest list-risk. | Ensemble must be noticed through interruptions, not introduced evenly. |
+| 5 | Mancini guardrail strong. | Keep one ordinary line / gesture only; no oracle language. |
+| 6 | 02:47 could become too obvious. | One deniable flicker only. No repetition. |
+| 7 | Hidden-truth risk around RhB / old railway past. | Weaken explicit label; use aborted association and body response. |
+| 8 | Strong end image, but must not become flashback. | Sound + body + refusal only; no accident image. |
 
-- 3rd person limited on Levin.
-- Präteritum.
-- Literary but clear.
-- No exposition dump.
-- No future-chapter explanation.
-- End Beat 1 at a pressure point that naturally leads to Sarah’s message.
+### Result
 
-After Beat 1, run the beat-local correction pass and stop.
+Beat Plan v2 passes:
+
+- Logic & Motivation Gate.
+- Obvious-action Test.
+- Beat-Distinctness Test.
+- Hidden-Truth Protection.
+- Seam Discipline into Chapter 2.
+
+Approved to draft Beat 1 only.
+
+---
+
+## 7. Draft — Beat 1
+
+Der Termin hatte länger gedauert, als Levin zugegeben hätte.
+
+Nicht viel länger. Nur diese halbe Stunde, die am Ende eines Tages nicht mehr wie Zeit wirkte, sondern wie ein Gewicht. Eine halbe Stunde Nachfragen, Mappen schließen, Höflichkeiten im Stehen. Eine halbe Stunde, in der jemand noch einmal hatte wissen wollen, ob die Randnotiz wirklich von derselben Hand stammte wie der Brief, und Levin hatte geantwortet, als hätte sein Kopf nicht längst begonnen, hinter den Augen zu rauschen.
+
+Jetzt stand er auf dem Perron in Samedan, den Mantelkragen hochgeschlagen, die Aktentasche zwischen den Füßen. Über ihm zitterte das Licht der Anzeige. **Chur** stand dort, sachlich und gelblich, als wäre ein Ort etwas, das man erreichen konnte, wenn man nur lange genug wartete.
+
+Die Kälte kam nicht in Böen. Sie stand einfach da. Sie lag auf den Metallkanten der Bänke, auf dem Glas des Wartehäuschens, auf den schwarzen Streifen zwischen den Schienen. Wenn Levin ausatmete, hing sein Atem einen Moment vor ihm, bevor der Wind ihn zerlegte.
+
+Er hätte am Morgen noch behauptet, dass er solche Nächte mochte. Bergluft, wenige Menschen, das klare Geräusch eines Zuges irgendwo hinter der nächsten Kurve. In einem anderen Leben hätte er daraus eine freundliche Bemerkung gemacht, etwas Unverbindliches für die Frau vom Archiv oder für den Fahrer des kleinen Busses, der ihn vom Termin zurückgebracht hatte. Jetzt fiel ihm kein Satz mehr ein, der nicht gelogen gewesen wäre.
+
+Er zog die Handschuhe enger. In der rechten Hand spürte er den Abdruck der Mappe noch immer, obwohl er sie längst abgestellt hatte. Papier hinterließ solche Nachwirkungen. Man hielt etwas zu lange fest, dann blieb die Form im Körper, auch wenn der Gegenstand schon weg war.
+
+Das war ein Gedanke, den er nicht mochte.
+
+Er sah auf die Gleise, dann sofort wieder zur Anzeige. Samedan. Chur. Später vielleicht Zürich. Nicht alles auf einmal. Nur der nächste Abschnitt. Das war eine brauchbare Methode: Dinge in Abschnitte zerlegen, bis sie keine Forderung mehr stellten.
+
+Am Rand des Perrons standen drei Personen, jede für sich in der kleinen Müdigkeit später Reisen. Eine Frau mit einem hellen Schal las etwas auf ihrem Telefon. Ein Mann in einem zu glatten Mantel sprach in ein Headset, obwohl seine Stimme so gedämpft war, als wolle er nicht gehört werden. Weiter hinten wartete jemand mit einer Kamera vor der Brust, ohne ein Bild zu machen.
+
+Levin bemerkte das alles und ärgerte sich darüber. Er wollte nicht beobachten. Beobachten war Arbeit, auch wenn es niemand bezahlte. Man sah einen Fleck auf einem Ärmel, eine alte Narbe an einem Finger, ein Zögern vor einer Antwort, und schon hatte die Welt wieder Ränder, an denen sie ausfransen konnte.
+
+Er wandte sich zum Wartehäuschen. Das Glas war von innen beschlagen, obwohl niemand darin saß. Für einen Moment sah er darin nur eine matte, verzogene Version seines Gesichts: zu blass, die Haare vom Wind an die Stirn gedrückt, die Augen müder, als er sie fühlte. Dann schob sich in der Spiegelung das Licht der Anzeige darüber, und sein Gesicht verschwand unter dem Wort Chur.
+
+Dort war Sarah.
+
+Nicht direkt am Bahnhof, nicht wartend wie in einer Szene, die sie beide peinlich gefunden hätten. Aber nahe genug, dass Levin sich nicht mehr einreden konnte, diese Reise sei nur ein Umweg nach einem beruflichen Termin. Sie hatte geschrieben, er solle nicht extra kommen. Genau deshalb war er gekommen.
+
+Aus der Dunkelheit hinter dem Perron kam ein fernes Rollen. Noch kein Zug, eher die Ankündigung eines Zuges im Metall. Levin hob den Kopf. Sein Körper tat das einen Sekundenbruchteil schneller als sein Denken.
+
+Dann vibrierte das Telefon in seiner Manteltasche.
+
+Er wusste, bevor er es herauszog, dass es Sarah war.
+
+---
+
+## 8. Beat-local correction pass — Beat 1
+
+### Logic
+
+Pass. Levin is plausibly in Samedan after an archive / professional appointment and needs to continue toward Chur.
+
+### Motivation
+
+Pass. He is tired, controlled, and trying to turn the journey into logistics. Sarah enters as emotional pressure only at the end.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No direct guilt language.
+- No explicit RhB past.
+
+### Motif control
+
+Pass.
+
+Used:
+
+- cold platform / glass,
+- Chur as destination,
+- document/body residue,
+- Sarah as end-beat lead-in.
+
+Held back:
+
+- 02:47,
+- metallic splitting,
+- Mancini,
+- ensemble details beyond faint pre-glimpses.
+
+### Seam into Beat 2
+
+Strong. Beat 1 ends with Sarah’s message arriving, so Beat 2 can begin directly with the phone / response problem.
+
+### Watch
+
+The phrase about paper leaving a form in the body is useful but should not be overused later. It can become an early echo for documents / form / signature, but must stay subtle.
