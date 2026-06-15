@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–5 drafted  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–6 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–5 are drafted. Next step: Beat 6 draft.
+> **Current drafting rule:** Beat-by-beat. Beats 1–6 are drafted. Next step: Beat 7 draft.
 
 ---
 
@@ -847,3 +847,107 @@ Strong. Beat 5 ends after ticket validation and name/presence attention. Beat 6 
 ### Watch
 
 Mancini’s knowledge is close to supernatural but still deniable through ticket data. Keep Beat 6 focused on 02:47 only; do not stack another Mancini oddity immediately.
+
+---
+
+## 16. Draft — Beat 6
+
+Levin sah dem Schaffner nicht nach.
+
+Er tat nur das, was man tat, wenn eine Begegnung einen Sekundenbruchteil zu lange gedauert hatte: Er machte etwas Praktisches. Er sperrte das Telefon. Er entsperrte es wieder. Er schloss die Billett-App, als müsse er beweisen, dass der Vorgang abgeschlossen war. Dann blieb der Daumen einen Moment auf dem schwarzen Bildschirm liegen.
+
+Im Glas spiegelte sich der Wagen in Schichten. Sein eigenes Gesicht lag über dem dunklen Fenster, dahinter der Gang, dahinter Marlene mit der Kamera im Schoß, dahinter Reck, der seine Aktentasche öffnete und wieder schloss, als sei sie ein Argument. Über der Tür am Wagenende hing eine kleine Anzeige, die Levin bisher nicht beachtet hatte.
+
+Nächster Halt. Anschlüsse. Irgendeine Uhrzeit vielleicht.
+
+Er hätte nicht sagen können, warum er genau in diesem Moment hinblickte.
+
+Für einen Atemzug stand dort: **02:47**.
+
+Nicht groß. Nicht dramatisch. Nur vier Ziffern, schmal und hell, zwischen zwei anderen Informationen, die er danach nicht mehr hätte wiedergeben können.
+
+Levin blinzelte.
+
+Die Anzeige zeigte wieder den nächsten Halt. Oder sie hatte nie etwas anderes gezeigt. Sein Telefon lag dunkel in seiner Hand. Auf dem Glas des Displays war nur sein Daumenabdruck, eine matte ovale Stelle, die sich nicht sauber wegwischen ließ.
+
+Er sah auf die Uhr am Handgelenk. Ein Fehler. Genau das dachte er sofort, noch bevor er die Zeiger erfasste. Ein Fehler der Anzeige, ein Nachbild, Müdigkeit, eine Überlagerung aus Fahrplan und Spiegelung. Es gab für solche Dinge Erklärungen, und die meisten waren klein genug, dass man sie nicht weiter beachten musste.
+
+Neben ihm raschelte Frau Hedigers Zeitung.
+
+„Alles in Ordnung?“, fragte sie, ohne sich ganz umzudrehen.
+
+Levin merkte erst da, dass er noch immer zur Anzeige sah.
+
+„Ja“, sagte er.
+
+Die Antwort kam zu schnell.
+
+Frau Hediger faltete eine Seite um. „Das ist selten ein guter Grund.“
+
+Er sah sie an. Sie las weiter, als habe sie gar nicht mit ihm gesprochen.
+
+Reck schloss seine Aktentasche endgültig. Das Klicken war trocken und klein. Marlene hob den Kopf, aber nicht zur Anzeige. Zu Levin. Einen Moment lang lag zwischen ihnen die Möglichkeit, dass sie etwas gesehen hatte. Dann senkte sie den Blick auf ihre Kamera und drehte den Ring am Objektiv, obwohl es nichts zu fokussieren gab.
+
+Levin legte das Telefon neben sich auf den Sitz. Sofort nahm er es wieder weg und steckte es in die Manteltasche.
+
+Er war müde. Das war alles. Müde Menschen sahen Zahlen, wo keine waren. Müde Menschen machten aus Anzeigen Zeichen, aus Namen Absichten, aus einem Schaffner einen Mann, der zu lange hinsah.
+
+Der Zug fuhr gleichmäßig weiter.
+
+Das war die wichtige Tatsache.
+
+Er hielt sich daran fest, bis sie sich wie eine Tatsache anfühlte.
+
+---
+
+## 17. Beat-local correction pass — Beat 6
+
+### Logic
+
+Pass. Beat 6 grows naturally out of the ticket / phone afterglow from Beat 5. Levin has a plausible reason to still have his phone in hand and to look toward the carriage display.
+
+### Motivation
+
+Pass. Levin dismisses the 02:47 flicker because nothing impossible has happened yet and because tiredness gives him an easy explanation.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No clear memory.
+- No Mancini explanation.
+- No Marlene driver reveal.
+
+### Motif control
+
+Pass.
+
+Used:
+
+- 02:47 exactly once as a deniable display flicker.
+- phone/display reflection.
+- Hediger as small pressure, not exposition.
+- Marlene as possible witness without confirmation.
+
+Held back:
+
+- metallic splitting for Beat 8.
+- explicit old railway past for Beat 7.
+- snow-in-wrong-direction.
+- any full world-rule.
+
+### Beat-distinctness
+
+Pass. Beat 6 is not another Mancini scene. It uses the afterimage of the ticket moment but shifts the unease to technology / perception / time.
+
+### Seam into Beat 7
+
+Strong. Levin’s attempt to rationalize the display creates the right opening for an old railway-related association to begin and fail in Beat 7.
+
+### Watch
+
+The number has now been planted. Do not repeat 02:47 again in Chapter 1. Let Beat 7 move into body / avoidance, and Beat 8 into sound.
