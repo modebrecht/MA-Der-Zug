@@ -16,6 +16,7 @@ The project is split because each document answers a different kind of question:
 | Chapter plan | What happens when? | Prevents beautiful scenes without a spine. |
 | Accident file | What really happened in 2008? | Prevents vague mystery logic. |
 | Workflow | How do we write without collapsing into summary? | Prevents pacing and prose drift. |
+| Callback ledger | Which seeds, motifs, clues and payoffs are active? | Prevents dropped setups, repeated motifs and unfair reveals. |
 | Act foundations | What must this act achieve before chapter prose starts? | Prevents act-level holes. |
 | Chapter files | The actual manuscript prose. | Keeps draft text separate from planning. |
 | Archive manifest | What was removed from the active path? | Preserves recovery info without polluting canon. |
@@ -33,10 +34,11 @@ Read / update files in this order:
 3. `03-chapter-plan.md`
 4. `04-accident-2008.md`
 5. `05-workflow.md`
-6. `11-act1-foundation.md`
-7. `12-act2-foundation.md` once created
-8. `21-chapter-01.md` once drafting begins
-9. `22-chapter-02.md`, etc.
+6. `06-callback-ledger.md`
+7. `11-act1-foundation.md`
+8. `12-act2-foundation.md` once created
+9. `21-chapter-01.md` once drafting begins
+10. `22-chapter-02.md`, etc.
 
 Do **not** read `99-archive-manifest.md` for drafting. It exists only to document removed files.
 
@@ -55,6 +57,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 - `03-chapter-plan.md` — full novel route / red thread.
 - `04-accident-2008.md` — reconstruction of the fictional Albula accident.
 - `05-workflow.md` — writing workflow and quality gates.
+- `06-callback-ledger.md` — master tracker for seeds, motifs, clues, hidden truths, disappearances and payoffs.
 
 ### 11–19 — Act foundations
 
@@ -87,6 +90,7 @@ This keeps planning files and manuscript files visually separated.
 | `kapitelplan.md` | `03-chapter-plan.md` |
 | `unglueck-2008.md` | `04-accident-2008.md` |
 | `workflow.md` | `05-workflow.md` |
+| `motiv-ledger.md` / callback tracker | `06-callback-ledger.md` |
 | `akt1-foundation.md` | `11-act1-foundation.md` |
 
 If an internal document reference still points to an old filename, map it through this table.
@@ -114,6 +118,9 @@ Before starting chapter prose:
 3. Read the relevant chapter entry in `03-chapter-plan.md`.
 4. Check `04-accident-2008.md` for hidden truth / 2008 information boundaries.
 5. Follow `05-workflow.md`.
-6. For chapter 1–6, also read `11-act1-foundation.md`.
+6. Check `06-callback-ledger.md` for active seeds, motifs, hidden truths and pending payoffs.
+7. For chapter 1–6, also read `11-act1-foundation.md`.
 
 Then create `21-chapter-01.md` with the chapter beat plan first. Do not write full prose before the beat plan passes the workflow gates.
+
+After every completed chapter, update `06-callback-ledger.md` before starting the next chapter.
