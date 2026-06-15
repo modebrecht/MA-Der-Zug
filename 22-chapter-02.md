@@ -1,12 +1,12 @@
 # Chapter 2 — Halt
 
-> **Status:** BEAT PLAN ONLY — control pass complete; awaiting explicit “Go” before prose  
+> **Status:** DRAFT IN PROGRESS — beats 1–2 drafted and beat-local correction passed  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 2  
 > **Working title:** Halt  
 > **Target length:** ca. 3,200–3,700 German words  
 > **POV / tense for later prose:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Do not write Chapter 2 prose before explicit approval / “Go”.
+> **Current drafting rule:** Next clean step: draft Beat 3 only. Do not jump ahead to later beats.
 
 ---
 
@@ -305,7 +305,7 @@ Watch:
 
 PASS — Beat Plan v2 is structurally coherent and preserves the Ch1→Ch2 seam.
 
-It can proceed to Chapter 2 prose only after explicit approval / “Go”.
+It can proceed to Chapter 2 prose beat-by-beat after explicit approval / “Go”.
 
 ---
 
@@ -387,4 +387,150 @@ The plan preserves:
 - no Tilgung before its planned structural moment;
 - no discarded Transit / all-dead drift.
 
-**Next clean step:** Wait for explicit “Go”, then draft **Beat 1 only** under the prose protocol.
+**Next clean step:** Draft **Beat 3 only** under the prose protocol.
+
+---
+
+## 7. Draft — Beat 1
+
+Er tat nichts damit.
+
+Das Wissen stand in ihm, und Levin ließ es stehen. Er gab ihm keinen Namen, keine Richtung, keine Erinnerung. Er sah nur auf seine Hände, bis sie wieder wie Hände wirkten und nicht wie etwas, das ihn verraten konnte.
+
+Der Tunnel lief weiter.
+
+Nicht anders als vorher, sagte er sich. Genau gleich. Räder, Wand, Luftdruck, der schmale Ton der Verbindung zwischen den Wagen. Ein Zug in einem Tunnel klang eben nicht wie ein Zug unter freiem Himmel. Alles wurde enger. Alles kam zurück. Wer müde war, hörte Dinge doppelt. Wer zu lange auf ein Geräusch achtete, machte es größer, bis es sich wichtig fühlte.
+
+Das war nicht dasselbe wie wichtig sein.
+
+Neben ihm bewegte sich jemand. Nur ein Mantelstoff, der über einen Sitz rieb. Trotzdem hob Levin den Blick.
+
+Eliah hatte die Augen wieder offen. Er saß sehr gerade da, die Schultern zu hoch, den Kopf ein wenig geneigt, als höre er nicht den Zug, sondern etwas darunter. Seine Mutter flüsterte ihm etwas zu. Kein richtiger Satz. Mehr eine Hand aus Worten. Eliah reagierte nicht darauf. Er sah zur Decke, dorthin, wo der Lautsprecher in seinem grauen Rahmen saß.
+
+Aus dem Lautsprecher kam nichts.
+
+Das machte es schlimmer als ein zweites Knacken.
+
+Levin wartete noch einen Atemzug. Dann noch einen. Irgendwann hätte eine Stimme einsetzen müssen, beiläufig, gelangweilt vielleicht, mit jener eingeübten Ruhe, die jeden Zwischenfall in eine Verspätung verwandelte. Sehr geehrte Fahrgäste. Technische Verzögerung. Wir bitten um Verständnis. Irgendein Satz, der den Raum wieder kleiner machte.
+
+Aber der Lautsprecher blieb tot.
+
+Reck tippte auf seinem Telefon herum. Der Bildschirm leuchtete kurz in seinem Gesicht auf, blau und kalt, dann neigte er ihn, als wäre der Winkel schuld daran, dass nichts passierte. Frau Hediger hatte ihre Zeitung nicht wieder geöffnet. Ihre Hand lag noch immer darauf, flach, fast zärtlich, als müsse sie das Papier daran hindern, sich zu bewegen.
+
+Marlene hob die Kamera nicht.
+
+Das fiel Levin auf, obwohl es ihn nichts anging. Sie hatte sie auf dem Schoß, beide Hände darum, die Finger locker am Gehäuse. Nicht bereit zum Fotografieren. Nicht entspannt. Eher so, als halte sie etwas fest, das sie im nächsten Moment brauchen könnte und noch nicht brauchen wollte.
+
+Der Zug fuhr.
+
+Oder er fuhr wenigstens genug, dass man es glauben konnte.
+
+Die Lampen blieben an. Der Boden vibrierte. Irgendwo klirrte leise Glas oder Metall, vielleicht im nächsten Wagen, vielleicht nur in einer Tasche. Alles lieferte Beweise gegen seine Angst, und jeder Beweis war ein wenig zu dünn.
+
+Levin lehnte sich zurück. Nicht zu schnell. Nicht so, dass Marlene es sehen musste. Der Sitz nahm sein Gewicht an, der Stoff kratzte durch den Mantel, die Heizung atmete warm gegen seine Schienbeine.
+
+Normalität, dachte er.
+
+Das Wort half nicht.
+
+Der Tunnel gab keine Antwort. Er nahm nur die Geräusche, drückte sie zusammen und schickte sie verändert zurück. Unter dem gleichmäßigen Laufen des Zuges blieb diese eine Stelle offen, die das Metall hinterlassen hatte.
+
+Und diesmal wartete Levin nicht darauf, dass sie sich schloss.
+
+---
+
+## 8. Beat-local correction pass — Beat 1
+
+**Logic:** Pass. Der Beat setzt direkt nach Ch1 an: metallischer Klang, fehlende Durchsage, Tunnel-Nachhall. Kein Reset.
+
+**Motivation:** Pass. Levin versucht weiter zu normalisieren, weil noch nichts objektiv unmöglich ist.
+
+**Hidden-truth protection:** Pass. Kein 2008, keine Weiche, kein Formular, keine Signatur, kein Unfallbild.
+
+**Motif control:** Pass. Metallischer Nachhall, Lautsprecher, Eliah, Marlene, Hediger. Kein Schnee-Hauptmotiv, kein Tobias-Authority-Beat.
+
+**Seam into Beat 2:** Stark. Der letzte Satz hält die Störung offen und bereitet vor, dass im nächsten Beat die Bewegung selbst fraglich wird.
+
+---
+
+## 9. Draft — Beat 2
+
+Dann veränderte sich der Rhythmus.
+
+Nicht genug, dass jemand aufgestanden wäre. Nicht genug, dass ein Glas umkippte oder ein Koffer rutschte. Es war eher, als hätte der Zug für einen Augenblick vergessen, wie sein eigenes Gewicht klang.
+
+Levin merkte es zuerst in den Füßen.
+
+Die Vibration unter der Sohle wurde dünner. Kein Bremsen. Kein richtiges Nachlassen. Eher ein Ausbleiben an einer Stelle, an der sonst etwas gewesen war. Er stellte den rechten Fuß fester auf den Boden, als könne er die Bewegung damit nachprüfen. Der Wagen antwortete mit einem langen, gleichmäßigen Zittern.
+
+Alles normal.
+
+Er sagte es nicht einmal mehr in Gedanken. Er hielt nur die Form des Satzes fest.
+
+Die Tunnelwand neben dem Fenster verlor für einen Moment ihre glatte Nähe. Schwarz blieb schwarz, aber es bekam Tiefe. Eine Öffnung vielleicht, eine Galerie, ein kurzer Schnitt in den Berg. Dann war wieder Fels da, oder Nacht, oder das Spiegelbild der Lampen. Levin konnte nicht sagen, ob sie den Tunnel verlassen hatten oder nur durch eine andere Art Dunkelheit fuhren.
+
+Das störte ihn mehr, als es sollte.
+
+Ein Zug gab einem Dinge, ohne dass man darum bat. Richtung. Tempo. Nächster Halt. Außen und innen. Geradeaus, Kurve, Brücke, Tunnel. Man musste es nicht wissen. Der Körper wusste es für einen. Jetzt wusste sein Körper zu viel und zu wenig zugleich.
+
+Der Wagen zog leicht nach hinten.
+
+Levin griff nicht nach dem Sitz. Er wollte nicht noch einmal diese Bewegung machen. Stattdessen legte er die Hand flach auf seinen Oberschenkel und drückte den Stoff gegen den Knochen.
+
+Neben der Tür schwankte der Lederriemen an einem Rucksack. Langsam. Zu langsam für die Geschwindigkeit, die der Zug noch haben musste. Oder schneller, als er es bei einem Zug erwartet hätte, der langsamer wurde. Levin starrte darauf, bis der Riemen wieder nur ein Riemen war.
+
+Reck hob den Kopf.
+
+Nur kurz. Dann sah er wieder auf sein Telefon, als hätte er sich selbst verboten, etwas bemerkt zu haben. Anika beugte sich zu Eliah, diesmal ohne zu flüstern.
+
+„Alles gut?“
+
+Eliah nickte nicht. Er zog die Hände in die Ärmel seines Pullovers und presste die Lippen zusammen. Sein Blick blieb an der Decke, an den Lampen, am Lautsprecher. Nicht am Fenster.
+
+Frau Hediger schloss die Augen.
+
+Nicht erschöpft. Nicht betend. Eher wie jemand, der eine bekannte Stelle in einem Lied kommen hörte und nicht mitzählte, weil er sie ohnehin kannte.
+
+Levin sah weg.
+
+Marlene bemerkte es.
+
+Natürlich bemerkte sie es. Sie hatte nicht in seine Richtung geschaut, und doch hob sie den Kopf genau in dem Moment, in dem er sich von der alten Frau abwandte. Die Kamera lag noch immer auf ihrem Schoß. Ihr Daumen strich einmal über die Kante des Gehäuses, nicht nervös, mehr prüfend. Als würde sie entscheiden, ob etwas schon sichtbar genug war.
+
+Der Zug wurde leiser.
+
+Das war unmöglich. Nicht unmöglich. Falsch war das Wort. Leiser hieß nicht langsamer. Leiser hieß anderer Untergrund, andere Wand, andere Kurve, anderer Luftzug. Es gab Gründe. Es gab immer Gründe.
+
+Unter dem Wagen klang ein metallischer Ton nach, diesmal nicht hell, nicht geteilt, nur langgezogen, als spannte sich etwas und gab nicht ganz nach.
+
+Ein Mann zwei Reihen weiter lachte leise auf. Nicht weil etwas lustig war. Weil Schweigen zu groß geworden war.
+
+„Wahrscheinlich Signal“, murmelte er.
+
+Niemand antwortete.
+
+Das Wort blieb zwischen den Sitzen liegen, harmlos genug, um nicht zu helfen.
+
+Levin suchte das Fenster nach einem festen Punkt ab. Ein Licht. Eine Wandkante. Einen Mast. Irgendein Zeichen, das sich schnell genug bewegte, um Geschwindigkeit zu beweisen. Aber draußen gab es nur dunkle Flächen, die zu nah waren oder zu weit, und manchmal etwas Helles, das Schnee sein konnte oder eine Spiegelung im Glas.
+
+Die Lampen flackerten nicht.
+
+Gerade deshalb sah er, wie sie zitterten.
+
+Der Zug fuhr weiter.
+
+Nur nicht mehr so, dass Levin ihm glaubte.
+
+---
+
+## 10. Beat-local correction pass — Beat 2
+
+**Logic:** Pass. Beat 2 verschiebt die Störung von innerem Nachhall zu körperlich messbarer Bewegungsunsicherheit, ohne den Halt schon zu liefern.
+
+**Motivation:** Pass. Levin sucht externe Beweise für Normalität: Boden, Rucksackriemen, Fenster, Licht, Geschwindigkeit. Er untersucht nicht aktiv, weil noch alles plausibel erklärbar bleibt.
+
+**Hidden-truth protection:** Pass. Kein 2008, kein Formular, keine Signatur, keine Weiche, kein Unfallbild. Das Wort `Signal` bleibt als harmlose Passagiervermutung, nicht als Diagnose.
+
+**Motif control:** Pass. Sound, Druck, Licht, Bewegung/Stillstand. Schnee nur unsicher und spiegelungsnah, noch kein objektiver Weltbruch.
+
+**Seam into Beat 3:** Stark. Der letzte Satz bereitet den echten Halt vor: Der Zug fährt noch, aber Levin glaubt der Bewegung nicht mehr.
