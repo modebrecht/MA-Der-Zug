@@ -1,12 +1,12 @@
 # Chapter 1 — Der letzte Zug
 
-> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–3 drafted  
+> **Status:** DRAFT IN PROGRESS — Beat Plan v3 consolidated; Beats 1–4 drafted  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 1  
 > **Working title:** Der letzte Zug  
 > **Target length:** ca. 3,200–3,600 German words  
 > **POV / tense:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Beat-by-beat. Beats 1–3 are drafted. Next step: Beat 4 draft.
+> **Current drafting rule:** Beat-by-beat. Beats 1–4 are drafted. Next step: Beat 5 draft.
 
 ---
 
@@ -494,3 +494,154 @@ Strong. Beat 3 ends with the train now closed and complete as a world. Beat 4 ca
 ### Watch
 
 The phrase “vollständig” is useful as a closed-setting note, but should not yet feel metaphysical. Beat 4 should restore ordinary passenger behavior quickly before subtle wrongness returns.
+
+---
+
+## 12. Draft — Beat 4
+
+Dann begann das Gewöhnliche.
+
+Jemand zog den Reißverschluss einer Tasche zu. Ein Kind — nein, kein Kind, ein junger Mann mit zu schmalen Schultern und zu ruhigen Augen — räusperte sich, als hätte der Ton der Türen ihm im Hals wehgetan. Die Frau neben ihm legte sofort eine Hand auf seinen Ärmel. Zu schnell, zu routiniert. Er schüttelte sie nicht ab, aber er sah nicht zu ihr hin.
+
+Levin stellte seine Aktentasche vom Nebensitz auf den Boden.
+
+Nicht, weil schon jemand Anspruch erhob. Weil er merkte, wie besitzergreifend diese kleine Geste war: ein leerer Platz als Abstandhalter. Er schob die Tasche zwischen seine Schuhe, wo sie mit einem dumpfen Laut gegen die Wand stieß, und nahm den Schal ab. Der Wagen war jetzt in Bewegung, kaum spürbar zuerst, mehr Entscheidung als Fahrt.
+
+Schräg gegenüber hob die Frau mit der Kamera den Apparat, ohne ihn an das Auge zu führen. Es war keine Digitalkamera, jedenfalls keine, wie Levin sie bei Studierenden, Journalistinnen oder Touristen gewohnt war. Schwarzes Gehäuse, abgegriffene Kanten, ein Objektiv, das mehr wog, als es musste. Sie drehte an einem Ring, langsam, prüfend, als würde sie nicht den Zug fotografieren, sondern die Möglichkeit eines Bildes.
+
+Für einen Moment kreuzte sich ihr Blick mit seinem. Sie nickte nicht. Sie lächelte nicht. Sie nahm nur wahr, dass er sie wahrnahm, und senkte die Kamera wieder.
+
+Zwei Reihen weiter vorn sprach der Mann im glatten Mantel jetzt lauter. Das Headset saß noch immer in seinem Ohr, obwohl Levin sicher war, dass es in diesem Abschnitt kaum Empfang gab.
+
+„Nein, das ist kein Zwischenfall“, sagte der Mann. „Das ist eine Frage der Zuständigkeit. Wenn die Abnahme formal erfolgt ist, dann liegt die Verantwortung nicht mehr bei uns.“
+
+Er machte eine Pause, in der niemand am anderen Ende antworten konnte, und nickte trotzdem.
+
+„Eben. Prozess sauber halten. Alles andere ist Emotion.“
+
+Levin sah aus dem Fenster.
+
+Draußen glitt das Perron zurück, langsamer, als es sollte, oder vielleicht war es nur die Art, wie Licht auf Schnee stehen blieb. Dann kam Dunkelheit, unterbrochen von einem niedrigen Gebäude, einem Mast, dem kurzen Aufblitzen eines Schildes. Nichts daran war bemerkenswert. Er merkte sich trotzdem den Satz des Mannes, gegen seinen Willen. Prozess sauber halten. Alles andere ist Emotion.
+
+Auf der anderen Gangseite stritt ein Paar sehr leise.
+
+Nicht so, dass man Wörter hätte verstehen sollen. Gerade deshalb verstand Levin zu viel. Die Frau saß zum Fenster, die Arme verschränkt, das Kinn leicht gehoben. Der Mann neben ihr beugte sich zu ihr hinüber, als könne Nähe eine Antwort erzwingen.
+
+„Nicht hier“, sagte sie.
+
+„Du hast gesagt, im Zug.“
+
+„Ich habe gesagt, nicht vor ihnen.“
+
+„Vor wem?“
+
+Sie sah ihn an, und etwas in ihrem Gesicht machte die Frage unbrauchbar. Der Mann lehnte sich zurück. Seine Hand blieb auf dem Tischchen liegen, offen, palmennah an ihrer, aber ohne sie zu berühren. Zwischen ihren Fingern lag ein Telefon mit einem Foto auf dem Sperrbildschirm: zwei Gesichter, zu nah beieinander, die Art Bild, die man entweder löscht oder jahrelang nicht löscht.
+
+Eine alte Frau im Sitz vor Levin faltete ihre Zeitung zusammen. Nicht raschelnd, nicht ungeduldig, sondern mit einer Genauigkeit, als sei jeder Falz eine Entscheidung. Als der junge Mann mit den ruhigen Augen zu laut einatmete, hob sie den Kopf.
+
+„Die Lüftung zieht von oben“, sagte sie zu der Frau neben ihm. „Nicht vom Fenster. Wenn er empfindlich ist, setzen Sie ihn nicht an den Gang.“
+
+Die Frau sah überrascht auf. „Danke.“
+
+„Es ist keine Meinung“, sagte die Alte. „Es ist Zugluft.“
+
+Danach wandte sie sich wieder ihrer Zeitung zu, als hätte sie nichts weiter getan, als eine Uhr richtig zu stellen.
+
+Levin hätte fast gelächelt. Nicht, weil es komisch war. Weil die Präzision ihm gefiel und ihn gleichzeitig abstieß. Es gab Menschen, die ordneten die Welt mit Sätzen. Er gehörte vermutlich dazu. Sarah hätte gesagt: *Du vermutlich? Sehr mutig formuliert.*
+
+Am Ende des Wagens öffnete sich eine Glastür. Für einen Augenblick sah Levin in den nächsten Abschnitt: schwächeres Licht, ein schmaler Durchgang, Jacken, Gepäck, ein Mann, der mit offenem Mund schlief, den Kopf gegen die Scheibe gelehnt. Neben ihm lag eine Tasche, aus der ein Notizbuch ragte. Der Zug ruckte leicht, und der schlafende Mann bewegte sich nicht.
+
+Dann glitt jemand in dunkler Uniform durch den Übergang und die Tür fiel wieder zu.
+
+Levin sah nur die Bewegung, keine Einzelheiten. Eine Hand an der Türstange. Ein kurzer Blick in den Wagen. Nicht suchend. Zählend vielleicht. Der Mann blieb nicht stehen. Noch nicht. Aber sein Blick hatte eine merkwürdige Geduld, als wüsste er, dass niemand in einem Zug wirklich verschwand, nur weil man ihn für einen Moment nicht sah.
+
+Der junge Mann neben der besorgten Frau flüsterte etwas. Sie beugte sich zu ihm.
+
+„Was?“
+
+„Nichts.“
+
+„Eliah.“
+
+Er schloss kurz die Augen, nicht genervt, eher erschöpft von seinem eigenen Namen. „Es ist nur das Geräusch.“
+
+„Welches Geräusch?“
+
+Er antwortete nicht.
+
+Levin hörte hin, obwohl er es nicht wollte. Räder, Schiene, Heizung, das entfernte Knacken der Wagenverbindung. Ganz normal. Ein Zug, der in der Nacht an Geschwindigkeit gewann. Er hätte jedes Geräusch erklären können, wenn jemand ihn gefragt hätte. Nicht technisch. Nicht wirklich. Nur so, wie man Dinge erklärt, um nicht von ihnen berührt zu werden.
+
+Die Frau mit der Kamera hob den Apparat nun doch ans Auge. Nicht zum Fenster, sondern in den Wagen hinein. Ihr Objektiv wanderte nicht. Es blieb einen Moment bei dem alten Zeitungsfalz, dann bei dem Paar, dann bei der Glastür am Wagenende. Sie drückte nicht ab.
+
+Der Mann im glatten Mantel sagte: „Nein, Reck hier. Hören Sie mir zu: Man dokumentiert nicht jede Unruhe, sonst hat man am Ende nur Unruhe dokumentiert.“
+
+Die alte Frau hob die Augen von ihrer Zeitung.
+
+Das Paar schwieg.
+
+Der junge Mann namens Eliah legte den Kopf an die Scheibe und zog ihn sofort wieder zurück, als sei das Glas kälter, als es sein durfte.
+
+Levin bemerkte, dass er die ganze Zeit seine Aktentasche mit beiden Knien festhielt.
+
+Er ließ los.
+
+Der Zug fuhr weiter, sauber und pünktlich durch die Dunkelheit, und für einen Moment war der Wagen nichts anderes als ein Wagen: Menschen, die zu spät unterwegs waren, mit Gesprächen, die nicht für andere bestimmt waren, mit Müdigkeit, mit Gepäck, mit kleinen Abständen zwischen sich und dem Rest der Welt.
+
+Das hätte reichen müssen.
+
+---
+
+## 13. Beat-local correction pass — Beat 4
+
+### Logic
+
+Pass. Beat 4 follows from the closed train world and lets ordinary passenger behavior re-enter before the chapter’s stranger seeds resume.
+
+### Motivation
+
+Pass. Levin observes because he is tired, avoidant, professionally detail-oriented and trying not to engage. The passengers reveal themselves through interruptions, not through formal introductions.
+
+### Hidden-truth protection
+
+Pass.
+
+- No 2008.
+- No accident.
+- No form / signature.
+- No Weichenheizung.
+- No Marlene driver reveal.
+- No Mancini explanation.
+- No supernatural rule.
+
+### Motif / figure control
+
+Pass.
+
+Seeded:
+
+- Marlene through old mechanical camera and perception.
+- Tobias/Reck through process-language and responsibility deflection.
+- Hediger through precision and calm correction.
+- Anika/Jan through private tension and photo.
+- Selma/Eliah through overcare and sound-sensitivity.
+- Robert through sleeping rear-glimpse and notebook.
+- Mancini through a dark-uniform threshold glimpse, not yet ticket scene.
+
+Held back:
+
+- 02:47.
+- metallic splitting as explicit body-memory.
+- Platz 47 / cold coffee.
+- any clear Albula-2008 connection.
+
+### Beat-distinctness
+
+Pass. Beat 4 does not repeat Beat 3’s spatial entry. It turns the closed train into a social field.
+
+### Seam into Beat 5
+
+Strong. Mancini has been glimpsed once at the transition door, so Beat 5 can bring him into the carriage for the first ordinary-but-wrong pass.
+
+### Watch
+
+Reck’s process-language is strong. In Beat 5, avoid another long managerial line. Let Mancini’s quiet presence contrast with Reck rather than compete with him.
