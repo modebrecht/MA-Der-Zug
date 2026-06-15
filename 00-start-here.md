@@ -1,7 +1,7 @@
 # Start Here — Der Zug / Albula
 
 > **Purpose:** Reading order, file map and project audit log for the Albula novel project.  
-> **Rule:** Use the numbered English filenames as the current working structure. Older German filenames may still appear inside copied documents; this file is the source of truth for file identity.
+> **Rule:** Use the numbered English filenames as the current working structure. This file is the source of truth for file identity, active reading order and project-audit history.
 
 ---
 
@@ -58,7 +58,7 @@ Do **not** read `99-archive-manifest.md` for drafting. It exists only to documen
 - `02-characters.md` — character dossier.
 - `03-chapter-plan.md` — full novel route / red thread.
 - `04-accident-2008.md` — reconstruction of the fictional Albula accident.
-- `05-workflow.md` — writing workflow and quality gates.
+- `05-workflow.md` — writing workflow and quality gates. It does **not** control file routing.
 - `06-callback-ledger.md` — master tracker for seeds, motifs, clues, hidden truths, disappearances and payoffs.
 
 ### 11–19 — Act foundations
@@ -122,7 +122,7 @@ Before starting chapter prose:
 2. Read the relevant figure sections in `02-characters.md`.
 3. Read the relevant chapter entry in `03-chapter-plan.md`.
 4. Check `04-accident-2008.md` for hidden truth / 2008 information boundaries.
-5. Follow `05-workflow.md`.
+5. Follow `05-workflow.md` for method, beat planning and quality gates.
 6. Check `06-callback-ledger.md` for active seeds, motifs, hidden truths and pending payoffs.
 7. For chapters 1–6, also read `11-act1-foundation.md`.
 8. For chapters 7–11, also read `12-act2-foundation.md`.
@@ -149,7 +149,7 @@ Decision:
 - Older Transit / Flood / generic afterlife variants are inactive.
 - The project spine is: **one train, one accident, one guilt-chain, one repressed moment.**
 
-Resulting active files:
+Resulting active foundation files:
 
 - `01-canon.md`
 - `02-characters.md`
@@ -249,7 +249,7 @@ Detected stale / cleanup points:
 
 Consolidation response:
 
-- Akt I should be marked as current foundation, not proposal.
+- Akt I was marked as current foundation, not proposal.
 - Tobias is fixed as first hard Tilgung.
 - Chapter 20 final location is **Café in Zürich**.
 - Old file references should be mapped through this file if not yet updated internally.
@@ -339,17 +339,42 @@ Applied / to be preserved in drafting:
 5. **Chapter 20 final location locked**
    - Schlussort: **Café in Zürich**.
 
-### 6.9 Current readiness state
+### 6.9 Workflow ownership cleanup
 
-The project is structurally close to drafting.
+Question checked:
 
-Before writing `21-chapter-01.md`, do one final check:
+> Should `05-workflow.md` still list current canon filenames, or should file routing be controlled elsewhere?
 
-1. `11-act1-foundation.md` should no longer contain stale proposal / next-step language.
-2. `03-chapter-plan.md` should reflect the Zürich ending and transition echo rules.
-3. `05-workflow.md` should use the new numbered filenames where possible.
-4. `06-callback-ledger.md` should be ready to receive Ch1 harvest after drafting.
+Decision:
 
-Once these are clean, the next creative step is:
+- `05-workflow.md` should **not** duplicate filename lists anymore.
+- File order, filenames, old-to-new mapping and audit history are controlled here in `00-start-here.md`.
+- `05-workflow.md` controls only the writing method: beat plan, gates, seam discipline, correction passes, chapter harvest and act audit.
+
+Why:
+
+- Duplicate filename lists create drift.
+- If a filename changes, only this start guide should change.
+- The workflow should remain stable even if project files are renamed or reorganized.
+
+Applied:
+
+- `05-workflow.md` was updated to `CANON WORKFLOW v2`.
+- Old German file references and optional file-list language were removed.
+- The workflow now points back to the start guide for routing.
+- The workflow keeps all method rules but stops pretending to be a file map.
+
+### 6.10 Current readiness state
+
+The project is structurally ready for drafting.
+
+Checked and cleaned:
+
+1. `11-act1-foundation.md` no longer carries stale proposal / next-step logic.
+2. `03-chapter-plan.md` reflects the Zürich ending and transition echo rules.
+3. `05-workflow.md` is now method-only and no longer duplicates filename routing.
+4. `06-callback-ledger.md` is ready to receive Ch1 harvest after drafting.
+
+Next creative step:
 
 > `21-chapter-01.md` — Chapter 1 beat plan, not prose yet.
