@@ -1,12 +1,12 @@
 # Chapter 2 — Halt
 
-> **Status:** DRAFT IN PROGRESS — beats 1–2 drafted and beat-local correction passed  
+> **Status:** DRAFT IN PROGRESS — beats 1–5 drafted and beat-local correction passed  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 2  
 > **Working title:** Halt  
 > **Target length:** ca. 3,200–3,700 German words  
 > **POV / tense for later prose:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Next clean step: draft Beat 3 only. Do not jump ahead to later beats.
+> **Current drafting rule:** Next clean step: draft Beat 6 only. Do not jump ahead to Beat 7.
 
 ---
 
@@ -387,7 +387,7 @@ The plan preserves:
 - no Tilgung before its planned structural moment;
 - no discarded Transit / all-dead drift.
 
-**Next clean step:** Draft **Beat 3 only** under the prose protocol.
+**Next clean step:** Draft **Beat 6 only** under the prose protocol.
 
 ---
 
@@ -534,3 +534,411 @@ Nur nicht mehr so, dass Levin ihm glaubte.
 **Motif control:** Pass. Sound, Druck, Licht, Bewegung/Stillstand. Schnee nur unsicher und spiegelungsnah, noch kein objektiver Weltbruch.
 
 **Seam into Beat 3:** Stark. Der letzte Satz bereitet den echten Halt vor: Der Zug fährt noch, aber Levin glaubt der Bewegung nicht mehr.
+
+---
+
+## 11. Draft — Beat 3
+
+Dann glaubte der Zug es selbst nicht mehr.
+
+Es begann nicht mit einem Ruck.
+
+Das war das Erste, was Levin später daran falsch finden würde, falls er später einen Ort fand, an dem man über so etwas nachdenken konnte. Es gab keinen Schlag, kein Schreien der Bremsen, kein hartes Reißen durch die Wagen. Nichts, das Menschen sofort erlaubte, zu reagieren, weil es eindeutig genug war.
+
+Stattdessen wurde das Gewicht des Zuges größer.
+
+Es sammelte sich unter dem Boden, in den Wänden, in den Gepäckablagen. Der Wagen sank nicht, und doch hatte Levin das Gefühl, etwas senke sich. Ein Druckwechsel ging durch den Raum, so leise, dass er ihn mehr in den Zähnen spürte als in den Ohren.
+
+Die Lampen wurden heller.
+
+Nein.
+
+Sie wurden nicht heller. Das übrige Licht wurde dunkler.
+
+Für einen Moment sah Levin jedes Gesicht zu scharf. Eliahs blasse Stirn. Anikas Hand an seiner Schulter. Frau Hedigers geschlossene Lider. Marlenes Daumen, der jetzt still auf der Kamera lag. Reck mit offenem Mund, als hätte er gerade etwas sagen wollen und vergessen, welches Geräusch dazugehörte.
+
+Dann zog der Wagen nach vorn.
+
+Nicht stark. Nur genug, dass die Körper im Abteil dieselbe kleine Bewegung machten. Ein gemeinsames Nicken, unfreiwillig, fast höflich. Irgendwo rutschte ein Koffer ein paar Zentimeter gegen die Wand der Ablage und blieb liegen. Ein Verschluss klackte. Glas berührte Glas.
+
+Unter dem Zug antwortete Metall.
+
+Nicht der helle Riss von vorhin. Nicht dieses kurze Teilen. Diesmal war es tiefer, matter. Ein langes Nachgeben, als würde etwas Schweres sich auf seine endgültige Position einigen und dabei nicht ganz einverstanden sein.
+
+Levin hielt den Atem an.
+
+Er hatte nicht beschlossen, es zu tun. Sein Körper tat es vor ihm.
+
+Der Wagen wurde langsamer.
+
+Jetzt war es nicht mehr zu verwechseln. Das Zittern unter den Füßen zerfiel in einzelne Stöße. Zwischen den Stößen entstanden kleine Lücken, und in jede Lücke fiel etwas vom Innenraum hinein: ein Atemzug, Stoff, ein Klicken, das feuchte Schlucken eines Menschen, der nicht sprechen wollte.
+
+Draußen wechselte das Schwarz.
+
+Der Tunnel war nicht mehr einfach Wand. Oder sie waren aus ihm heraus. Oder zwischen Tunnel und Nacht geraten, in eine jener Stellen, die zur Strecke gehörten und zu keinem Ort. Levin sah Fels, dann nichts, dann eine helle Bewegung im Glas. Schnee vielleicht. Nicht viel. Nicht fallend genug, um sicher zu sein. Nur ein Streifen, der erschien und verschwand, als hätte jemand mit kalten Fingern über die Scheibe gestrichen.
+
+Der Zug rollte noch.
+
+Ein letztes Stück.
+
+Langsam genug, dass Levin plötzlich jedes Geräusch einzeln hören konnte. Die Räder nicht mehr als Rhythmus, sondern als einzelne Umdrehungen. Die Verbindung zwischen den Wagen nicht mehr als Hintergrund, sondern als müdes Arbeiten. Die Heizung als schwaches, unentschlossenes Ausatmen.
+
+Dann kam das Ende der Bewegung.
+
+Nicht abrupt.
+
+Es war, als würde der Zug die Geschwindigkeit verlieren, bevor er sie ganz hergab. Ein Rest Laufen blieb noch im Boden, obwohl draußen nichts mehr vorbeizog. Levin wartete auf den letzten Stoß, auf einen Beweis, dass Stillstand ein Ereignis war.
+
+Der Beweis kam nicht.
+
+Nur die Stille wurde schwerer.
+
+Die Lampen flackerten einmal.
+
+Nicht aus. Nicht wirklich. Ein kurzes Nachlassen, ein gelblicher Einbruch, danach ein anderes Licht. Flacher. Kälter. In der Decke sprang irgendwo eine Notleuchte an oder etwas, das wie eine Notleuchte wirken sollte. Die Farben der Sitze verloren Tiefe. Die Gesichter wurden älter.
+
+Niemand sagte sofort etwas.
+
+Das war schlimmer als Stimmen.
+
+Levin sah auf das Fenster. Draußen stand nun eine Dunkelheit, die sich nicht mehr bewegte. Am unteren Rand des Glases klebte ein heller Saum. Schnee. Diesmal konnte er es nicht wegdenken. Er lag auf etwas, das nahe am Zug sein musste: Schotter, Felskante, niedrige Mauer, vielleicht der Rand eines Tunnels. Kein Bahnhof. Kein Lichtmast. Kein Bahnsteig.
+
+Nur Schnee und Schwarz.
+
+Der Zug stand.
+
+Der Satz entstand in ihm, nüchtern und falsch einfach.
+
+Der Zug stand.
+
+Anika sagte Eliahs Namen. Sehr leise. Frau Hediger öffnete die Augen. Marlene hob endlich die Kamera ein Stück an, aber nicht bis zum Gesicht. Reck nahm das Telefon vom Ohr, obwohl er es nicht am Ohr gehabt hatte.
+
+Aus dem Lautsprecher kam ein Knacken.
+
+Alle sahen hinauf.
+
+Diesmal war es länger als zuvor. Ein trockenes elektrisches Räuspern, als suche eine Stimme den Weg durch eine Leitung, die zu kalt geworden war. Dann ein Atem, vielleicht. Oder nur die Anlage selbst.
+
+Levin wartete auf die Durchsage.
+
+Auf die Verspätung.
+
+Auf den Grund.
+
+Auf irgendein Wort, das aus dem Halt wieder Bahn machte.
+
+Nichts kam.
+
+Nur das Notlicht blieb an.
+
+Und im stehenden Wagen hörte Levin zum ersten Mal, wie viele Menschen gleichzeitig versuchten, nicht als Erste Angst zu haben.
+
+---
+
+## 12. Beat-local correction pass — Beat 3
+
+**Logic:** Pass. Die Bewegung aus Beat 2 löst sich jetzt in einen objektiven Halt auf. Kein plötzlicher Crash, sondern ein glaubhafter, körperlich wahrnehmbarer Stillstand.
+
+**Motivation:** Pass. Levin wartet weiterhin auf eine normale Erklärung und sucht Beweise: Licht, Fenster, Lautsprecher, Schnee, Bewegung. Er handelt noch nicht, weil die Situation gerade erst objektiv geworden ist.
+
+**Hidden-truth protection:** Pass. Kein 2008, kein Unfallbild, keine Weiche, kein Formular, keine Signatur, keine Erinnerung. Das metallische Echo bleibt körperlich und atmosphärisch.
+
+**Motif control:** Pass. Metallisches Nachgeben, Notlicht, Lautsprecher, Schnee/Kälte. Schnee ist jetzt real sichtbar, aber noch kein “falsch fallender” Weltbruch.
+
+**Seam into Beat 4:** Stark. Der letzte Satz öffnet sauber in die soziale Reaktion: Jetzt müssen die Passagiere mit dem Halt umgehen.
+
+---
+
+## 13. Draft — Beat 4
+
+Zuerst hustete jemand.
+
+Nicht laut. Nicht krank. Nur dieses kleine Geräusch, mit dem ein Mensch prüft, ob der Raum noch ihm gehört.
+
+Danach bewegte sich der Wagen wieder, obwohl der Zug stand. Mäntel raschelten. Schuhe schoben über den Boden. Ein Reißverschluss wurde geöffnet, wieder geschlossen, wieder geöffnet. Mehrere Hände griffen gleichzeitig nach Telefonen, als hätte der Halt ein Signal gegeben, das alle verstanden.
+
+Levin tat es nicht.
+
+Er sah den anderen dabei zu.
+
+Die Bildschirme gingen an wie kleine Fenster in eine Welt, die noch funktionieren sollte. Blaues Licht auf Wangen. Finger, die Codes eingaben. Stirnen, die sich senkten. Jemand hielt das Telefon höher, erst auf Brusthöhe, dann über den Kopf, als müsse Empfang irgendwo knapp unter der Decke hängen. Ein junger Mann auf der anderen Seite des Gangs drehte sein Gerät langsam, halb im Scherz, halb im Ernst.
+
+„Na toll“, sagte er. „Mitten im Berg.“
+
+Seine Begleiterin lachte zu spät.
+
+Das Lachen passte nicht ganz in den Wagen. Es war zu hell für das Notlicht und zu klein für die Stille danach.
+
+„Wahrscheinlich warten wir auf Gegenzug“, murmelte jemand.
+
+„Um die Zeit?“
+
+„Kann ja Verspätung haben.“
+
+„Oder Schnee.“
+
+„Es schneit doch kaum.“
+
+„Hier oben reicht kaum.“
+
+Die Sätze kamen nicht als Gespräch. Sie kamen wie Gegenstände, die Menschen in die Mitte legten, damit dort nicht nur der Halt lag. Jeder Satz war möglich. Jeder Satz war zu wenig.
+
+Anika hatte Eliah an sich gezogen, obwohl er nicht näher gerückt war. Ihre Hand lag auf seinem Hinterkopf, die Finger im Haar, Daumen am Ohr. Sie redete leise und ununterbrochen. Levin verstand einzelne Wörter nicht, nur die Bewegung der Stimme: beruhigen, erklären, füllen. Eliah ließ es geschehen. Seine Augen blieben offen. Er sah nicht zur Mutter, nicht zum Fenster, sondern auf die Stelle zwischen Lautsprecher und Lampe.
+
+„Es ist nur ein Halt“, sagte Anika.
+
+Vielleicht zu Eliah.
+
+Vielleicht zu sich selbst.
+
+Frau Hediger faltete ihre Zeitung zusammen. Langsam, Kante auf Kante. Sie tat es mit einer Genauigkeit, die in diesem Licht unangebracht wirkte. Als die Zeitung klein genug war, legte sie sie neben sich auf den freien Sitz und sah aus dem Fenster.
+
+Nicht suchend.
+
+Erkennend.
+
+Levin spürte den Impuls, sie anzusprechen. Er wusste nicht, was er hätte fragen sollen. Kennen Sie das? Wissen Sie, warum wir stehen? Haben Sie auch gehört—?
+
+Er tat es nicht.
+
+Marlene hatte die Kamera jetzt in der Hand. Nicht am Auge. Sie hielt sie tief, gegen den Bauch, das Objektiv nach unten. Ihr Blick ging durch den Wagen, aber nicht wie bei jemandem, der Material suchte. Sie sah auf Hände. Auf Münder. Auf die Art, wie Menschen versuchten, aus ihren Gesichtern vernünftige Gesichter zu machen.
+
+Dann traf ihr Blick Levin.
+
+Nur kurz.
+
+Er sah weg, und diesmal ärgerte ihn, dass er es tat.
+
+Reck stand halb auf.
+
+Nicht ganz. Er hob sich nur aus dem Sitz, sah den Gang entlang, dann zur Tür, dann auf sein Telefon. Die Bewegung hatte etwas Absichtliches, als müsse zuerst jemand sichtbar machen, dass Warten nicht die einzige Möglichkeit war. Aber er setzte sich wieder, bevor daraus eine Handlung wurde.
+
+„Kein Netz“, sagte er.
+
+Niemand hatte ihn gefragt.
+
+Trotzdem prüften sofort noch mehr Menschen ihre Telefone.
+
+Levin nahm seines schließlich auch aus der Manteltasche. Der Bildschirm war kalt an den Fingern. Sarahs Name stand nicht dort. Keine neue Nachricht. Kein verpasster Anruf. Oben rechts suchte das Gerät nach Empfang und fand ein Zeichen, das so schwach war, dass es mehr Behauptung als Verbindung war.
+
+Er öffnete die Nachrichten nicht.
+
+Wenn er Sarah jetzt schrieb, was hätte er schreiben sollen?
+
+Zug steht kurz im Tunnel oder irgendwo danach. Alles wahrscheinlich normal. Ich glaube, ich kenne ein Geräusch, das ich nicht kennen kann.
+
+Er steckte das Telefon wieder weg.
+
+Zu schnell.
+
+Der Mann, der vorhin gelacht hatte, stand nun wirklich auf und zog seinen Mantel glatt. „Ich schau mal, ob vorne jemand ist.“
+
+Seine Begleiterin fasste nach seinem Ärmel. „Lass doch. Die sagen schon was.“
+
+„Sie sagen ja eben nichts.“
+
+Das war der erste Satz, der hängen blieb.
+
+Nicht weil er besonders klug war. Weil er eine Lücke benannte, die alle schon gemerkt hatten und niemand besitzen wollte.
+
+Aus dem Lautsprecher kam weiterhin nichts.
+
+Die Notleuchte summte leise. Oder das Summen war vorher schon dagewesen und fiel erst jetzt auf. Die Heizung hatte aufgehört, warm zu atmen. Noch war es nicht kalt im Wagen, aber die Wärme war nicht mehr neu. Sie stand herum und wurde dünner.
+
+Ein Kind weiter hinten fragte, ob sie aussteigen müssten.
+
+Jemand sagte nein.
+
+Zu schnell.
+
+Levin sah wieder zum Fenster. Draußen war nichts, das eine Entscheidung erlaubte. Schnee, Schwarz, eine nahe Kante, vielleicht Fels. Der Zug stand nicht an einem Ort, an dem Menschen ausstiegen. Das war immerhin klar. Oder es sollte klar sein.
+
+Er wünschte sich einen Bahnhof.
+
+Irgendeinen hässlichen, leeren, gelb beleuchteten Bahnhof mit einem Automaten, einer Uhr, einem Papierkorb, einem Schild. Etwas, das nicht freundlich sein musste, nur eindeutig. Ein Ort, der beweisen konnte, dass sie auf einer Strecke standen und nicht in einer Pause zwischen zwei Dingen.
+
+„Es wird sicher gleich eine Durchsage kommen“, sagte Anika.
+
+Eliah schüttelte den Kopf.
+
+Ganz klein.
+
+Levin sah es. Marlene sah es auch. Frau Hediger vielleicht ebenfalls, obwohl sie noch immer aus dem Fenster blickte.
+
+Reck sah es nicht. Er sah in den Gang, als hätte dort jemand eine Antwort liegen lassen, die nur noch aufgehoben werden musste.
+
+Der Wagen wartete.
+
+Nicht ruhig.
+
+Nur gemeinsam.
+
+Und in dieses gemeinsame Warten hinein wurde die Stille der Bahn plötzlich zu etwas, das jemand füllen konnte.
+
+---
+
+## 14. Beat-local correction pass — Beat 4
+
+**Logic:** Pass. Der objektive Halt aus Beat 3 erzeugt natürliche soziale Reaktionen: Husten, Telefone, Erklärungsversuche, Ärger, Elternberuhigung, erste Bewegung in den Gang.
+
+**Motivation:** Pass. Levin nutzt die anderen als Kalibrierung. Er will herausfinden, ob ihr Verhalten die Situation normal macht, bekommt aber nur verstreute, unbefriedigende Normalisierungen.
+
+**Hidden-truth protection:** Pass. Kein 2008, keine Weiche, kein Formular, keine Signatur, keine Tilgung, keine Erklärung der Zugregel. Kein “Geisterzug”-Gerede.
+
+**Motif control:** Pass. Lautsprecherstille, Notlicht, Handyempfang, dünner werdende Wärme, Schnee als Druck von außen. Marlenes Kamera bleibt Beobachtungsinstrument, nicht Lösung.
+
+**Tobias control:** Pass with watch. Reck steht kurz halb auf und setzt ein erstes soziales Signal, aber übernimmt noch nicht vollständig. Beat 5 kann daraus sauber seine Deutungshoheit entwickeln.
+
+**Seam into Beat 5:** Stark. Der letzte Satz öffnet den Raum für Tobias: Die Gruppe wartet nicht mehr nur, sie braucht jemanden, der die Stille füllt.
+
+---
+
+## 15. Draft — Beat 5
+
+Reck stand diesmal ganz auf.
+
+Nicht hastig. Nicht so, als hätte ihn der Satz des Mannes herausgezogen. Eher, als sei die Entscheidung schon vorher da gewesen und habe nur auf den richtigen Moment gewartet. Er strich seinen Mantel glatt, obwohl nichts daran unordentlich war, und trat einen halben Schritt in den Gang.
+
+Dadurch veränderte sich der Wagen.
+
+Nicht stark. Niemand machte ihm Platz, weil er noch keinen Platz brauchte. Aber mehrere Blicke hoben sich. Einige nur kurz. Andere blieben an ihm hängen, dankbar oder genervt, beides kaum zu unterscheiden. In einem stehenden Zug bekam schon der Mensch Autorität, der aufrecht genug stand.
+
+Reck schien das zu wissen.
+
+„Bevor jetzt alle einzeln nach vorn laufen“, sagte er, „sollten wir kurz warten, bis das Personal informiert.“
+
+Seine Stimme war ruhig. Nicht laut, aber klar genug, dass sie über das Summen der Notleuchte kam. Der Mann im Gang hielt inne.
+
+„Die informieren ja nicht“, sagte er.
+
+„Noch nicht.“
+
+Reck legte eine kleine Pause nach den Worten. Als hätte er damit nicht widersprochen, sondern geordnet.
+
+Levin sah auf seine Hände.
+
+Er wollte, dass Reck recht hatte. Das ärgerte ihn fast mehr als Reck selbst. Eine Stimme, die Ordnung versprach, war nützlich. Selbst wenn sie zu glatt war. Selbst wenn sie nicht mehr wusste als alle anderen.
+
+„Bei einer Störung“, sagte Reck, „gibt es Abläufe. Die können nicht einfach Türen öffnen, wenn wir irgendwo auf freier Strecke stehen.“
+
+Das Wort traf Levin, bevor der Satz fertig war.
+
+Störung.
+
+Nicht hart. Nicht wie ein Schlag. Eher wie kaltes Wasser auf eine Stelle im Rücken, die schon wund war. Sein Körper zog sich zusammen, klein und sofort. Er wusste den Grund nicht. Er hasste, dass es einen Grund gab.
+
+Reck sprach weiter.
+
+„Vielleicht ist es nur ein Signalhalt. Vielleicht wartet der Lokführer auf Freigabe. Vielleicht ist weiter vorne etwas blockiert. Das heißt nicht, dass hier irgendetwas Gefährliches passiert.“
+
+„Und Sie wissen das, weil?“ fragte Marlene.
+
+Sie sagte es ohne Schärfe.
+
+Genau deshalb klang es schärfer.
+
+Reck drehte den Kopf zu ihr. Für einen Augenblick war sein Gesicht nicht verärgert, sondern überrascht. Als hätte nicht die Frage ihn gestört, sondern die Tatsache, dass sie ausgerechnet von dort kam.
+
+„Ich sage nur, was vernünftig ist.“
+
+„Das ist nicht ganz dasselbe.“
+
+Ein paar Menschen sahen zu Marlene. Nicht lange. Die meisten wandten sich sofort wieder Reck zu. Widerspruch war interessant, aber Führung war praktischer.
+
+Reck lächelte knapp.
+
+„Natürlich nicht.“
+
+Er sagte es so, dass es wie Zustimmung klang und die Frage trotzdem erledigt war.
+
+Levin bemerkte, wie gut Reck darin war. Nicht brillant. Nicht manipulativ im großen Sinn. Nur geübt. Er nahm Unruhe nicht weg, er gab ihr eine Form, in der sie sich nicht mehr ganz so unanständig anfühlte. Zuständigkeit. Personal. Abläufe. Freigabe. Wörter wie Haltegriffe.
+
+Anika sah zu ihm hinauf. „Können Sie jemanden holen?“
+
+Reck nickte nicht sofort. Er sah erst den Gang hinunter, dann zur Tür zwischen den Wagen, dann wieder auf sein Telefon, als müsse er die Reihenfolge der Möglichkeiten prüfen.
+
+„Ich kann nachsehen, ob im nächsten Wagen jemand vom Personal ist.“
+
+Der Mann, der hatte gehen wollen, hob die Hände. „Bitte. Dann gehen Sie.“
+
+Das hätte spöttisch klingen können. Tat es aber nicht ganz. In seiner Stimme lag Erleichterung darüber, dass jemand anders die erste Bewegung übernahm.
+
+Reck nahm das an.
+
+„Bleiben Sie am besten hier“, sagte er. „Wenn alle gleichzeitig im Gang stehen, wird es nur unübersichtlich.“
+
+Unübersichtlich.
+
+Wieder so ein Wort. Kein gefährliches Wort. Kein Wort, das etwas enthüllte. Trotzdem sah Levin plötzlich den Gang als Engstelle. Menschen, Taschen, geschlossene Türen, Licht, das zu flach auf Gesichter fiel. Er sah nicht mehr nur den Wagen, sondern eine Abfolge von Entscheidungen, die jemand hätte treffen müssen, bevor es so weit kam.
+
+Hätte.
+
+Der Gedanke war da, bevor er ihn zurückholen konnte.
+
+Jemand hätte.
+
+Er wusste nicht, wer.
+
+Er wusste nicht, was.
+
+Er sah auf.
+
+Marlene beobachtete nicht Reck. Sie beobachtete Levin.
+
+Diesmal sah er nicht weg.
+
+Nicht sofort.
+
+Ihr Blick war nicht weich. Das machte ihn erträglicher. Sie wirkte nicht, als wolle sie ihn beruhigen. Eher, als habe sie bemerkt, dass ein Wort im Raum für ihn schwerer gewesen war als für die anderen. Das war keine Hilfe. Aber es war auch keine Einbildung.
+
+Reck trat einen Schritt in Richtung Wagenübergang.
+
+Der Zug stand dabei so vollständig still, dass seine Bewegung zu laut wurde. Sein Schuh auf dem Boden. Das leichte Streifen des Mantels an einer Sitzkante. Das Klicken seines Telefons, als er es sperrte und wieder entsperrte. Er war nicht groß, aber im Gang wirkte er größer, weil alle anderen saßen.
+
+„Ich komme gleich zurück“, sagte er.
+
+Niemand bat ihn darum.
+
+Niemand hielt ihn auf.
+
+Frau Hediger sah vom Fenster weg. Ihr Blick folgte Reck nur bis zur Tür. Dann blieb er an Levin hängen, nicht lange, aber lange genug, dass Levin das Gefühl hatte, sie habe nicht Reck gehen sehen, sondern etwas anderes wiedererkannt.
+
+Die Verbindungstür zum nächsten Wagen gab ein trockenes Geräusch von sich, als Reck sie öffnete.
+
+Für einen Moment kam kältere Luft herein.
+
+Nicht viel. Nur ein Streifen durch den Gang, dünn und scharf. Er trug einen Geruch mit sich: Metall, nasser Stoff, etwas Altes aus der Wagenverbindung. Levin spürte ihn im Hals.
+
+Reck blieb an der Schwelle stehen.
+
+„Sehen Sie?“ sagte er, ohne sich umzudrehen. „Alles normal.“
+
+Da war nichts in dem Satz, woran man sich hätte stoßen müssen.
+
+Genau deshalb stieß Levin sich daran.
+
+Reck ging durch die Tür. Sie fiel hinter ihm nicht ganz zu, sondern blieb einen Spalt offen. Das Notlicht aus dem nächsten Wagen lag darin wie ein zweiter, schmalerer Raum.
+
+Im Abteil sagte niemand etwas.
+
+Aber das Warten hatte sich verändert.
+
+Vorher hatte es allen gehört.
+
+Jetzt gehörte es Reck.
+
+---
+
+## 16. Beat-local correction pass — Beat 5
+
+**Logic:** Pass. Beat 5 wächst direkt aus Beat 4: Die soziale Lücke wird durch Reck gefüllt. Er übernimmt nicht durch Gewalt, sondern durch Aufstehen, klare Stimme und scheinbar vernünftige Ordnung.
+
+**Motivation:** Pass. Reck will Kontrolle und Form. Die Passagiere lassen ihn gewähren, weil seine Sicherheit nützlich ist. Levin will die Ordnung glauben, misstraut aber der Glätte.
+
+**Hidden-truth protection:** Pass. Kein 2008, keine Weiche, kein Formular, keine Signatur, kein `in Ordnung`, keine Tilgung. `Störung` wird einmal als harmlos-plausibles Bahnstörungswort genutzt und löst nur körperliche Reaktion aus.
+
+**Tobias control:** Pass with watch. Reck ist dominant, aber noch nicht Karikatur. Er benutzt `Abläufe`, `Zuständigkeit` indirekt über die Denkstruktur, aber keine überladene Schuldsprache wie `Abnahme`, `Protokoll`, `in Ordnung`.
+
+**Marlene control:** Pass. Sie widerspricht präzise, aber wird nicht zur Romance- oder Trostfigur. Ihre Funktion bleibt Wahrnehmungsgegenpol.
+
+**Seam into Beat 6:** Stark. Reck geht Richtung Personal / Wagenübergang. Dadurch kann Mancini organisch erscheinen oder von dieser Bewegung her in den Raum treten, ohne “magisch” aufzutauchen.
