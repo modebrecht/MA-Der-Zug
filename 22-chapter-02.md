@@ -1,12 +1,12 @@
 # Chapter 2 — Halt
 
-> **Status:** DRAFT IN PROGRESS — beats 1–5 drafted and beat-local correction passed  
+> **Status:** DRAFT COMPLETE — beats 1–7 drafted and beat-local correction passed; awaiting full Chapter 2 control pass  
 > **Project:** *Der Zug / Albula*  
 > **Chapter range:** Act I / Chapter 2  
 > **Working title:** Halt  
 > **Target length:** ca. 3,200–3,700 German words  
 > **POV / tense for later prose:** 3rd person limited, tight on Levin; German prose in Präteritum.  
-> **Current drafting rule:** Next clean step: draft Beat 6 only. Do not jump ahead to Beat 7.
+> **Current drafting rule:** Next clean step: run full Chapter 2 control pass, then update callback ledger.
 
 ---
 
@@ -387,7 +387,7 @@ The plan preserves:
 - no Tilgung before its planned structural moment;
 - no discarded Transit / all-dead drift.
 
-**Next clean step:** Draft **Beat 6 only** under the prose protocol.
+**Next clean step:** Full Chapter 2 control pass, then callback ledger update.
 
 ---
 
@@ -942,3 +942,369 @@ Jetzt gehörte es Reck.
 **Marlene control:** Pass. Sie widerspricht präzise, aber wird nicht zur Romance- oder Trostfigur. Ihre Funktion bleibt Wahrnehmungsgegenpol.
 
 **Seam into Beat 6:** Stark. Reck geht Richtung Personal / Wagenübergang. Dadurch kann Mancini organisch erscheinen oder von dieser Bewegung her in den Raum treten, ohne “magisch” aufzutauchen.
+
+---
+
+## 17. Draft — Beat 6
+
+Reck kam nicht sofort zurück.
+
+Der Spalt in der Verbindungstür blieb offen. Er war zu schmal, um wirklich etwas vom nächsten Wagen zu zeigen, aber breit genug, dass Licht daraus in den Gang fiel. Nicht heller. Nur anders. Ein matter Streifen, der über den Boden lief und an den Schuhen der Sitzreihe endete.
+
+Levin sah nicht hin.
+
+Dann sah er doch hin.
+
+Jenseits der Tür bewegte sich etwas. Erst nur ein Schatten im Notlicht, dann ein Ärmel, dann Recks Schulter. Er stand nicht weit weg. Er war nicht gegangen, um zu suchen. Er stand im Übergang und sprach mit jemandem, den Levin nicht sehen konnte.
+
+Die Stimmen kamen gedämpft durch den Spalt.
+
+Recks Stimme zuerst. Ruhig, aber jetzt mit einer Kante darin. Nicht Angst. Anspruch.
+
+„...die Leute warten auf eine Information.“
+
+Die andere Stimme antwortete zu leise.
+
+Levin kannte sie trotzdem.
+
+Mancini.
+
+Der Name war nicht ausgesprochen worden. Trotzdem lag er sofort da, als hätte jemand ein Ticket auf den Tisch gelegt.
+
+Die Tür öffnete sich weiter.
+
+Kälte kam herein, diesmal deutlicher. Nicht der große Winter von draußen, eher die Kälte der Zwischenräume: Metall, Gummi, nasser Stoff, alte Luft, die keine Menschen behalten hatte. Reck trat einen Schritt zurück in den Wagen. Hinter ihm erschien Mancini.
+
+Er trug die Uniformjacke geschlossen. Der Kragen saß ordentlich. An seiner Hand hing das kleine Gerät, mit dem er vorhin Fahrkarten kontrolliert hatte, als wäre es für diesen Moment ebenso geeignet wie für jeden anderen. Sein Gesicht zeigte keine Eile. Das hätte beruhigend sein können.
+
+War es nicht.
+
+„Meine Damen und Herren“, sagte Mancini.
+
+Mehrere Köpfe wandten sich zu ihm. Die Worte waren groß genug für den ganzen Wagen, aber seine Stimme blieb fast privat. Er musste sie nicht heben. Die Stille half ihm.
+
+„Bitte bleiben Sie auf Ihren Plätzen.“
+
+„Warum stehen wir?“ fragte jemand sofort.
+
+„Wir haben einen Halt.“
+
+Ein paar Menschen lachten nicht. Das war schlimmer, als wenn sie es getan hätten.
+
+Reck drehte sich halb zu ihm. „Das sehen wir.“
+
+Mancini nickte, als hätte Reck etwas Korrektes gesagt und nicht etwas Gereiztes.
+
+„Der Zug bleibt vorerst geschlossen.“
+
+„Vorerst wie lange?“ fragte Anika.
+
+Mancini sah zu ihr. Dann zu Eliah. Einen Moment zu lang. Nicht neugierig. Nicht mitleidig. Eher prüfend, ob die beiden dort waren, wo sie sein sollten.
+
+„Sobald ich Ihnen mehr sagen kann, informiere ich Sie.“
+
+„Das ist keine Antwort“, sagte Marlene.
+
+Mancini wandte den Kopf zu ihr. Zum ersten Mal veränderte sich etwas in seinem Gesicht. Nicht viel. Nur eine kleine Verlangsamung um die Augen, als habe er sie nicht erkannt, sondern eingeordnet.
+
+„Es ist die Antwort, die ich Ihnen geben kann.“
+
+Der Satz fiel ruhig in den Wagen.
+
+Nicht unhöflich.
+
+Nicht freundlich.
+
+Nur abgeschlossen.
+
+Levin spürte, wie die Menschen den Satz annahmen und sich gleichzeitig dagegen wehrten. Ein Rascheln ging durch die Sitze. Jemand atmete hörbar aus. Der Mann, der hatte nach vorn gehen wollen, schnaubte leise. Reck blieb stehen, zu nah bei Mancini, als wolle er neben der offiziellen Stimme stehen und zugleich ihr Richter sein.
+
+„Ist es eine technische Sache?“ fragte Reck. „Signal? Strecke? Wetter?“
+
+Mancini sah ihn an.
+
+„Der Zug ist angehalten.“
+
+„Von wem?“
+
+Diesmal antwortete Mancini nicht sofort.
+
+Levin bemerkte das, bevor er wusste, warum es wichtig war. Nicht die Pause selbst. Die Art der Pause. Sie war zu sauber. Kein Suchen nach Worten. Kein Abwägen, wie viel man sagen durfte. Eher ein geschlossenes Fach, das gar nicht erst geöffnet wurde.
+
+„Bitte halten Sie den Gang frei“, sagte Mancini.
+
+Recks Gesicht verlor für einen Augenblick seine höfliche Form.
+
+„Sie können uns nicht einfach sagen, dass wir sitzen bleiben sollen, ohne irgendeine Information zu geben.“
+
+„Doch“, sagte Mancini.
+
+Das Wort war leise.
+
+Es reichte.
+
+Nicht wie ein Befehl. Nicht wie eine Drohung. Schlimmer: wie eine Diensthandlung, die keine Zustimmung brauchte.
+
+Levin sah auf Mancinis Hände. Das Kontrollgerät. Die Finger. Den Daumen, der nicht zitterte. Er dachte an Listen. Nicht an eine bestimmte Liste. Nur an die Idee, dass irgendwo Namen standen und Haken daneben gesetzt wurden. Das war absurd. Es kam nicht aus der Szene. Es kam aus ihm.
+
+Er schluckte.
+
+Mancini blickte durch den Wagen. Nicht suchend. Zählend.
+
+Bei Frau Hediger hielt sein Blick kaum länger an als bei den anderen. Trotzdem senkte sie die Augen zuerst. Das war so klein, dass Levin sich nicht sicher war, ob er es gesehen hatte. Aber es machte den Raum enger.
+
+„Die Türen bleiben geschlossen“, sagte Mancini. „Die Verbindung zwischen den Wagen bleibt frei. Niemand geht hinaus. Niemand versucht, die Türen zu öffnen.“
+
+„Weil es gefährlich ist?“ fragte Anika.
+
+„Weil der Zug geschlossen bleibt.“
+
+Eliah zog die Schultern hoch.
+
+Marlene hob die Kamera nicht. Sie hielt sie nur fester.
+
+Reck lachte einmal, kurz und trocken. „Das ist doch absurd.“
+
+Mancini sah ihn an. Nicht streng. Nicht beleidigt.
+
+„Absurd ist kein Betriebszustand.“
+
+Für einen Moment wurde es sehr still.
+
+Levin spürte das Wort nicht wie `Störung`. Es traf nicht seinen Rücken, nicht den Magen. Es traf etwas anderes: die Erwartung, dass auf eine Frage eine Folge kommen musste. Ursache, Maßnahme, Zeit. Der Satz klang korrekt und leer zugleich, wie ein Schild an einer Tür, hinter der niemand mehr arbeitete.
+
+Mancini steckte das Kontrollgerät in die Jackentasche.
+
+„Ich komme wieder.“
+
+„Wann?“ fragte Reck.
+
+Mancini hatte sich schon halb zur Tür gewandt.
+
+„Wenn es notwendig ist.“
+
+Er ging nicht schnell. Er ging auch nicht langsam. Er ging mit der Geschwindigkeit eines Menschen, der auf einem fahrenden Zug gelernt hatte, nie hastig auszusehen. Die Verbindungstür blieb diesmal offen, bis Reck sie mit einer kurzen Bewegung zuzog.
+
+Das Geräusch war klein.
+
+Im Wagen wirkte es endgültig.
+
+Reck stand noch einen Augenblick im Gang. Er hatte keine Antwort bekommen, aber alle hatten gesehen, dass er gefragt hatte. Das genügte fast, um ihm die Stellung zu lassen.
+
+Fast.
+
+Levin sah zum Lautsprecher.
+
+Er blieb stumm.
+
+Und in der Stille, die Mancini zurückließ, war etwas verändert: Vorher hatte eine Erklärung gefehlt.
+
+Jetzt fehlte sie offiziell.
+
+---
+
+## 18. Beat-local correction pass — Beat 6
+
+**Logic:** Pass. Beat 6 folgt organisch aus Beat 5: Reck geht Richtung Personal, die Tür/der Übergang öffnet den Raum für Mancini. Mancini erscheint nicht magisch, sondern aus dem nächsten Wagen / Servicebereich.
+
+**Motivation:** Pass. Reck will Bestätigung und Zuständigkeit. Die Passagiere wollen Ursache/Zeitplan. Mancini will Ordnung herstellen, aber keine echte operative Klarheit geben. Levin beobachtet, weil die offizielle Nicht-Antwort ihn stärker beunruhigt als offene Panik.
+
+**Hidden-truth protection:** Pass. Keine Albula-2008-Erklärung, kein Unfallbild, kein Formular, keine Signatur, keine Weichenheizung, kein `in Ordnung`, keine Tilgung, keine Zugregel-Erklärung.
+
+**Mancini control:** Pass. Er ist höflich, kontrolliert, kalt, aber kein Orakel. Er gibt keine Lore und keinen technischen Monolog. Seine stärkste Wirkung entsteht durch Auslassung.
+
+**Tobias control:** Pass. Reck bleibt sozial dominant, aber bekommt keine echte Bestätigung. Er ist nicht lächerlich und noch nicht moralisch ausbuchstabiert.
+
+**Seam into Beat 7:** Stark. Mancini hinterlässt eine offizielle Lücke: keine Ursache, keine Zeit, keine Maßnahme. Genau diese prozedurale Leerstelle kann jetzt Levins unplatziertes Bahn-Wissen triggern.
+
+---
+
+## 19. Draft — Beat 7
+
+Niemand sprach sofort.
+
+Das war jetzt nicht mehr dieselbe Stille wie vorher. Vor Mancini hatte die Stille gewartet. Jetzt hatte sie eine Form bekommen. Sie war von einer Uniform betreten, benannt und wieder verlassen worden.
+
+Der Zug war angehalten.
+
+Die Türen blieben geschlossen.
+
+Mehr nicht.
+
+Levin merkte, wie sein Kopf versuchte, aus diesen Sätzen eine Reihenfolge zu bauen. Nicht aus Angst. Aus etwas, das älter war als Angst und sachlicher. Eine Frage nach dem nächsten Schritt. Nicht: Was passiert mit uns? Sondern: Was müsste jetzt passieren?
+
+Eine Durchsage.
+
+Eine Rückmeldung vom Lokführer.
+
+Eine Angabe zur Ursache.
+
+Ein Zeitfenster.
+
+Wenn kein Zeitfenster, dann wenigstens eine Kategorie. Signal. Fahrleitung. Strecke. Wetter. Hindernis. Technische Störung. Irgendein Wort, das nicht alles sagte, aber den Rahmen setzte.
+
+Nichts davon war gekommen.
+
+Reck stand noch im Gang. Er hatte sich nicht hingesetzt. Vielleicht wollte er nicht so aussehen, als sei er zurückgeschickt worden. Er sah zu der Verbindungstür, dann zu den Passagieren, dann auf sein Telefon.
+
+„Er wird jemanden holen“, sagte er.
+
+Es klang nicht ganz wie eine Überzeugung.
+
+„Oder er klärt es ab.“
+
+Auch das klang nicht besser.
+
+Marlene sagte nichts. Sie sah auf den Spalt unten an der Verbindungstür, wo das Licht des nächsten Wagens in einer dünnen Linie über den Boden fiel. Frau Hediger hatte die Zeitung nicht mehr bei sich. Sie lag neben ihr, ordentlich gefaltet, nutzlos.
+
+Anika strich Eliah über den Hinterkopf. „Siehst du? Das Personal weiss Bescheid.“
+
+Eliah schüttelte den Kopf nicht. Er nickte aber auch nicht.
+
+Levin hörte sich selbst atmen.
+
+Zu laut.
+
+Er versuchte, seine Aufmerksamkeit auf etwas Einfaches zu legen. Sitzstoff. Hand. Fenster. Notlicht. Aber jedes einfache Ding führte zurück zu der Lücke. Die Lücke hatte Ränder. Genau das machte sie schlimm.
+
+Wenn der Zug aus betrieblichen Gründen stand, hätte jemand das Wort sagen können.
+
+Betrieblich.
+
+Levin spürte, wie sein Magen sich bei dem Wort zusammenzog, obwohl niemand es ausgesprochen hatte. Er hätte nicht sagen können, warum gerade dieses Wort in ihm auftauchte. Es war kein Erinnerungsbild. Kein Gesicht. Kein Ort. Nur ein Wort mit zu vielen Türen dahinter.
+
+Reck räusperte sich.
+
+„Vielleicht muss zuerst eine Sichtprüfung gemacht werden.“
+
+Levin sah ihn an.
+
+Zu schnell.
+
+Reck bemerkte es und deutete den Blick falsch. „Das ist normal. Wenn vorne irgendetwas auf der Strecke ist oder eine Meldung kommt, können die nicht einfach weiterfahren.“
+
+Sichtprüfung.
+
+Das Wort blieb nicht zwischen den Sitzen liegen wie `Signal` vorhin. Es ging durch Levin hindurch, ohne ihn zu fragen. Nicht als Bedeutung. Als Reihenfolge. Anhalten. Sichern. Melden. Prüfen. Freigeben. Weiterfahren. Wörter, die sich in seinem Körper ordneten, als hätten sie dort schon einmal gelegen.
+
+Er drückte die Hände gegeneinander.
+
+Nicht sichtbar.
+
+Nicht sichtbar genug.
+
+„Geht es Ihnen gut?“ fragte Marlene.
+
+Leise.
+
+Nicht fürs Abteil.
+
+Levin wollte `ja` sagen. Es wäre einfach gewesen. Ein kleines Wort, nützlich und falsch. Stattdessen nickte er nur, was noch falscher war.
+
+„Sie haben gerade ausgesehen, als wüssten Sie etwas“, sagte sie.
+
+Das war zu nah.
+
+Er sah zum Fenster. Schnee am unteren Rand. Dunkelheit darüber. Kein Mast. Kein Signallicht. Kein Mensch mit Lampe auf der Strecke. Nichts, das seine Reaktion erklären konnte.
+
+„Ich weiss nichts.“
+
+Es kam schärfer heraus, als er wollte.
+
+Marlene nahm es hin. Kein Zurückweichen. Kein Trost. Sie senkte nur den Blick auf seine Hände, dann wieder auf sein Gesicht.
+
+„Das habe ich nicht gefragt.“
+
+Levin antwortete nicht.
+
+Weil er keine Antwort hatte, die nicht schlimmer war als Schweigen.
+
+Über der Tür zum Wagenübergang flackerte die kleine Anzeige.
+
+Nicht die Deckenlampe. Nicht das Notlicht. Die Anzeige, die vorhin noch irgendeinen Ort oder eine Uhrzeit hätte zeigen sollen. Levin hatte sie bisher nicht beachtet, gerade weil solche Dinge zum Hintergrund gehörten. Sie liefen, bis sie nicht liefen. Sie sagten den nächsten Halt, die Richtung, manchmal die Uhrzeit. Kleine Gewissheiten über den Köpfen.
+
+Jetzt war dort nur ein matter Streifen Licht.
+
+Dann ein schwarzes Feld.
+
+Dann Zeichen.
+
+Nicht sofort lesbar. Erst einzelne Segmente, dünn und rot, dann eine Linie, die nicht zu einem Buchstaben wurde. Ein Punkt. Zwei Punkte. Eine Zahl, die erschien und wieder verschwand.
+
+Reck sah ebenfalls hin.
+
+„Na also“, sagte er, zu schnell. „Da kommt was.“
+
+Alle warteten auf den Text.
+
+Kein Text kam.
+
+Die Anzeige sprang.
+
+`02:47`
+
+Levin blinzelte.
+
+Die Zahlen blieben.
+
+Nicht lang genug, um sicher zu sein. Lang genug, dass niemand, der hingesehen hatte, behaupten konnte, dort sei nichts gewesen. Dann flackerte die Anzeige, zerlegte die Ziffern in rote Bruchstücke und setzte sie wieder zusammen.
+
+`02:47`
+
+„Ist das die Uhrzeit?“ fragte jemand.
+
+„Kann nicht sein“, sagte eine Frau weiter hinten.
+
+Mehrere Menschen sahen auf ihre Telefone. Finger glitten über gesperrte Bildschirme. Ein Mann fluchte leise. Reck hob sein Telefon ebenfalls, aber der Bildschirm blieb dunkel, weil er nicht entsperrte. Oder weil er für einen Moment vergessen hatte, wie.
+
+Levin sah nicht auf sein Telefon.
+
+Er sah auf die Anzeige.
+
+Sein Mund war trocken. Seine Finger fühlten sich taub an, als hätte die Kälte aus dem Wagenübergang sie von innen berührt. In seinem Kopf suchte etwas nach einem Datum, einem Ort, einer Nacht, und fand nur Widerstand.
+
+Nein.
+
+Nicht suchen.
+
+Nicht jetzt.
+
+Die Anzeige ging aus.
+
+Der Wagen wurde dadurch nicht dunkler. Trotzdem fühlte es sich an, als sei ein Stück Licht entfernt worden, das vorher nicht hätte da sein dürfen.
+
+Mancini kam nicht zurück.
+
+Der Lautsprecher blieb stumm.
+
+Draußen lag Schnee auf etwas, das kein Bahnhof war.
+
+Levin wartete darauf, dass jemand lachte, widersprach, eine Erklärung fand, einen Defekt nannte, einen Neustart, eine falsche Uhr, einen Softwarefehler, irgendeinen harmlosen Grund, den er übernehmen konnte.
+
+Niemand tat es schnell genug.
+
+Dann zeigte die Anzeige noch einmal dieselbe Zeit.
+
+`02:47`
+
+Und Levin wusste nicht, was ihn mehr erschreckte: dass die Zahl falsch war — oder dass sein Körper sie nicht für neu hielt.
+
+---
+
+## 20. Beat-local correction pass — Beat 7
+
+**Logic:** Pass. Beat 7 entsteht direkt aus Mancinis offizieller Nicht-Antwort. Die Spannung kommt nicht aus neuer Action, sondern aus der prozeduralen Leerstelle: keine Ursache, kein Zeitfenster, keine echte Durchsage, kein sichtbarer nächster Schritt.
+
+**Motivation:** Pass. Levin versucht weiterhin, die Situation über normale Bahnkategorien zu stabilisieren. Seine Angst wächst nicht beliebig, sondern weil er merkt, dass er unplatziert weiss, was fehlen müsste.
+
+**Hidden-truth protection:** Pass. Kein 2008, keine Weichenheizung, kein Formular, keine Signatur, kein `in Ordnung`, keine klare Erinnerung, keine Erklärung des Zugmechanismus. `Sichtprüfung` triggert nur körperliche/prozedurale Reihenfolge.
+
+**Mancini control:** Pass. Mancini bleibt abwesend und wirkt gerade durch die hinterlassene Lücke. Keine Lore, keine Erklärung.
+
+**Tobias control:** Pass. Reck versucht sofort, wieder Ordnung zu formulieren, aber seine Sicherheit brüchigt an. Er bleibt plausibel, nicht Karikatur.
+
+**Marlene control:** Pass. Sie beobachtet Levin präzise und stellt eine gefährlich genaue Frage, aber sie tröstet nicht und erklärt nichts.
+
+**Motif control:** Pass. Anzeige / `02:47`, Notlicht, Schnee, Lautsprecherstille, prozedurales Bahn-Wissen. Kein falscher Schnee-Weltbruch, keine Tilgung.
+
+**Chapter-end function:** Pass. Der Schluss verschiebt die Störung von “unangenehmer Halt” zu “Muster”: `02:47` ist objektiv sichtbar und für Levin körperlich nicht neu, bleibt aber rational noch als Defekt/Anzeigeproblem maskierbar.
