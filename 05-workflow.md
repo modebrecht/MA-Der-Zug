@@ -1,6 +1,6 @@
 # Workflow — Der Zug / Albula
 
-> **Status:** CANON WORKFLOW v2  
+> **Status:** CANON WORKFLOW v3  
 > **Function:** Writing process, quality gates and anti-drift rules.  
 > **Routing rule:** This file does **not** maintain the active file list. File order, current filenames and audit history are controlled by the start guide. If a filename changes, update the start guide — not this workflow.
 
@@ -84,33 +84,100 @@ PROJECT LOCKS — DER ZUG / ALBULA
 
 ---
 
-## 3. Target length and pacing
+## 3. Target length, rhythm and pacing
 
 ### Book target
 
-The novel target remains **70,000–80,000 words**, roughly **280–320 pages**.
+The novel’s current working target is **80,000–95,000 words**.
 
-Recommended ideal working target: **about 75,000 words / 20 chapters / around 300 pages**.
+Soft warning line: **100,000 words**.  
+Hard compression audit line: **105,000 words projected**.
+
+Recommended ideal working target: **about 85,000–90,000 words / 20 chapters**, with strongly varied chapter lengths.
+
+The book should not become 20 versions of Chapter 2. Chapter 2 may be broad because it carries the first public disruption. That breadth is not the default pattern.
 
 ### Chapter target ranges
 
 | Chapter type | Target range |
 |---|---:|
-| Quiet transition / atmosphere | 2,800–3,300 words |
-| Normal mystery / investigation | 3,300–4,000 words |
-| Ensemble / conflict | 4,000–4,800 words |
-| Pivot / reveal / final chapter | 4,800–5,800 words |
+| Short pressure / aftermath / sharp turn | 1,800–2,800 words |
+| Quiet transition / atmosphere | 2,600–3,400 words |
+| Normal mystery / investigation | 3,200–4,200 words |
+| Ensemble / conflict | 4,000–5,200 words |
+| Pivot / reveal / final chapter | 4,800–6,200 words |
 
-The target may bend if the chapter earns it. It may not collapse into summary.
+The target may bend if the chapter earns it. It may not collapse into summary and it may not sprawl because every beat sounds good in isolation.
+
+### Rhythm guardrail — added after Chapter 2
+
+Before every chapter beat plan, decide the chapter’s **rhythm function**:
+
+| Function | Likely shape |
+|---|---|
+| Build atmosphere / transition | fewer beats, sensory precision, no over-explaining |
+| Make a figure concrete | objects, habits, speech, contradictions, not abstract theme-language |
+| Mystery investigation | clue → resistance → partial misread → new question |
+| First-time rupture / reveal | can be broader, but must change the whole state |
+| Aftermath / pressure chapter | short, sharp, emotionally specific |
+| Payoff chapter | dense, causally tight, no decorative motifs |
+
+### Compression gate
+
+At the beat-plan stage, ask:
+
+1. Does this chapter need 6–7 beats, or would 3–5 stronger beats do the job?
+2. Is any beat mainly atmospheric repetition from the previous beat?
+3. Is the chapter adding new dramatic state, or only more beautiful pressure?
+4. Would a shorter chapter create better rhythm after a broad chapter?
+5. Is the chapter’s main job figure-concretion, mystery escalation, payoff, or aftermath?
+
+If the answer is unclear, compress the plan before prose.
+
+### Projection check
+
+After every completed chapter, calculate:
+
+```text
+average chapter word count so far × 20 = projected manuscript length
+```
+
+If projected length is:
+
+- **under 95k:** fine;
+- **95k–105k:** track compression opportunities;
+- **over 105k:** mandatory compression audit before the next act.
+
+### Immediate Ch3 pacing directive
+
+Chapter 3 must not simply escalate the mystery again.
+
+Its main job is to make **Tobias Reck physically and socially concrete** so that his later absence damages the world.
+
+Use:
+
+- Platz / seat logic,
+- coat / luggage / phone / ticket,
+- cold coffee / coffee ring,
+- one liability or process sentence,
+- one believable self-justification.
+
+Avoid:
+
+- more abstract system-guilt language,
+- another display-centered `02:47` beat,
+- a second Mancini non-answer as the main engine,
+- making Tobias a caricature before Ch5.
 
 ### Beat size
 
 | Beat size | Use |
 |---|---|
-| <300 words | Usually too thin; likely a fragment. |
-| 400–600 words | Good for atmospheric movement. |
+| <300 words | Usually too thin; likely a fragment, unless used as a deliberate pressure cut. |
+| 300–500 words | Good for compressed pressure, aftermath or a sharp turn. |
+| 400–700 words | Good for atmospheric movement. |
 | 600–900 words | Good for dialogue, clue discovery, conflict or psychological turn. |
-| >900 words | Check if it should split into two beats. |
+| >900 words | Check if it should split into two beats or be cut. |
 
 Every beat must change the dramatic state:
 
@@ -127,9 +194,10 @@ Before any chapter prose, do this:
 1. Read the start guide for current file order and chapter-specific foundations.
 2. Read the relevant planning / canon material indicated there.
 3. Check the callback ledger for active seeds, motif load, hidden truths and pending payoffs.
-4. Build a **beat plan only**.
-5. Run the logic and motivation gate.
-6. Stop and wait for explicit “Go” before prose.
+4. Decide the chapter’s rhythm function and target range.
+5. Build a **beat plan only**.
+6. Run the logic, motivation and compression gate.
+7. Stop and wait for explicit “Go” before prose.
 
 No full chapter prose without a beat plan.
 
@@ -151,8 +219,11 @@ ROUTING:
 CONTENT GOAL:
 [One sentence: what must have changed by chapter end.]
 
+RHYTHM FUNCTION:
+[atmosphere / figure-concretion / investigation / rupture / aftermath / payoff]
+
 TARGET LENGTH:
-~[2,800 quiet | 3,500 average | 4,500 ensemble/pivot | 5,500 major reveal] German words.
+~[2,200 sharp | 3,000 quiet | 3,600 average | 4,500 ensemble | 5,500 major reveal] German words.
 
 CARRY-OVER:
 - Levin emotional state: [ ]
@@ -181,12 +252,14 @@ For each beat, list:
 - Seam from previous beat
 - Target word count
 
-STEP 1b — Logic & motivation gate.
+STEP 1b — Logic, motivation and compression gate.
 Before writing prose, check:
 - Does every action follow from character incentive?
 - Is any obvious action being artificially withheld?
 - Does every beat cause the next beat?
 - Does any beat only explain or re-feel the previous beat? If yes, merge.
+- Does the chapter need this many beats, or would fewer stronger beats work better?
+- Does this chapter vary rhythm from the previous chapter?
 - Does the chapter preserve the world rules of the train?
 - Does it avoid discarded Transit/GPT drift?
 - Does it protect Levin's hidden truth until its planned reveal?
@@ -453,6 +526,7 @@ Check silently and apply fixes before showing the beat:
 - Language: German naturalness, no English syntax, no weak abstraction.
 - Repetition: snow / cold / light / memory only if changed in function.
 - Seam: does the beat repeat the previous beat’s sensory catalogue?
+- Compression: does the beat earn its length, or can it be tightened without losing state-change?
 
 ### Output after every beat
 
@@ -460,8 +534,8 @@ Check silently and apply fixes before showing the beat:
 Beat-Pass: [clean / fixes applied]
 Word count for this beat: [N]
 Cumulative chapter word count: [N] / [target]
-Self-evaluation: [dense enough / expand recommended + why]
-Next: expand this beat or proceed to beat #[N+1]?
+Self-evaluation: [dense enough / expand recommended / compress recommended + why]
+Next: expand, compress, or proceed to beat #[N+1]?
 ```
 
 ---
@@ -472,6 +546,12 @@ Next: expand this beat or proceed to beat #[N+1]?
 
 ```text
 Good skeleton, but too compressed. Before [action X], let Levin dwell longer on [sensory / emotional / spatial element]. Add concrete train details, body reaction and the pressure of the unsaid. Extend by ~300–500 words. Do not advance the plot.
+```
+
+### Beat too broad
+
+```text
+The beat is strong but too broad for the chapter's rhythm function. Keep the state-change and best sensory anchors, but cut repetition, ornamental pressure and re-feeling. Compress by ~15–25%. Do not remove causal clarity.
 ```
 
 ### Beat too explanatory
@@ -496,7 +576,7 @@ Approved. Continue with beat #[N+1] under the same rules. Keep seam discipline: 
 
 ## 14. End-of-chapter checks — required
 
-When the final beat of a chapter is drafted, run two passes before moving on.
+When the final beat of a chapter is drafted, run three passes before moving on.
 
 ### Pass 1 — Chapter harvest
 
@@ -572,7 +652,20 @@ Check:
 - next chapter has a carry-over point,
 - act-transition obligations remain visible.
 
-Only after both passes: ask what should happen next.
+### Pass 3 — Rhythm and projection check
+
+Check:
+
+- final chapter word count;
+- average chapter word count so far;
+- projected manuscript length at 20 chapters;
+- whether this chapter was broad because it earned it, or broad by habit;
+- which motifs need rest in the next chapter;
+- whether the next chapter should be shorter, sharper or more concrete.
+
+If projection is above 105k, flag mandatory compression before the next act.
+
+Only after all three passes: ask what should happen next.
 
 ---
 
@@ -639,7 +732,18 @@ Check for:
 - guilt as flat punishment,
 - action-thriller instead of atmospheric mystery.
 
-### Block F — Workflow learning
+### Block F — Rhythm / market-shape audit
+
+Check:
+
+- projected word count;
+- chapter length variation;
+- whether broad chapters alternate with shorter pressure chapters;
+- whether atmosphere is creating suspense or just volume;
+- whether each chapter has a distinct rhythm function;
+- whether any sequence needs compression before the next act.
+
+### Block G — Workflow learning
 
 List repeated errors:
 
@@ -650,7 +754,9 @@ List repeated errors:
 - too little character want,
 - too much Schaffner explanation,
 - too early guilt leakage,
-- weak seams.
+- weak seams,
+- chapters too consistently broad,
+- too much beautiful pressure without state-change.
 
 Add recurring errors to the next act’s watchlist / callback ledger.
 
@@ -696,7 +802,7 @@ Other passengers:
 - Eliah:
 - Robert:
 
-Disappearances / Tilgungen:
+Disappeaarances / Tilgungen:
 - [name | chapter | what changed in memory/material traces]
 
 Open clues:
@@ -719,11 +825,131 @@ Canon risks to watch next:
 - [ ] Marlene reduced to romance
 - [ ] too much abstract Schuld language
 - [ ] weak transition seam
+- [ ] chapter sprawl / insufficient rhythm variation
 ```
 
 ---
 
-## 17. What came from the old Bero workflow
+## 17. Manuscript completion pipeline — after full first draft
+
+The first complete draft is not the sellable manuscript yet. After Chapter 20, run these stages in order.
+
+### Stage 1 — Structural read
+
+Goal: prove the book works as a whole.
+
+Check:
+
+- global causal chain;
+- all chapter functions;
+- act turns;
+- reveal timing;
+- disappearance order;
+- whether each central figure earns their mirror function;
+- whether the ending follows from the whole book rather than merely explaining it.
+
+Deliverables:
+
+- full structural audit;
+- list of required scene additions;
+- list of cuts / merges;
+- revised chapter map.
+
+### Stage 2 — Callback and payoff audit
+
+Goal: make every major seed fair.
+
+Check:
+
+- each clue has a return or payoff;
+- each motif transforms when repeated;
+- no clue is so hidden that it feels unfair;
+- no clue is so obvious that it spoils the reveal;
+- ledger entries match manuscript reality.
+
+Deliverables:
+
+- updated callback ledger;
+- missing payoff list;
+- overused motif list;
+- cut/demote list for decorative motifs.
+
+### Stage 3 — Compression / straffung pass
+
+Goal: reduce volume without damaging atmosphere.
+
+Check:
+
+- repeated sensory catalogues;
+- doubled beats;
+- scenes that only re-feel earlier pressure;
+- overlong dialogue;
+- abstract Schuld language;
+- chapters that do not change enough state for their length.
+
+Target:
+
+- usually cut **8–15%** from the full draft;
+- if manuscript exceeds 105k, cut more aggressively before style polish.
+
+### Stage 4 — Character pass
+
+Goal: make every central figure feel like a person before they become a function.
+
+Check:
+
+- Tobias concrete before disappearance;
+- Marlene independent before emotional loss;
+- Hediger wounded rather than merely knowing;
+- Anika/Jan relational damage prepared;
+- Selma/Eliah handled without kitsch;
+- Mancini not over-explained;
+- Sarah has contour beyond illness.
+
+### Stage 5 — World-rule and logic pass
+
+Goal: protect the sacred internal logic.
+
+Check:
+
+- train rules;
+- Tilgung mechanics;
+- memory rewriting;
+- route/time consistency;
+- power/signal/door behavior;
+- what Mancini can and cannot know/say;
+- what Levin can and cannot know at each stage.
+
+### Stage 6 — Line edit / style polish
+
+Goal: keep the voice, remove mannerism.
+
+Check:
+
+- repeated sentence rhythms;
+- too many isolated one-line paragraphs;
+- German clunks;
+- overused words/images;
+- decorative darkness/cold/silence;
+- dialogue naturalness;
+- chapter endings that all use the same pressure shape.
+
+### Stage 7 — Reader / market package
+
+Goal: prepare the book for outside evaluation.
+
+Create:
+
+- 1-page pitch / hook;
+- 2–3 page synopsis with ending;
+- character list;
+- comparable titles / positioning;
+- polished first 30–50 pages;
+- query/submission package or self-publishing launch checklist, depending on route.
+
+---
+
+## 18. What came from the old Bero workflow
 
 Kept as process:
 
@@ -757,7 +983,7 @@ Removed:
 
 ---
 
-## 18. What not to do
+## 19. What not to do
 
 - Do not use “write on” for whole chapters.
 - Do not write multiple beats unless explicitly asked.
@@ -771,10 +997,12 @@ Removed:
 - Do not reuse discarded ages.
 - Do not let Mancini explain what the scene can show.
 - Do not misunderstand the ending as repairing the past.
+- Do not let every chapter sprawl just because the prose is atmospheric.
+- Do not confuse beautiful pressure with necessary dramatic movement.
 
 ---
 
-## 19. Working sentence
+## 20. Working sentence
 
 When unsure, return to this:
 
